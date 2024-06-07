@@ -73,7 +73,7 @@ offset = 6
 
 In the decompiler, I noticed how `/bin/ls/` is located at `0x00404058`
 
- ![image-20211221173130465](image-20211221173130465.png)
+ ![](https://raw.githubusercontent.com/octo-kumo/images/master/image-20211221173130465.png)
 
 If I edit `/bin/ls/` into `/bin/sh`, as they have same amount of characters, I can gain remote shell access.
 
