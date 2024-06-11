@@ -1,3 +1,8 @@
+---
+created: 2024-06-11T01:17
+updated: 2024-06-11T01:26
+---
+
 # Little Star
 
 Accessing the source we find this at the beginning
@@ -29,28 +34,32 @@ Accessing `/star`
 }
 ```
 
-![](starfall.gif)
+![](https://res.cloudinary.com/kumonochisanaka/image/upload/v1718083589/2024/06/5bfa41cc5716bfd6be99ef65cfb5c1f8.gif)
 
 It seems that the cookie sent determines the result of the image sent back
 
 And we have the convenient hint `<!-- twinkle_star -> little_star -> flag -->`
 
 ## `little_star`
+
 ```json
 {
   "content": "<div class=\"cookie\">little_star</div> <br /><img class=\"image\" src=\"/static/img/yellostar.gif\">"
 }
 ```
 
-![](yellostar.gif)
+![](https://res.cloudinary.com/kumonochisanaka/image/upload/v1718083590/2024/06/a053b83fe2a44c805308c22d7faa0d57.gif)
 
 ## `flag`
+
 ```json
 {
   "content": "<div class=\"cookie\">FLAG!</div> <br /><div class=\"text-rainbow\">CDDC22{B4by_W3b_H4cking_3asy++}</div>"
 }
 ```
+
 And we got the flag
+
 ```text
 CDDC22{B4by_W3b_H4cking_3asy++}
 ```

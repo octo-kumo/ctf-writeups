@@ -1,8 +1,8 @@
 ---
-created: 2024-06-11T01:17
+created: 2024-06-11T01:33
 updated: 2024-06-11T01:40
 ---
 
-# BrainHack CDDC 2022
+# Cyberthon 2022
 
 Transferred here @2024

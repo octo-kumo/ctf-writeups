@@ -1,7 +1,8 @@
 ---
 created: 2024-06-11T01:17
-updated: 2024-06-11T01:19
+updated: 2024-06-11T01:25
 ---
+
 # Bypass
 
 By decompiling, we first try to figure out the login process

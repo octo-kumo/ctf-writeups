@@ -1,3 +1,8 @@
+---
+created: 2024-06-11T01:17
+updated: 2024-06-11T01:27
+---
+
 # MIPS
 
 By sending the file to a decompiler we get
@@ -30,6 +35,7 @@ void func(char **arg3, int32_t arg1, int32_t arg_5ch, int32_t arg_1ch, int32_t a
 ```
 
 As we can see all the characters are XOR-ed with 6
+
 And since XOR is reversible
 
 ```text

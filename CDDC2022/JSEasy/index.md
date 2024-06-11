@@ -1,3 +1,8 @@
+---
+created: 2024-06-11T01:17
+updated: 2024-06-11T01:25
+---
+
 # JS Easy
 
 ```js
@@ -33,7 +38,8 @@ var flag = g;
 It seems that the only thing missing is variable declaration of `g`
 
 Adding `var g = '';` fixes the problem
-![](flag.png)
+
+![](https://res.cloudinary.com/kumonochisanaka/image/upload/v1718083520/2024/06/c6b6b9f73806b24be67d7ff72326a48c.png)
 
 Indeed it is
 

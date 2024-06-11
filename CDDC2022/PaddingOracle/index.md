@@ -1,4 +1,10 @@
+---
+created: 2024-06-11T01:17
+updated: 2024-06-11T01:27
+---
+
 # Padding Oracle
+
 ```text
 Use any ONE of the servers below to complete the challenge. 
 If you are unable to establish connection to a server of your choice, you may select another one from the list below. 
@@ -10,7 +16,9 @@ nc 3.1.195.91 8573
 nc 13.215.159.21 8573
 nc 18.140.61.166 8573
 ```
+
 From the source given, we can see that the input just have to be `{flag}` in base64
+
 ```python
 try : 
     s = raw_input("Please give me base64 string:").decode('base64') 
@@ -23,6 +31,7 @@ except Exception as e:
 iv = random_bytes(16)
 enc = s.replace("{flag}", flag)
 ```
+
 ```shell
 $ echo '{flag}' | base64
 # e2ZsYWd9Cg==

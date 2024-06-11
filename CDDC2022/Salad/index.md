@@ -1,3 +1,8 @@
+---
+created: 2024-06-11T01:17
+updated: 2024-06-11T01:28
+---
+
 # Salad
 
 Using exiftool or just hex editor, we can find a `tEXt` chunk near the end of the image
@@ -55,7 +60,7 @@ print(data)
 print(''.join([chr(ord(i) - 3) if i != "{" and i != "}" and i != "_" else i for i in data.decode()]))
 ```
 
-![](generated_qr.png)
+![](https://res.cloudinary.com/kumonochisanaka/image/upload/v1718083689/2024/06/146e7f37237c90b39e603944355d8cac.png)
 
 ```text
 128

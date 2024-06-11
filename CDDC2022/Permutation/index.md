@@ -1,5 +1,12 @@
+---
+created: 2024-06-11T01:17
+updated: 2024-06-11T01:27
+---
+
 # permutation
+
 Sending the exe to a decompiler gives us this
+
 ```cpp
 void main(undefined8 param_1, int64_t param_2, int64_t param_3, int64_t param_4)
 {
