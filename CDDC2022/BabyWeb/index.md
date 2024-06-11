@@ -1,0 +1,20 @@
+---
+created: 2024-06-11T01:17
+updated: 2024-06-11T01:19
+---
+
+# Baby Web
+
+Vising the web page we can find some interesting elements
+
+![](https://res.cloudinary.com/kumonochisanaka/image/upload/v1718083111/2024/06/2974dab1266a7c43fdddc3fb06b12815.png)
+
+```javascript
+Array.from(document.querySelectorAll(".flag")).map(e=>e.textContent).join('')
+```
+
+And we get our flag
+
+```text
+CDDC22{H3lL0_Spac3_tr4v3l3r5}
+```
