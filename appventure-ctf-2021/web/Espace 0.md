@@ -1,3 +1,8 @@
+---
+created: 2024-06-06T23:50
+updated: 2024-06-10T23:20
+---
+
 ## Espace 0
 
 The hardest challenge of the web category, but was actually solved before Login Part 0 since my brain was dead
@@ -59,6 +64,3 @@ flag{yet_another_mal-coded_library}
 ```
 
 Flag obtained
-
-
-

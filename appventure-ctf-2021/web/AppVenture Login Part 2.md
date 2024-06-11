@@ -1,3 +1,8 @@
+---
+created: 2024-06-06T23:50
+updated: 2024-06-10T23:20
+---
+
 ## AppVenture Login Part 2
 
 > Ok, you got the flag, but I bet you'll never get my password!
@@ -77,4 +82,3 @@ flag{oops_looks_like_youre_not_blind}
 ```
 
 Flag obtained
-

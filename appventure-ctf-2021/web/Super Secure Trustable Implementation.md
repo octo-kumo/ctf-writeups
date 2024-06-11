@@ -1,3 +1,8 @@
+---
+created: 2024-06-06T23:50
+updated: 2024-06-10T23:20
+---
+
 ## Super Secure Trustable Implementation
 
 > I've added a bunch of filters, so my app must be really secure now.
@@ -72,7 +77,7 @@ With some experimenting, we can find that
 (<type 'object'>,)
 ```
 
-The tuple inherits directly from `object`, hence we can find the list of types (extends object) by sending the payload 
+The tuple inherits directly from `object`, hence we can find the list of types (extends object) by sending the payload
 
 ##### `{{().__class__.__bases__[0].__subclasses__()}}`
 

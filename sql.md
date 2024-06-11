@@ -1,3 +1,8 @@
+---
+created: 2024-06-09T16:58
+updated: 2024-06-10T23:19
+---
+
 # SQL Database Version Check Cheat Sheet
 
 ```sql

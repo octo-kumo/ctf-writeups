@@ -1,3 +1,8 @@
+---
+created: 2024-06-06T23:50
+updated: 2024-06-10T23:20
+---
+
 ## Printwriter 1
 
 > My wonderful app works both as an echo server and a file lister!

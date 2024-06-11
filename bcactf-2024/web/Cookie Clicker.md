@@ -1,3 +1,8 @@
+---
+created: 2024-06-09T17:56
+updated: 2024-06-10T23:18
+---
+
 >You need to get 1e20 cookies, hope you have fun clicking!
 
 ---
@@ -16,6 +21,7 @@ socket.on('receivedError', (msg) => {
 ```
 
 The server relies on client side events for resetting the value, so we can just, *not tell the server*.
+
 Run the following in console.
 
 ```js
@@ -25,6 +31,7 @@ socket.emit('click', JSON.stringify({"power":2e20, "value":send.value}));//run a
 ```
 
 Easy.
+
 ```
 bcactf{H0w_Did_Y0u_Cl1ck_S0_M4ny_T1mes_123}
 ```

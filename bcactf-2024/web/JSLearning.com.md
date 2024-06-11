@@ -1,3 +1,8 @@
+---
+created: 2024-06-10T16:37
+updated: 2024-06-10T23:17
+---
+
 > Hey, can you help me on this Javascript problem? Making strings is hard.
 
 ---
@@ -11,6 +16,7 @@ c = eval(req.body).toString();
 ```
 
 At first glance, this is a `eval` with whitelist problem.
+
 Happens that there's a website called [JSFuck - Write any JavaScript with 6 Characters: []()!+](https://jsfuck.com/).
 
 We will encode `Deno.readTextFileSync('flag.txt')` into `[]()+!`, and submit it to get...

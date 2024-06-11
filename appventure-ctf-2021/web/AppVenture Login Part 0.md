@@ -1,3 +1,8 @@
+---
+created: 2024-06-06T23:50
+updated: 2024-06-10T23:20
+---
+
 ## AppVenture Login Part 0
 
 > AppVenture Login page must be the most secure right? URL: http://35.240.143.82:4208/

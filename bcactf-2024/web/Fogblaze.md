@@ -1,8 +1,14 @@
+---
+created: 2024-06-09T18:06
+updated: 2024-06-10T23:17
+---
+
 > Can you bypass this website's new stateless CAPTCHA system?
 
 ---
 
 Seems to be a MD5 captcha system.
+
 # First we will generate the entire hash table for 4 letter words.
 
 ```python
@@ -43,6 +49,7 @@ print(f"http://challs.bcactf.com:30477/flag?token={data['captchaToken']}")
 ```
 
 Simple.
+
 ```
 http://challs.bcactf.com:30477/flag?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXB0Y2hhSWQiOiJkOWE5ZThiNi1hODUwLTQ5NDQtYTEwNC0wMmJiYTYyNDJhMTMiLCJyb3V0ZUlkIjoiL2ZsYWciLCJjaGFsbGVuZ2VJZCI6bnVsbCwic29sdmVkIjo3NSwidG90YWwiOjc1LCJkb25lIjp0cnVlLCJpYXQiOjE3MTc5NzMwMzQsImV4cCI6MTcxNzk3MzA5NH0._XcYLLZL_YJ8GpngWfDsp_fAz-G_92NSXUEwoTIdhC4
 ```

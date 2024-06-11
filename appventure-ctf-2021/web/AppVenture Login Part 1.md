@@ -1,3 +1,8 @@
+---
+created: 2024-06-06T23:50
+updated: 2024-06-10T23:20
+---
+
 ## AppVenture Login Part 1
 
 > Well, I haven't taken CS6131 yet but databases should be easy right??
