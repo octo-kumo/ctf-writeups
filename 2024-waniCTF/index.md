@@ -1,6 +1,6 @@
 ---
 created: 2024-06-21T19:36
-updated: 2024-06-23T09:48
+updated: 2024-06-23T09:59
 ---
 
 # waniCTF 2024
@@ -13,7 +13,7 @@ Final results were **#27** 3623 points.
 
 # Favourite Challenge
 
-1. [Promises](rev/promises)
+1. Promises
     I wrote a linker for it, my efforts paid off
-2.  [elec](web/elec.md)
+2.  elec
 	Fancy electron XSS, felt good when I solved it
