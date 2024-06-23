@@ -1,6 +1,6 @@
 ---
 created: 2024-06-09T16:20
-updated: 2024-06-10T23:19
+updated: 2024-06-22T01:50
 ---
 
 > I was working on this website and wanted you to check it out. The code is a bit of a mess, since it's only an extremely early version. In fact, you're the very first user, with ID 1!
@@ -16,7 +16,7 @@ Make a guess for the statement.
 UPDATE table SET name="<input>" WHERE id='1'
 ```
 
-With some [version checking](../../sql.md)...
+With some [version checking](sql.md)...
 
 ```sql
 UPDATE table SET name=""||(SELECT sqlite_version())||"" WHERE id='1'
