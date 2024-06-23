@@ -1,10 +1,11 @@
 ---
 created: 2024-06-22T07:29
-updated: 2024-06-22T07:42
+updated: 2024-06-23T10:50
 ---
-It seems that the validation step would take a very  long time, which means its gonna be the delay attack!
-i.e. measure the time between you sending the data, and the server responding with "Wrong"
 
+It seems that the validation step would take a very  long time, which means its gonna be timing attack!
+
+i.e. measure the time between you sending the data, and the server responding with "Wrong"
 
 ```python
 from pwn import *
@@ -35,6 +36,8 @@ for j in range(10):
     min_index = res.index(min(res))
     curr+=str(min_index).encode()
     print(f"Current: {curr} {res[min_index]} {res}")
+```
+
 ```
 Current: b'2' 1.0258064000081504
 Current: b'24' 0.9410080999950878
