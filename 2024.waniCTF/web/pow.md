@@ -1,7 +1,9 @@
 ---
 created: 2024-06-21T19:41
-updated: 2024-06-21T20:14
+updated: 2024-06-23T08:44
 ---
+
+# Pow
 
 > compute hash to get your flag
 > ハッシュを計算してフラグを取ろう

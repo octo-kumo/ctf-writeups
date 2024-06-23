@@ -1,8 +1,9 @@
 ---
 created: 2024-06-21T22:48
-updated: 2024-06-22T01:31
+updated: 2024-06-23T08:43
 ---
 
+# Elec
 # Analysis
 
 - Seems to be XSS, but the flag is stored on the file system `/flag`.

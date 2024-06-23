@@ -1,7 +1,9 @@
 ---
 created: 2024-06-21T20:15
-updated: 2024-06-21T22:48
+updated: 2024-06-23T08:43
 ---
+
+# Noscript
 
 > Ignite it to steal the cookie!
 
