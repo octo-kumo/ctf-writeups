@@ -6,7 +6,7 @@ updated: 2024-06-23T03:45
 > JavaScript の Promise について勉強した。なんかいろいろできますね！
 > I just learnt about JavaScript promises. They are a very powerful construct!
 
-# Analysis
+## Analysis
 
 The script file is very huge, but has a clear pattern to it.
 
@@ -40,7 +40,7 @@ Since every line of code, have dependencies $l_{dep}\ge 0$, I find the actual ex
 
 After extracting the actual logic, I will do further analysis.
 
-# Logic Extraction
+## Logic Extraction
 
 ## Parsing the script
 
@@ -298,7 +298,7 @@ a5153 = a5151 ? alert("correct") : alert("wrong"); // last step
 
 We can see that this seems to be verifying 32 characters against some fancy 5000 operation `(str) => bool` function.
 
-# Solving it
+## Solving it
 
 I first tried writing my own backpropagation logic, but all the variables $a_1\dots a_{32}$ are only narrowed down to... $a_n\in[70,5488]$.
 
@@ -404,7 +404,7 @@ FLAG{pr0M1S3s_@ND_a5YnC'n_@w@17}
 
 And there we go.
 
-# Extra: Backpropagation
+## Extra: Backpropagation
 
 Spent a lot of time on this, a script that starts from the end, and propagates up, solving for values as it goes. Didn't work sadly.
 

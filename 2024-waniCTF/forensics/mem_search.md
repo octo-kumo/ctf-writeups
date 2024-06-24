@@ -21,7 +21,7 @@ Yup, its a windows memdump.
 
 The memory of notepad has been dumped, let's examine it.
 
-# notepad.exe strings sorted
+## notepad.exe strings sorted
 
 ![image.png](https://res.cloudinary.com/kumonochisanaka/image/upload/v1719093853/2024/06/55cfcdfba30fb91f652a46b49fd3cc66.png)
 

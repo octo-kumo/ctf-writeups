@@ -7,14 +7,14 @@ updated: 2024-06-15T19:03
 
 Ok now player 2 can move 1 or 2 tiles in one direction.
 
-# Koala (move 1)
+## Koala (move 1)
 
 - $d=1$, win to $d=0$.
 - $d=2$, evade to $d=3$.
 - $d=3$, evade to $d=4$ if same row/col, otherwise advance to $d=2$.
 - $d=4$, advance to $d=3$.
 - $d=5$, advance to $d=4$
-# Panda (move 2)
+## Panda (move 2)
 
 Manhattan distances $d$.
 

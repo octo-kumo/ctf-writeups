@@ -5,15 +5,15 @@ updated: 2024-06-23T09:59
 
 # waniCTF 2024
 
-Random ctftime ctf, from japan.
+**#27** 3623 points.
 
-Final results were **#27** 3623 points.
+Random ctftime ctf, from japan.
 
 ![image.png](https://res.cloudinary.com/kumonochisanaka/image/upload/v1719147032/2024/06/54a0d4afd9b0b7a37e83dd420a00d0a0.png)
 
-# Favourite Challenge
+## Favourite Challenge
 
-1. Promises
+1. rev/Promises
     I wrote a linker for it, my efforts paid off
-2.  elec
+2. web/elec
 	Fancy electron XSS, felt good when I solved it

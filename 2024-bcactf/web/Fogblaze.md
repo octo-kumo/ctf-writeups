@@ -9,7 +9,7 @@ updated: 2024-06-10T23:17
 
 Seems to be a MD5 captcha system.
 
-# First we will generate the entire hash table for 4 letter words.
+## First we will generate the entire hash table for 4 letter words.
 
 ```python
 import hashlib  
@@ -26,7 +26,7 @@ with open("hash_table.pkl", "wb") as f:
     pickle.dump(md5_hash_table, f)
 ```
 
-# Then, we will solve the captcha, and get the flag.
+## Then, we will solve the captcha, and get the flag.
 
 ```python
 import pickle  

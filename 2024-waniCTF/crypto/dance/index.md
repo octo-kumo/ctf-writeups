@@ -6,7 +6,7 @@ updated: 2024-06-23T06:15
 A realization was made that, the tokens only have `60*60*11` possible states.
 I can brute force it easily.
 
-# Encryption / Decryption
+## Encryption / Decryption
 Another realization was made when playing around that, the encryption function is also the decryption function.
 ```python
 for i in range(10):
@@ -23,7 +23,7 @@ ciphertext: e642d9b8afdbe8ad184938e529bdc102
 ciphertext: d06f51bfb2c5fa4373d68d85ae58009f
 ```
 
-# Solve
+## Solve
 ```python
 from tqdm import tqdm
 import hashlib
