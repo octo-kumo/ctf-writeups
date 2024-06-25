@@ -1,7 +1,9 @@
 ---
 created: 2024-06-22T19:23
-updated: 2024-06-23T03:45
+updated: 2024-06-25T10:23
 ---
+
+## Promises
 
 > JavaScript の Promise について勉強した。なんかいろいろできますね！
 > I just learnt about JavaScript promises. They are a very powerful construct!
@@ -12,7 +14,7 @@ The script file is very huge, but has a clear pattern to it.
 
 After some analysis of the problem we can make sense of all the statements.
 
-## Getter Setter Part
+### Getter Setter Part
 
 ```js
 GETTER_NAME = new Promise((resolve => {
@@ -26,7 +28,7 @@ I call this the getter/setter part because it is.
 
 `GETTER_NAME` is called to get the value of this item, and `SETTER_NAME` will resolve value to this promise, effectively setting the value of this promise.
 
-## Logic Part
+### Logic Part
 
 ```js
 (async () => SETTER_C( GETTER_A < GETTER_B ? GETTER_A : GETTER_B))();
@@ -34,7 +36,7 @@ I call this the getter/setter part because it is.
 
 After removing the `await`, this is just a event handler, after all dependencies of the setter, `GETTER_A` and `GETTER_B` have resolved, this logic will execute, while also resolving any other `GETTER` corresponding to the `SETTER`.
 
-## Idea
+### Idea
 
 Since every line of code, have dependencies $l_{dep}\ge 0$, I find the actual execution order by repeated marking lines as "ran".
 
@@ -42,7 +44,7 @@ After extracting the actual logic, I will do further analysis.
 
 ## Logic Extraction
 
-## Parsing the script
+### Parsing the script
 
 ```js
 import fs from "fs";
@@ -153,7 +155,7 @@ This produces a json file like this.
 },
   ```
 
-## Sorting the operations
+### Sorting the operations
 
 ```js
 import fs from "fs";
@@ -360,7 +362,7 @@ else:
 fs.writeFileSync(join(__dirname, "z3.generated.py"), code);
 ```
 
-## Generated Python File
+### Generated Python File
 
 ```python
 from z3 import *
