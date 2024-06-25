@@ -1,7 +1,9 @@
 ---
 created: 2024-06-22T07:29
-updated: 2024-06-23T10:50
+updated: 2024-06-24T23:18
 ---
+
+## Cheat Code
 
 It seems that the validation step would take a very  long time, which means its gonna be timing attack!
 

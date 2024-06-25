@@ -1,9 +1,14 @@
 ---
 created: 2024-06-22T05:17
-updated: 2024-06-22T05:23
+updated: 2024-06-24T23:15
 ---
 
-# Setup
+# I wanna be a streamer
+
+First time doing anything RTP related, fun challenge.
+
+## Setup
+
 - `Analyze > Decode as > Add+ > RTP` It should display the RTP type
 - `Edit > Preferences > Protocols > H.264` Set type to 96 to reflect the type in decoded RTP
 - Install https://github.com/volvet/h264extractor
