@@ -3,6 +3,7 @@ created: 2024-06-21T22:48
 updated: 2024-06-23T19:24
 tags:
   - fav
+  - web
 ---
 
 # Elec
