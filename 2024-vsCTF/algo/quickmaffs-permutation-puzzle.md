@@ -1,6 +1,9 @@
 ---
 created: 2024-06-14T14:44
-updated: 2024-06-15T00:42
+updated: 2024-06-26T14:08
+tags:
+  - fav
+  - algo
 ---
 
 > Given an integer n (n ≤ 10, 000), QuickMaffs challenges you to find out how many permutations of the numbers 1 through n satisfy the following condition $$
