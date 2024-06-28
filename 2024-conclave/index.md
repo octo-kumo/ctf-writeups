@@ -1,6 +1,8 @@
 ---
 created: 2024-06-27T07:05
-updated: 2024-06-27T07:15
+updated: 2024-06-27T21:07
+tags:
+  - box
 ---
 
 # thehackerconclave
