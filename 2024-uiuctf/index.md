@@ -1,11 +1,11 @@
 ---
 created: 2024-06-28T22:58
-updated: 2024-06-30T20:39
+updated: 2024-06-30T21:28
 ---
 
 # UIUCTF 2024
 
-**#28 7489**
+**#28** 7489 points.
 
 Despite having a team @WorldWideFlags of strong members, we faced a challenging competition and finished in 28th place.
 
