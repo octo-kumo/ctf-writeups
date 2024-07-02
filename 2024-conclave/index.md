@@ -1,11 +1,15 @@
 ---
 created: 2024-06-27T07:05
-updated: 2024-06-30T21:27
+updated: 2024-07-01T20:09
 tags:
   - box
 ---
 
 # thehackerconclave
+
+**#6** 1500 points.
+
+![image.png](https://res.cloudinary.com/kumonochisanaka/image/upload/v1719878953/2024/07/31175b24ee1a86c7d293bab9d120ee88.png)
 
 3 hour CTF with a bunch of typos and mis-management.
 
@@ -57,4 +61,3 @@ curl --request POST \
 ```shell
  ssh -i sshkey user1@ctf.thehackerconclave.es -p 20008
 ```
-
