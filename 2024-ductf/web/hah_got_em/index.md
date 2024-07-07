@@ -1,6 +1,6 @@
 ---
 created: 2024-07-05T20:39
-updated: 2024-07-07T03:58
+updated: 2024-07-07T05:42
 title: hah_got_em
 ---
 
@@ -34,7 +34,7 @@ So I used the docker shell and looked for flag.txt.
 ls proc/*/*/*/* | grep flag.txt
 ```
 
-```
+```txt
 ...
 proc/26/cwd/etc/flag.txt
 proc/26/cwd/tmp/flag.txt

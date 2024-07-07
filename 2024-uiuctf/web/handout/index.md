@@ -113,7 +113,7 @@ if (await getOrigin(parseInt(tab)) !== origin) return;          // the tab must 
 We can inject into that little popup via username and password.
 
 ```html
-<meta http-equiv="refresh" content="0; url=https://webhook.site/7ca133e5-af27-40b3-b713-5f5c700fd52d">
+<meta http-equiv="refresh" content="0; url=https://webhook.site">
 ```
 
 It works but is not useful.
