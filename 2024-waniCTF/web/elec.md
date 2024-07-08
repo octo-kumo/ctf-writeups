@@ -1,9 +1,8 @@
 ---
 created: 2024-06-21T22:48
-updated: 2024-07-07T22:09
+updated: 2024-07-08T00:41
 tags:
   - fav
-  - web
 ---
 
 ## Analysis

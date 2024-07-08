@@ -1,9 +1,8 @@
 ---
 created: 2024-06-14T14:44
-updated: 2024-06-27T18:06
+updated: 2024-07-08T00:44
 tags:
   - fav
-  - algo
 ---
 
 > Given an integer n (n ≤ 10, 000), QuickMaffs challenges you to find out how many permutations of the numbers 1 through n satisfy the following condition $$
@@ -23,7 +22,7 @@ Well it turns out that it is a known sequence [A000111 - OEIS](https://oeis.org/
 
 With this information we can then abuse wolfram to calculate the entire problem range for us.
 
-```wl
+```python
 Table[Mod[Piecewise[{{I^n EulerE[n], Mod[n, 2] == 0}, {-(((2 I)^(1 + n) (-1 + 2^(1 + n)) BernoulliB[1 + n])/(1 + n)), Mod[n, 2] == 1}}],1000000007], {n, 9001,10000}]
 ```
 
