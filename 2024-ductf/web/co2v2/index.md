@@ -1,7 +1,10 @@
 ---
 created: 2024-07-06T16:35
-updated: 2024-07-07T03:58
+updated: 2024-07-07T21:48
 title: co2v2
+solves: 59
+points: 222
+description: '"Payload primed, initiate deployment."'
 ---
 
 ## Analysis

@@ -1,9 +1,7 @@
 ---
 created: 2024-06-22T05:38
-updated: 2024-06-24T23:19
+updated: 2024-07-07T22:08
 ---
-
-## Tiny 10px
 
 The image is suspiciously large for its pixel size.
 

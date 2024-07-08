@@ -1,9 +1,7 @@
 ---
 created: 2024-06-11T01:17
-updated: 2024-06-11T01:25
+updated: 2024-07-07T23:08
 ---
-
-# Invisible Morse
 
 Opening the file we find a bunch of spaces and tabs, so...
 

@@ -1,9 +1,7 @@
 ---
 created: 2024-06-11T01:17
-updated: 2024-06-11T01:27
+updated: 2024-07-07T23:08
 ---
-
-# MIPS
 
 By sending the file to a decompiler we get
 

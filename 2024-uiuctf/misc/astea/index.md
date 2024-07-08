@@ -1,9 +1,8 @@
 ---
 created: 2024-06-29T00:39
-updated: 2024-06-30T20:33
+updated: 2024-07-07T23:05
 ---
 
-# Astea
 We are not allowed to use the following expressions in python: **assign**, **call**, **import**, **import from**, **binary operation (+-/ etc)**.
 
 First thing that came to mind were function decorators.

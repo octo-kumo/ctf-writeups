@@ -1,9 +1,8 @@
 ---
 created: 2024-06-21T20:15
-updated: 2024-06-23T08:43
+updated: 2024-07-07T22:09
 ---
 
-# Noscript
 This page is protected by csp `default-src 'self', script-src 'none'`.
 
 > Ignite it to steal the cookie!

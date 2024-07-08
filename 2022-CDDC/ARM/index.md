@@ -1,8 +1,7 @@
 ---
 created: 2024-06-11T01:17
-updated: 2024-06-11T01:19
+updated: 2024-07-07T23:07
 ---
-# ARM
 
 From the decompiled result we find two `strcmp`
 

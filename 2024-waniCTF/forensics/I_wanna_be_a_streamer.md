@@ -1,9 +1,7 @@
 ---
 created: 2024-06-22T05:17
-updated: 2024-06-24T23:15
+updated: 2024-07-07T22:09
 ---
-
-# I wanna be a streamer
 
 First time doing anything RTP related, fun challenge.
 

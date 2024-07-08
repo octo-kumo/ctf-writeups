@@ -1,7 +1,10 @@
 ---
 created: 2024-07-05T20:39
-updated: 2024-07-07T05:42
+updated: 2024-07-07T21:47
 title: hah_got_em
+solves: 173
+points: 129
+description: smh bad regex
 ---
 
 ## Analysis

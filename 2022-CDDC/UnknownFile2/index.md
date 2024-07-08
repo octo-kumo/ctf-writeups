@@ -1,9 +1,7 @@
 ---
 created: 2024-06-11T01:17
-updated: 2024-06-11T01:30
+updated: 2024-07-07T23:08
 ---
-
-# Unknown File 2
 
 Opening the file with a hex editor shows us that it is perhaps a PK zip
 

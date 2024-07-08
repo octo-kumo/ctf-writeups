@@ -1,9 +1,7 @@
 ---
 created: 2024-06-28T22:58
-updated: 2024-06-30T20:06
+updated: 2024-07-07T23:05
 ---
-
-# Determined
 
 The problem involves the determinant of a 5 by 5 matrix, where we can decide certain the value of cells, and some other values unknown.
 

@@ -1,9 +1,7 @@
 ---
 created: 2024-06-22T19:23
-updated: 2024-06-25T10:23
+updated: 2024-07-07T22:09
 ---
-
-## Promises
 
 > JavaScript の Promise について勉強した。なんかいろいろできますね！
 > I just learnt about JavaScript promises. They are a very powerful construct!

@@ -1,9 +1,8 @@
 ---
 created: 2024-06-09T16:58
-updated: 2024-06-10T23:34
+updated: 2024-07-07T22:05
+title: SQL Database Version Check Cheat Sheet
 ---
-
-# SQL Database Version Check Cheat Sheet
 
 ```sql
 -- MySQL/MariaDB

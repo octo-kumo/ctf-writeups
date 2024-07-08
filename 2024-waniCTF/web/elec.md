@@ -1,12 +1,11 @@
 ---
 created: 2024-06-21T22:48
-updated: 2024-06-23T19:24
+updated: 2024-07-07T22:09
 tags:
   - fav
   - web
 ---
 
-# Elec
 ## Analysis
 
 - Seems to be XSS, but the flag is stored on the file system `/flag`.

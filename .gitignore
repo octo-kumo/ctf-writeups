@@ -11,3 +11,5 @@ node_modules/
 !tools/
 !tools/web/*
 __pycache__/
+!.github/*
+!.github/workflows/dispatch.yml

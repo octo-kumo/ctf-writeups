@@ -1,9 +1,7 @@
 ---
 created: 2024-06-28T22:58
-updated: 2024-06-30T20:18
+updated: 2024-07-07T23:05
 ---
-
-# Without a Trace
 
 We are allowed to change the 5 cells of a 5 by 5 diagonal matrix.
 

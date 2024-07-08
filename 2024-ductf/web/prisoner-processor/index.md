@@ -1,7 +1,10 @@
 ---
 created: 2024-07-07T02:38
-updated: 2024-07-07T03:57
+updated: 2024-07-07T21:46
 title: Prisoner Processor
+solves: 17
+points: 325
+description: Hijacking the main application
 ---
 
 ## Analysis

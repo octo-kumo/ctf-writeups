@@ -1,11 +1,10 @@
 ---
 created: 2024-06-27T07:05
-updated: 2024-07-01T20:09
+updated: 2024-07-07T22:25
 tags:
   - box
+title: thehackerconclave
 ---
-
-# thehackerconclave
 
 **#6** 1500 points.
 

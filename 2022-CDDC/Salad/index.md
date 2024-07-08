@@ -1,9 +1,7 @@
 ---
 created: 2024-06-11T01:17
-updated: 2024-06-11T01:28
+updated: 2024-07-07T23:08
 ---
-
-# Salad
 
 Using exiftool or just hex editor, we can find a `tEXt` chunk near the end of the image
 

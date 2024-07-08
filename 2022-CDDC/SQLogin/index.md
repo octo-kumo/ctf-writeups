@@ -1,9 +1,7 @@
 ---
 created: 2024-06-11T01:17
-updated: 2024-06-11T01:29
+updated: 2024-07-07T23:08
 ---
-
-# SQLogin
 
 Seems like the usual SQL injection
 

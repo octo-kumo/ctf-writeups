@@ -1,6 +1,9 @@
 ---
 created: 2024-07-05T19:31
-updated: 2024-07-05T20:24
+updated: 2024-07-07T21:39
+solves: 239
+points: 100
+description: Where do vectors point to?
 ---
 
 ## Analysis

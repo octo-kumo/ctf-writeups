@@ -1,9 +1,7 @@
 ---
 created: 2024-06-11T01:17
-updated: 2024-06-11T01:19
+updated: 2024-07-07T23:07
 ---
-
-# Baby Web
 
 Vising the web page we can find some interesting elements
 

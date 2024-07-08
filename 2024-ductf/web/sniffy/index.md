@@ -1,7 +1,10 @@
 ---
 created: 2024-07-06T18:15
-updated: 2024-07-07T03:57
+updated: 2024-07-07T21:47
 title: Sniffy
+solves: 58
+points: 223
+description: '"Erh, I think this is an audio file?"'
 ---
 
 ## Analysis

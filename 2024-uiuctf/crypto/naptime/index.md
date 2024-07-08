@@ -1,9 +1,7 @@
 ---
 created: 2024-06-28T22:58
-updated: 2024-06-30T20:11
+updated: 2024-07-07T23:05
 ---
-
-# Naptime
 
 After reading through the challenge, we can see that the encryption method simply adds numbers from `a[i]` where `i`th bit is `1`.
 This means its sort of $e=b_0a_0+b_1a_1+\dots$.

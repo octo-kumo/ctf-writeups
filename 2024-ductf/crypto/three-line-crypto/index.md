@@ -1,11 +1,14 @@
 ---
 created: 2024-07-05T23:26
-updated: 2024-07-07T03:59
+updated: 2024-07-07T21:23
 title: Three Line Crypto
 tags:
   - fav
+solves: 44
+points: 247
 ---
 
+A cipher with only three lines?
 ## Analysis
 
 After playing around with the cipher I realized that

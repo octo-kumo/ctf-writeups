@@ -1,9 +1,8 @@
 ---
 created: 2024-06-28T22:58
-updated: 2024-06-30T20:26
+updated: 2024-07-07T23:05
 ---
 
-# X Marked the Spot
 We observe that the flag is encrypted with XOR with a cycling key of length 8.
 And since we already know 8 characters of the flag (which happens to be length 48), we can determine the key by `cipher ^ plain = key`.
 

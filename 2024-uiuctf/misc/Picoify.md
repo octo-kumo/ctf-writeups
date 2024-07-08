@@ -1,9 +1,7 @@
 ---
 created: 2024-06-30T20:40
-updated: 2024-06-30T20:51
+updated: 2024-07-07T23:06
 ---
-
-# Picoify
 
 **FAILED TO SOLVE**
 

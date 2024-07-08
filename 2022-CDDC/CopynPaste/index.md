@@ -1,9 +1,8 @@
 ---
 created: 2024-06-11T01:17
-updated: 2024-06-11T01:19
+updated: 2024-07-07T23:08
+title: Copy & Paste
 ---
-
-# Copy & Paste
 
 The svg is an animation of a terminal window it seems, well a bit of digging and we find this
 

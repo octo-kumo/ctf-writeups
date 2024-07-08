@@ -1,9 +1,7 @@
 ---
 created: 2024-06-11T01:17
-updated: 2024-06-11T01:30
+updated: 2024-07-07T23:09
 ---
-
-# Vigenere
 
 ```text
 ns wyy ixsu kfmex rri tskcxipo tycwuyvb? sj wyy ukrr ds eox y ppyq, cme rcoh ry olya ylssd zgqilovc. ppyq mq MHBM22{z3pi_wgwtjo_4rb_34cc_abcnd0_gf4vpcxkc}

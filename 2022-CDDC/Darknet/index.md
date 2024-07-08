@@ -1,9 +1,7 @@
 ---
 created: 2024-06-11T01:17
-updated: 2024-06-11T01:25
+updated: 2024-07-07T23:08
 ---
-
-# Darknet
 
 A locked zip was given, what is the password?
 

@@ -1,9 +1,8 @@
 ---
 created: 2024-06-28T20:52
-updated: 2024-06-28T21:02
+updated: 2024-07-07T23:06
 ---
 
-# Fare Evasion
 ## Analyze
 A quick analysis of the network requests tells me that I have to sign my own JWT with the type `conductor` and a different kid.
 

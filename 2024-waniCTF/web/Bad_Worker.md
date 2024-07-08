@@ -1,9 +1,7 @@
 ---
 created: 2024-06-21T19:37
-updated: 2024-06-23T08:43
+updated: 2024-07-07T22:09
 ---
-
-# Bad Worker
 
 > オフラインで動くウェブアプリをつくりました。
 > We created a web application that works offline.

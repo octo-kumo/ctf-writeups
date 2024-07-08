@@ -1,9 +1,7 @@
 ---
 created: 2024-06-22T03:54
-updated: 2024-06-24T22:30
+updated: 2024-07-07T22:08
 ---
-
-# Codebreaker
 
 QR Code repair, tedious and painful.
 
