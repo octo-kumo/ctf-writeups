@@ -13,3 +13,4 @@ node_modules/
 __pycache__/
 !.github/*
 !.github/workflows/dispatch.yml
+.mine

