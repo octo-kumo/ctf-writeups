@@ -1,6 +1,6 @@
 ---
 created: 2024-07-20T01:21
-updated: 2024-07-21T16:06
+updated: 2024-07-21T18:46
 tags:
   - crc32
   - salsa20
@@ -123,4 +123,8 @@ conn.interactive()
 # [R]un a command
 # [Q]uit
 # >
+```
+
+```flag
+ictf{F0xtr0t_L1m4_4lph4_G0lf}
 ```

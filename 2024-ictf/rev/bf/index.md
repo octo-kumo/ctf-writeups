@@ -1,6 +1,6 @@
 ---
 created: 2024-07-19T20:57
-updated: 2024-07-21T16:08
+updated: 2024-07-21T18:34
 solves: 225
 points: 100
 ---
@@ -8,10 +8,15 @@ points: 100
 Using the debugger [Brainfuck Debugger (bxt.gitlab.io)](https://bxt.gitlab.io/brainfuck-debugger/), we can observe that each character is checked individually.
 
 If the character is not correct the program will be stuck in an infinite loop.
+## halting problem
+
+We can hence solve it by checking each character individually, against every printable character, if the program finishes, it is the correct character.
 
 Using python with timeout didn't work well.
 
 So I used a JS library that allows me to set a maximum step limit.
+
+## solve script
 
 ```js
 import { Machine } from 'braincrunch';
@@ -33,4 +38,8 @@ for (let code of codes) {
     }
 }
 // ictf{1_h4t3_3s0l4ng5_7d4f3a1b}
+```
+
+```flag
+ictf{1_h4t3_3s0l4ng5_7d4f3a1b}
 ```

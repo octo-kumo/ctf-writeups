@@ -1,6 +1,6 @@
 ---
 created: 2024-07-20T23:23
-updated: 2024-07-21T16:09
+updated: 2024-07-21T18:34
 solves: 86
 points: 100
 ---
@@ -183,7 +183,7 @@ yay!
 
 After some guess and check, the flag is:
 
-```
+```flag
 ictf{m0r3_than_1_way5_t0_c0n7r0l}
 ```
 

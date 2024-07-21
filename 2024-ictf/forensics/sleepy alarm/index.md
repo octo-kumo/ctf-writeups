@@ -1,6 +1,6 @@
 ---
 created: 2024-07-21T02:54
-updated: 2024-07-21T16:07
+updated: 2024-07-21T18:46
 tags:
   - audio
 solves: 19
@@ -87,10 +87,11 @@ By manually searching through the window sizes, reducing search bounds and repea
 
 Hooray!
 
-```
+```flag
 ictf{1_sl33py_NaYuKi_alarm_2a634dc1bb2}
 ```
 
+![](https://res.cloudinary.com/kumonochisanaka/image/upload/v1721600811/2024/07/1bcfb5aad811cd229de846117d368572.png)
 ## solve script
 
 I removed the chart drawing parts for simplicity sake.

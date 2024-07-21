@@ -1,9 +1,10 @@
 ---
 created: 2024-07-20T17:40
-updated: 2024-07-21T16:07
+updated: 2024-07-21T18:46
 tags:
   - algo
   - maze
+  - astar
 solves: 30
 points: 428
 ---
@@ -64,6 +65,10 @@ I believe that is pretty fast, and probably does not backtrack as much as BFS or
 
 Here is the local version for reference, a particular one with very bad luck.
 ![output-local.gif](https://res.cloudinary.com/kumonochisanaka/image/upload/v1721521947/2024/07/009bbadedfb547f347626d504f67e356.gif)
+
+```flag
+ictf{glad_you_f0und_the_right_way_to_the_exit}
+```
 
 ## solve script
 

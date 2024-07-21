@@ -1,6 +1,6 @@
 ---
 created: 2024-07-21T16:04
-updated: 2024-07-21T16:05
+updated: 2024-07-21T18:47
 ---
 
 I found out that 0 appears very often, and hence can be used to find the true data.
@@ -21,5 +21,8 @@ data = [[data[i][j] for i in range(len(data))] for j in range(len(data[0]))]
 for c in data:
     print(chr(Counter(c).most_common(1)[0][0]), end="")
 conn.close()
-# ictf{biased_rng_so_sad_6b065f93}
+```
+
+```flag
+ictf{biased_rng_so_sad_6b065f93}
 ```

@@ -1,6 +1,6 @@
 ---
 created: 2024-07-19T22:35
-updated: 2024-07-21T16:06
+updated: 2024-07-21T18:47
 tags:
   - rsa
 solves: 172
@@ -51,5 +51,8 @@ def process(e2):
 
 # loop through every possible value of the 16 bit crc
 result = pqdm(range(1, 65536), process, n_jobs=16)
-# ictf{oops_i_leaked_some_info}
+```
+
+```flag
+ictf{oops_i_leaked_some_info}
 ```

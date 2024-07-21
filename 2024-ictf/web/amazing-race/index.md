@@ -1,13 +1,32 @@
 ---
 created: 2024-07-19T18:28
-updated: 2024-07-21T16:09
+updated: 2024-07-21T18:39
 solves: 100
 points: 100
 ---
 
-It's a race condition challenge, by sending two requests to move right at the same time we have a chance of smashing through the obstacle.
+## race condition
+
+The server fetched "possible moves", does some database manipulation, and updates possible moves at the end. There is a time frame in between where the player is still allowed to move in the direction of the wall.
+
+It's a race condition challenge, by sending two or more requests to move at the same time we have a chance of smashing through the obstacle, effectively overwriting the wall with blank tiles.
 
 ![image.png](https://res.cloudinary.com/kumonochisanaka/image/upload/v1721428085/2024/07/db612e22179b33fa758f1862f4bb4076.png)
+
+My method is simple:
+1. Send multiple move requests at once
+2. If nothing changed, we are stuck, back away in the opposite direction.
+3. Repeat until we reach the top right corner.
+4. Rotate the response 90 degrees so we can run the exact same logic above again.
+
+**caveat**, my method only works if the second row's last column is empty, because the vertical descend needs some space to initiate the first smash.
+
+```
+@..#...#..##...#.#..###..#..#..#.#.
+.....#...#...##...#..#..###..#.#... <- this tile has to be empty
+```
+
+## solve script
 
 ```python
 import asyncio
@@ -64,4 +83,8 @@ async def smasher():
 
 
 asyncio.run(smasher())
+```
+
+```flag
+ictf{turns_out_all_you_need_for_quantum_tunneling_is_to_be_f@st}
 ```

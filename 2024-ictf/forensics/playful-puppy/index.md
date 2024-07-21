@@ -1,10 +1,13 @@
 ---
 created: 2024-07-20T02:55
-updated: 2024-07-21T16:07
+updated: 2024-07-21T18:46
 solves: 127
 points: 100
+tags:
+  - minecraft
 ---
 
+## minecraft
 It's a Minecraft world!
 
 Upon joining the world we are met with 1857 dogs, each with a different hex name!
@@ -15,7 +18,7 @@ In the challenge files, we can find a black dog with blue collar, I guess we hav
 
 ![image.png](https://res.cloudinary.com/kumonochisanaka/image/upload/v1721458966/2024/07/73e4dde4cc6002d91e6571f71f2e975c.png)
 
-## Solve
+## solve
 First we teleport all black dogs with blue collars to us.
 
 ```
@@ -40,6 +43,6 @@ Then we use `/data` on the nearest dog to get its name. (use logs for easy copy 
 
 And we solved it.
 
-```
+```flag
 ictf{6ed247d7539bb3bf}
 ```
