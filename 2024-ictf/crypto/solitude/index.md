@@ -1,9 +1,13 @@
 ---
 created: 2024-07-21T16:04
-updated: 2024-07-21T18:47
+updated: 2024-07-22T08:50
 ---
 
 I found out that 0 appears very often, and hence can be used to find the true data.
+
+When for example `a` is encoded many times, `a` itself will appear most often in the ciphertext.
+
+![image.png](https://res.cloudinary.com/kumonochisanaka/image/upload/v1721652585/2024/07/7b4991640f79b5d6068f2fe1c8bc155c.png)
 
 But I did not think about dividing the output into columns, and analyze each character individually...
 
