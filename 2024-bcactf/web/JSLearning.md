@@ -23,6 +23,6 @@ We will encode `Deno.readTextFileSync('flag.txt')` into `[]()+!`, and submit it 
 
 The flag.
 
-```
+```flag
 bcactf{1ava5cRIPT_mAk35_S3Nse_48129846}
 ```

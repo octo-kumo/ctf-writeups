@@ -24,6 +24,6 @@ We can just patch the executable by changing the value `0xb1aaf` to 1 or 0.
 
 Voilà, the flag.
 
-```
+```flag
 vsctf{1nTr0_r3v3R51ng!}
 ```

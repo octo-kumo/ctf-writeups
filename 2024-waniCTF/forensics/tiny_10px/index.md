@@ -17,6 +17,6 @@ Turns out the correct width is `00 a0`.
 
 ![image.png](https://res.cloudinary.com/kumonochisanaka/image/upload/v1719049731/2024/06/037531ce8e921f5de2ab1b0569667353.png)
 
-```
+```flag
 FLAG{b1g_en0ugh}
 ```

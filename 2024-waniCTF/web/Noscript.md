@@ -24,6 +24,6 @@ We will then just load it via a object tag in `profile`. This is kinda like a if
 <object data="/username/e2b49e44-9419-4881-8144-72d17223e3f2" type="text/html"></object>
 ```
 
-```
+```flag
 FLAG{n0scr1p4_c4n_be_d4nger0us}
 ```

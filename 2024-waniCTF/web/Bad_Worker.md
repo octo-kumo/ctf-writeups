@@ -13,6 +13,6 @@ On the mention of "works offline", we know its a service worker.
 
 And there it is, comment it out and press the button.
 
-```
+```flag
 FLAG{pr0gr3ssiv3_w3b_4pp_1s_us3fu1}
 ```

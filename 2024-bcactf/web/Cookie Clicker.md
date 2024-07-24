@@ -32,6 +32,6 @@ socket.emit('click', JSON.stringify({"power":2e20, "value":send.value}));//run a
 
 Easy.
 
-```
+```flag
 bcactf{H0w_Did_Y0u_Cl1ck_S0_M4ny_T1mes_123}
 ```

@@ -31,6 +31,6 @@ curl --request POST \
 
 And boom, our flag is here.
 
-```
+```flag
 bcactf{a_l1Ttl3_0uTd4T3d_qYR8IeICVTLPU0uK}
 ```

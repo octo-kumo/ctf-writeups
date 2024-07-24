@@ -38,7 +38,7 @@ int main() {
 }
 ```
 
-```
+```flag
 vsctf{QuickMaffs_FMC_Huge_Degen_b4a1c2af876eeb9a}
 ```
 

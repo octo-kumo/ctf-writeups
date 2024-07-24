@@ -58,6 +58,6 @@ And we have the convenient hint `<!-- twinkle_star -> little_star -> flag -->`
 
 And we got the flag
 
-```text
+```flag
 CDDC22{B4by_W3b_H4cking_3asy++}
 ```

@@ -24,6 +24,6 @@ Click on **"Async Serial"** to add an new analyser.
 
 Switch to console view and we can see our flag.
 
-```
+```flag
 HTB{547311173_n37w02k_c0mp20m153d}
 ```

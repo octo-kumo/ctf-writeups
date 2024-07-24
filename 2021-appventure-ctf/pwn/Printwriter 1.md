@@ -115,7 +115,7 @@ Indeed we gain remote shell access.
 
 By running the command `ls`, I find `flag.txt`, and with `cat flag.txt`
 
-```
+```flag
 cat flag.txt
 flag{why_would_printf_be_able_to_write_memory????!!}
 ```

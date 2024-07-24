@@ -70,7 +70,7 @@ What would happen would be like this
 
 ### Running the script
 
-```
+```flag
 f
 fl
 fla

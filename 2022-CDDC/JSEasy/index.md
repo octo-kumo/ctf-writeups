@@ -41,6 +41,6 @@ Adding `var g = '';` fixes the problem
 
 Indeed it is
 
-```text
+```flag
 CDDC22{h4haHaH4_it_Is_to0_EASY_R1ght?}
 ```

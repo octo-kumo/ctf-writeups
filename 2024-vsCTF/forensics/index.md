@@ -3,7 +3,7 @@ created: 2024-06-15T01:22
 updated: 2024-06-15T02:04
 ---
 
-```
+```flag
 D:\Desktop\flag.txt
 vsctf{SANITYCHECK'd}
 ```

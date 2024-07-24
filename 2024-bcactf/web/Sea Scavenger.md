@@ -62,6 +62,6 @@ You found the rest of the flag!
 _t336e3}
 ```
 
-```
+```flag
 bcactf{b3t_y0u_d1dnt_f1nd_th3_tre4sur3_t336e3}
 ```

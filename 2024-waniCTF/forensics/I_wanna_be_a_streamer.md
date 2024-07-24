@@ -19,6 +19,6 @@ The capture has two RTP streams.
 
 ![vlcsnap-2024-06-22-05h18m28s311.png](https://res.cloudinary.com/kumonochisanaka/image/upload/v1719048210/2024/06/e2f6aac77a5fe580b1e9f48e4f395802.png)
 
-```
+```flag
 FLAG{Th4nk_y0u_f0r_W4tching}
 ```

@@ -140,6 +140,6 @@ activatePayload()
 # payload activated {"status":202}
 ```
 
-```
+```flag
 DUCTF{_1_d3cid3_wh4ts_esc4p3d_}
 ```

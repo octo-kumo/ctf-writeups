@@ -125,7 +125,7 @@ The first line is our payload, and after running the same blocklist operations a
 
 And after checking webhook.site
 
-```
+```flag
 flag{server_side_rendering_is_fun_but_dangerous_sometimes}
 ```
 

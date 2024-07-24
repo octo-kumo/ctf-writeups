@@ -9,7 +9,7 @@ Using hex editor we can see that the file starts with `RDP8bmp`, with some googl
 
 ![image.png](https://res.cloudinary.com/kumonochisanaka/image/upload/v1719038670/2024/06/a9b5549538e9b93a3ef5cc56b831b4bd.png)
 
-```
+```flag
 FLAG{RDP_is_useful_yipeee}
 ```
 

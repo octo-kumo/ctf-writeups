@@ -19,6 +19,6 @@ A quick google search is sufficient
 
 The password is `carl_stewart`
 
-```text
+```flag
 CDDC22{Be_c@r3fu1_wh3n_p0st1ng_p1ctures_0n_th@_1nt3rn3t}
 ```

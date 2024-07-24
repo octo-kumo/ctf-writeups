@@ -43,6 +43,6 @@ c ^ b = a
 
 We can just repeat the process and get our flag
 
-```text
+```flag
 CDDC22{1_Lov3_Gh1dr4_m1ps_rev3rsing~}
 ```

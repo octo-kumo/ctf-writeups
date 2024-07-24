@@ -14,6 +14,6 @@ There is a secret command, let's try it.
 Apparently that's it.
 I was going to make a maze solver thinking this is a maze question, what a bummer.
 
-```
+```flag
 HTB{D3v3l0p3r_t00l5_4r3_b35t_wh4t_y0u_Th1nk??!_abe30d6061c14f67513972c603d2b1c2}
 ```

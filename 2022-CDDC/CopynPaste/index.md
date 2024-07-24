@@ -41,6 +41,6 @@ It is an PNG image, adding the extension gives us
 
 ![](https://res.cloudinary.com/kumonochisanaka/image/upload/v1718083135/2024/06/a7ef03dca2f7c6adcfd8656a8066cc24.png)
 
-```
+```flag
 CDDC22{S4V4G3_LOVE}
 ```

@@ -27,6 +27,6 @@ Data for buffer: 0123456789012345678901234567890123456789
 
 I guess even heaps are connected.
 
-```
+```flag
 picoCTF{my_first_heap_overflow_4fa6dd49}
 ```

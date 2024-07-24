@@ -33,6 +33,6 @@ with open('blind_for_.-.txt') as file:
 
 And we get our flag
 
-```
+```flag
 CDDC22{L1STEN-T0-THE-M0RSE-C0D3-PLE4SE}
 ```

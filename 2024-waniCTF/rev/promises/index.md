@@ -398,7 +398,7 @@ else:
     print("no sol")
 ```
 
-```
+```flag
 FLAG{pr0M1S3s_@ND_a5YnC'n_@w@17}
 ```
 

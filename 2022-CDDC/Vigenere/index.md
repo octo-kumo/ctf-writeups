@@ -21,6 +21,6 @@ And hence we have the decoded text
 do you know about the vigenere password? if you want to get a flag, you need to know about vigenere. flag is CDDC22{v3ry_simple_4nd_34sy_crypt0_ch4llenge}
 ```
 
-```text
+```flag
 CDDC22{v3ry_simple_4nd_34sy_crypt0_ch4llenge}
 ```

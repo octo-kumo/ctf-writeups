@@ -13,6 +13,6 @@ Array.from(document.querySelectorAll(".flag")).map(e=>e.textContent).join('')
 
 And we get our flag
 
-```text
+```flag
 CDDC22{H3lL0_Spac3_tr4v3l3r5}
 ```

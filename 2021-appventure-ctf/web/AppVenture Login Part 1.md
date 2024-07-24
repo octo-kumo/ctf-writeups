@@ -34,7 +34,7 @@ Everything behind `--` is ignored and we successfully log in as admin
 
 ### http://35.240.143.82:4208/login
 
-```
+```flag
 flag{you_can_pass_cs6131_now}
 ```
 

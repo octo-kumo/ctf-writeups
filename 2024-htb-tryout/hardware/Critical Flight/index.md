@@ -6,7 +6,7 @@ updated: 2024-07-17T01:25
 ## HadesMicro-B_Cu.gbr
 The first file I opened, has the flag apparently?
 
-```
+```flag
 HTB{533_7h3_1nn32_w02k1n95_0f_313c720n1c5#$@}
 ```
 

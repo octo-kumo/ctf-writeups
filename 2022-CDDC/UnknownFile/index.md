@@ -29,6 +29,6 @@ By changing the height to `968` and updating the CRC, we reveal the true image
 
 ![](https://res.cloudinary.com/kumonochisanaka/image/upload/v1718083777/2024/06/63ef2516ae1946b5dd238729506a0c24.png)
 
-```text
+```flag
 CDDC22{S6oW_me_y0u're_4he_8est}
 ```

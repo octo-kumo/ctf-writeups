@@ -60,7 +60,7 @@ print(''.join([chr(ord(i) - 3) if i != "{" and i != "}" and i != "_" else i for 
 
 ![](https://res.cloudinary.com/kumonochisanaka/image/upload/v1718083689/2024/06/146e7f37237c90b39e603944355d8cac.png)
 
-```text
+```flag
 128
 RkdHRjU1ezhkT2RnOF9EdTZfajMzZ183X2s2ZG93a30=
 b'FGGF55{8dOdg8_Du6_j33g_7_k6dowk}'

@@ -69,6 +69,6 @@ curl -X "POST" "http://chals.cyberthon22f.ctf.sg:40501/download/" \
 
 And heres our flag
 
-```
+```flag
 Cyberthon{why_15_1t_4Lw4y5_d0g}
 ```

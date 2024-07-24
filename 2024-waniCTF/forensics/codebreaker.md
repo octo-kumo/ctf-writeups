@@ -9,6 +9,6 @@ QR Code repair, tedious and painful.
 
 ![image.png](https://res.cloudinary.com/kumonochisanaka/image/upload/v1719042872/2024/06/b60a49e3731f3014c5c1988e769c7465.png)
 
-```
+```flag
 FLAG{How_scan-dalous}
 ```

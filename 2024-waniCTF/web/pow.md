@@ -25,6 +25,6 @@ for(let i=0;i<10;i++)await send(new Array(100000).fill("2862152"));
 
 Run the above in the js console and we will get the flag.
 
-```
+```flag
 FLAG{N0nCE_reusE_i$_FUn}
 ```

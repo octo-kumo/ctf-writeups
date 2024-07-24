@@ -174,7 +174,7 @@ def try_flag(flag):
     return flag
 ```
 
-```
+```flag
 ictf{m0r3_than_1jway5_t0_c0n7r0l}
 █L████u███W█████_█$███W██L████uO█
 ```
