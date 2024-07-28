@@ -1,11 +1,13 @@
 ---
 created: 2024-07-27T06:35
-updated: 2024-07-28T04:18
+updated: 2024-07-28T04:22
 tags:
   - jail
   - js2py
+  - blood
 solves: 29
 points: 220
+description: Copy paste CVE script kiddie still blooded the challenge
 ---
 
 > This is my first calculator ever, and it might have a 0day!!!

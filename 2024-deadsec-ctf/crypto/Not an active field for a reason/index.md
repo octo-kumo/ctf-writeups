@@ -1,12 +1,13 @@
 ---
 created: 2024-07-27T20:56
-updated: 2024-07-28T04:16
+updated: 2024-07-28T04:20
 title: Not an active field for a reason
 tags:
   - tree-parity-machine
   - neuro-crypto
 points: 470
 solves: 4
+description: How did only 4 teams solve this? Just copy paste code lol
 ---
 
 ## Neural networks

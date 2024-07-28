@@ -1,11 +1,12 @@
 ---
 created: 2024-07-27T15:54
-updated: 2024-07-28T04:17
+updated: 2024-07-28T04:21
 tags:
   - audio
 title: MAN in the middle
 solves: 8
 points: 430
+description: I like your funny waves
 ---
 
 > Do you know that even the signals without encryption are vulnerable to the MAN in the middle attack?

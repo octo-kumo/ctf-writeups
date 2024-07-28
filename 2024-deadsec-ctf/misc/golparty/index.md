@@ -1,9 +1,10 @@
 ---
 created: 2024-07-27T17:05
-updated: 2024-07-28T04:17
+updated: 2024-07-28T04:21
 title: GoLParty
 points: 270
 solves: 24
+description: "When the author had to give out hints in the #meme channel"
 ---
 
 > Welcome to the GoL Party!

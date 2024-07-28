@@ -1,10 +1,11 @@
 ---
 created: 2024-07-27T20:24
-updated: 2024-07-28T04:17
+updated: 2024-07-28T04:21
 tags:
   - bun
 solves: 11
 points: 400
+description: Easiest ever RCE
 ---
 
 > I’ve created a super secure sinkless buntime, is it really secure?
