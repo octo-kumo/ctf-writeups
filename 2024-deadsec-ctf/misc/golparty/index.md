@@ -1,7 +1,9 @@
 ---
 created: 2024-07-27T17:05
-updated: 2024-07-28T02:14
+updated: 2024-07-28T04:17
 title: GoLParty
+points: 270
+solves: 24
 ---
 
 > Welcome to the GoL Party!

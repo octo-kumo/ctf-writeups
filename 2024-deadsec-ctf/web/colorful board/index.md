@@ -1,8 +1,10 @@
 ---
 created: 2024-07-27T02:55
-updated: 2024-07-28T02:16
+updated: 2024-07-28T04:17
 tags:
   - css-injection
+solves: 15
+points: 360
 ---
 
 > Color your username colorful!

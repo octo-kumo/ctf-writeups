@@ -1,9 +1,11 @@
 ---
 created: 2024-07-27T15:54
-updated: 2024-07-28T02:14
+updated: 2024-07-28T04:17
 tags:
   - audio
 title: MAN in the middle
+solves: 8
+points: 430
 ---
 
 > Do you know that even the signals without encryption are vulnerable to the MAN in the middle attack?

@@ -1,9 +1,11 @@
 ---
 created: 2024-07-27T06:35
-updated: 2024-07-27T20:53
+updated: 2024-07-28T04:18
 tags:
   - jail
   - js2py
+solves: 29
+points: 220
 ---
 
 > This is my first calculator ever, and it might have a 0day!!!

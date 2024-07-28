@@ -1,8 +1,10 @@
 ---
 created: 2024-07-27T20:24
-updated: 2024-07-28T02:15
+updated: 2024-07-28T04:17
 tags:
   - bun
+solves: 11
+points: 400
 ---
 
 > I’ve created a super secure sinkless buntime, is it really secure?

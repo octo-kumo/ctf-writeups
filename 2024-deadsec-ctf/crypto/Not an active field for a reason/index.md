@@ -1,10 +1,12 @@
 ---
 created: 2024-07-27T20:56
-updated: 2024-07-28T02:14
+updated: 2024-07-28T04:16
 title: Not an active field for a reason
 tags:
   - tree-parity-machine
   - neuro-crypto
+points: 470
+solves: 4
 ---
 
 ## Neural networks
