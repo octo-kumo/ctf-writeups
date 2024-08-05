@@ -1,6 +1,8 @@
 ---
 created: 2024-06-22T05:38
-updated: 2024-07-07T22:08
+updated: 2024-08-05T09:50
+solves: 118
+points: 182
 ---
 
 The image is suspiciously large for its pixel size.

@@ -1,8 +1,10 @@
 ---
 created: 2024-06-21T22:48
-updated: 2024-07-08T00:41
+updated: 2024-08-05T09:52
 tags:
   - fav
+solves: 12
+points: 393
 ---
 
 ## Analysis

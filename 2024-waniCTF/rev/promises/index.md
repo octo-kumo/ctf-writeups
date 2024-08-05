@@ -1,6 +1,8 @@
 ---
 created: 2024-06-22T19:23
-updated: 2024-07-07T22:09
+updated: 2024-08-05T09:51
+solves: 15
+points: 373
 ---
 
 > JavaScript の Promise について勉強した。なんかいろいろできますね！

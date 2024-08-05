@@ -1,6 +1,8 @@
 ---
 created: 2024-06-22T17:30
-updated: 2024-06-22T17:33
+updated: 2024-08-05T09:53
+solves: 105
+points: 190
 ---
 
 I went on a large tangent searching for ways to crack the ECC and DSS.

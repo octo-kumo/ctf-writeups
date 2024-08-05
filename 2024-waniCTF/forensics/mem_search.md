@@ -1,6 +1,8 @@
 ---
 created: 2024-06-22T18:02
-updated: 2024-07-07T22:09
+updated: 2024-08-05T09:50
+points: 185
+solves: 112
 ---
 
 ## analysis

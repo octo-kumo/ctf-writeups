@@ -1,6 +1,8 @@
 ---
 created: 2024-06-22T05:17
-updated: 2024-07-07T22:09
+updated: 2024-08-05T09:50
+points: 169
+solves: 144
 ---
 
 First time doing anything RTP related, fun challenge.

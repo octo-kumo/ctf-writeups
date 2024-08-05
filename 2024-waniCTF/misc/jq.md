@@ -1,6 +1,8 @@
 ---
 created: 2024-06-22T18:48
-updated: 2024-06-22T18:49
+updated: 2024-08-05T09:51
+points: 199
+solves: 92
 ---
 
 Command injection, except I can't use commands, because its 8 char max.

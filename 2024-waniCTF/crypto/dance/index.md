@@ -1,6 +1,8 @@
 ---
 created: 2024-06-23T05:36
-updated: 2024-07-07T22:26
+updated: 2024-08-05T09:48
+solves: 85
+points: 205
 ---
 
 ## Tokens

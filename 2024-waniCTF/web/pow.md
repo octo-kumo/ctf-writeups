@@ -1,6 +1,8 @@
 ---
 created: 2024-06-21T19:41
-updated: 2024-07-07T22:09
+updated: 2024-08-05T09:53
+points: 143
+solves: 250
 ---
 
 > compute hash to get your flag

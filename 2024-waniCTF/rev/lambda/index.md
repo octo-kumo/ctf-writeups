@@ -1,6 +1,8 @@
 ---
 created: 2024-06-22T09:03
-updated: 2024-06-22T09:04
+updated: 2024-08-05T09:51
+solves: 402
+points: 128
 ---
 
  - [gio54321/lambdifier: Python obfuscation for the average lambda enjoyer (github.com)](https://github.com/gio54321/lambdifier)

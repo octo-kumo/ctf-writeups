@@ -1,6 +1,8 @@
 ---
 created: 2024-06-22T02:03
-updated: 2024-06-22T02:05
+updated: 2024-08-05T09:49
+points: 126
+solves: 431
 ---
 
 It appears that every character is replaced by their MD5 hash.
