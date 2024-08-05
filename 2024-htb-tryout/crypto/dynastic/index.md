@@ -1,6 +1,8 @@
 ---
 created: 2024-07-17T01:12
-updated: 2024-07-17T01:17
+updated: 2024-08-04T19:32
+solves: 462
+points: 900
 ---
 
 Single character change crypto.

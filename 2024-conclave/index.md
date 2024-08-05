@@ -1,16 +1,17 @@
 ---
 created: 2024-06-27T07:05
-updated: 2024-07-07T22:25
+updated: 2024-08-04T20:43
 tags:
   - box
 title: thehackerconclave
+team: wwf
+points: 1500
+rank: 6
 ---
 
-**#6** 1500 points.
+3 hour CTF with a bunch of typos and mis-management.
 
 ![image.png](https://res.cloudinary.com/kumonochisanaka/image/upload/v1719878953/2024/07/31175b24ee1a86c7d293bab9d120ee88.png)
-
-3 hour CTF with a bunch of typos and mis-management.
 
 Joined [@WorldWideFlags](https://ctftime.org/team/283853) on this one.
 
@@ -47,7 +48,7 @@ ssh-keygen
 
 ### Rename public key to `authorized_keys` and upload to `.ssh/`
 
-```curl
+```bash
 curl --request POST \
   --url http://ctf.thehackerconclave.es:20007/index.php \
   --header 'Content-Type: multipart/form-data' \

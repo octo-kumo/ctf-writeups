@@ -1,6 +1,8 @@
 ---
 created: 2024-06-14T16:44
-updated: 2024-06-15T04:28
+updated: 2024-08-04T19:47
+solves: 204
+points: 380
 ---
 
 > angstromctf's spinner was too easy... and not annoying enough

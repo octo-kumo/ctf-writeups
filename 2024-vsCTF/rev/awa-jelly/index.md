@@ -1,6 +1,8 @@
 ---
 created: 2024-06-14T20:10
-updated: 2024-06-15T04:26
+updated: 2024-08-04T19:46
+solves: 184
+points: 395
 ---
 
 > [JellyCTF](https://jellyc.tf/) has some amazing challenges on [Jelly Hoshiumi](https://x.com/jellyhoshiumi) (星海ジェリー), one of the few VTubers who loves CTF. Inspired by a challenge, I made one based on [AWA5.0](https://github.com/TempTempai/AWA5.0). Can you find the redacted input that matches the screenshot?

@@ -1,6 +1,8 @@
 ---
 created: 2024-06-15T04:41
-updated: 2024-06-21T21:30
+updated: 2024-08-04T19:46
+solves: 63
+points: 471
 ---
 
 > We are developing a new router but not sure if the interface has bug or not. Could you have a look?

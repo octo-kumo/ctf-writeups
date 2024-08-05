@@ -1,10 +1,11 @@
 ---
 created: 2024-06-28T22:58
-updated: 2024-07-07T22:22
+updated: 2024-08-04T20:41
 title: UIUCTF 2024
+team: wwf
+points: 7489
+rank: 28
 ---
-
-**#28** 7489 points.
 
 Despite having a team @WorldWideFlags of strong members, we faced a challenging competition and finished in 28th place.
 

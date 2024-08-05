@@ -1,9 +1,9 @@
 ---
 created: 2024-06-11T01:17
-updated: 2024-06-11T01:29
+updated: 2024-08-04T20:29
 ---
 
-```http request
+```
 GET /systemic-therapy-site/Documents/Policy%20and%20Forms/Benefit%20Drug%20List.pdf HTTP/1.1
 Host: www.bccancer.bc.ca
 Connection: keep-alive
@@ -18,7 +18,7 @@ If-None-Match: "{990DF044-92D3-4A02-B133-D8FA07A0E335},135pub"
 If-Modified-Since: Mon, 02 May 2022 23:52:27 GMT
 ```
 
-```http request
+```
 HTTP/1.1 304 NOT MODIFIED
 Cache-Control: private,max-age=0
 Content-Length: 0

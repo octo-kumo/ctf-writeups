@@ -1,6 +1,8 @@
 ---
 created: 2024-07-17T01:18
-updated: 2024-07-17T01:25
+updated: 2024-08-04T20:31
+solves: 101
+points: 975
 ---
 
 ## HadesMicro-B_Cu.gbr

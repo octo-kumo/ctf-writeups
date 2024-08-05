@@ -1,6 +1,8 @@
 ---
 created: 2024-06-14T18:13
-updated: 2024-06-15T04:23
+updated: 2024-08-04T19:46
+solves: 387
+points: 242
 ---
 
 > Flag will be printed out straight away when you run the binary.

@@ -1,7 +1,10 @@
 ---
 created: 2024-07-17T00:57
-updated: 2024-07-17T00:57
+updated: 2024-08-04T19:30
+solves: 463
+points: 900
 ---
+
 ```python
 from pwn import *
 import re

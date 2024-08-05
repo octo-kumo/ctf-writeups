@@ -1,6 +1,8 @@
 ---
 created: 2024-07-17T00:16
-updated: 2024-07-17T00:41
+updated: 2024-08-04T19:30
+solves: 265
+points: 950
 ---
 
 I extracted files from HTTP but they are all useless xz archives.

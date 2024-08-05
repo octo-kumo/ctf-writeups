@@ -1,7 +1,9 @@
 ---
 created: 2024-06-10T02:01
-updated: 2024-07-07T22:22
+updated: 2024-08-04T21:03
 title: BCACTF 5.0
+points: 525
+rank: 266
 ---
 
 Random CTF found on ctftime, started 1 day late or smth.

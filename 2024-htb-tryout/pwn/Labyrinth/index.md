@@ -1,8 +1,10 @@
 ---
 created: 2024-07-17T02:27
-updated: 2024-07-17T04:15
+updated: 2024-08-04T19:33
 tags:
   - rop
+solves: 65
+points: 975
 ---
 
 We can trace where `flag.txt` is being read with xrefs.

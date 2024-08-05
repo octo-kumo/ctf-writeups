@@ -1,6 +1,8 @@
 ---
 created: 2024-06-14T14:37
-updated: 2024-06-14T14:42
+updated: 2024-08-04T19:43
+solves: 345
+points: 272
 ---
 
 > 1. Players start at different positions on the grid.

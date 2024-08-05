@@ -1,6 +1,8 @@
 ---
 created: 2024-07-17T02:24
-updated: 2024-07-17T02:25
+updated: 2024-08-04T19:33
+solves: 129
+points: 975
 ---
 
 Wow didn't expect it to be a tutorial that I very much need.

@@ -1,0 +1,21 @@
+---
+created: 2024-08-04T06:14
+updated: 2024-08-04T21:17
+points: 463
+---
+
+Just decompile the EVM byte code. [app.dedaub.com/decompile](https://app.dedaub.com/decompile)
+
+`5f600f607002610258525f60056096046090525f600760090A61FFFA526105396126aa18620bfabf52600361fffa5102620bfabf51013461025851600402016090510114604857ff00`
+
+```js
+function function_selector() public payable { 
+    assert(6750 + msg.value != 0xdb15fe);
+    selfdestruct(0);
+}
+// 0xdb15fe-6750 = dafba0
+```
+
+```flag
+n00bz{0xdafba0}
+```

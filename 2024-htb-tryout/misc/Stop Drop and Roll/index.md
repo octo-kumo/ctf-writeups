@@ -1,11 +1,13 @@
 ---
 created: 2024-07-17T00:57
-updated: 2024-07-17T01:12
+updated: 2024-08-04T19:31
+solves: 319
+points: 925
 ---
+
 ## Solve Script
 
 Watched some random news channel on world news and afk-ed the script.
-
 
 ```python
 # nc 94.237.51.8 42152
