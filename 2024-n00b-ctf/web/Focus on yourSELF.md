@@ -1,7 +1,8 @@
 ---
 created: 2024-08-04T06:06
-updated: 2024-08-04T21:20
+updated: 2024-08-05T19:04
 points: 429
+solves: 212
 ---
 
 Very obvious hint indeed.

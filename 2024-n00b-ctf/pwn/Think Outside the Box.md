@@ -1,7 +1,8 @@
 ---
 created: 2024-08-04T06:10
-updated: 2024-08-04T21:19
+updated: 2024-08-05T19:06
 points: 464
+solves: 152
 ---
 
 IDK how I solved it but sending it `4294967294,4294967294` will cause the bot to not move at all for 2 turns.

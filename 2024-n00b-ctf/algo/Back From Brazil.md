@@ -1,7 +1,9 @@
 ---
 created: 2024-08-04T06:15
-updated: 2024-08-04T21:17
+updated: 2024-08-05T19:06
 points: 465
+navigation: false
+solves: 149
 ---
 
 Find optimal path from top-left to bottom-right which has the greatest sum.

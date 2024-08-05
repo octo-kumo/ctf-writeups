@@ -1,7 +1,9 @@
 ---
 created: 2024-08-04T06:05
-updated: 2024-08-04T21:20
+updated: 2024-08-05T19:05
 points: 478
+navigation: false
+solves: 119
 ---
 
 We are allowed to upload a tar file and have the remote extract it, nice.

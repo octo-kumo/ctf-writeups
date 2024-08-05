@@ -1,7 +1,8 @@
 ---
 created: 2024-08-04T06:10
-updated: 2024-08-04T21:19
+updated: 2024-08-05T19:04
 points: 448
+solves: 182
 ---
 
 When a set of numbers $x\in[0,n]$ are taken abs difference with the middle number $n/2$, we are effectively halving the size of that range. ($[0,n/2]$)

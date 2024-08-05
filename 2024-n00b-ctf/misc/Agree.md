@@ -1,7 +1,8 @@
 ---
 created: 2024-08-04T20:47
-updated: 2024-08-04T21:18
+updated: 2024-08-05T19:04
 points: 326
+solves: 331
 ---
 
 Guessing game

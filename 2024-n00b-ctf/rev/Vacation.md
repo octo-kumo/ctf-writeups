@@ -1,7 +1,8 @@
 ---
 created: 2024-08-04T06:09
-updated: 2024-08-04T21:19
+updated: 2024-08-05T19:05
 points: 100
+solves: 590
 ---
 
 Free challenge, GPT-solvable.

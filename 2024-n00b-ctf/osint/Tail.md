@@ -1,7 +1,8 @@
 ---
 created: 2024-08-04T20:50
-updated: 2024-08-04T21:19
+updated: 2024-08-05T19:04
 points: 100
+solves: 606
 ---
 
 Tail fetish author I suppose.

@@ -1,7 +1,8 @@
 ---
 created: 2024-08-04T06:07
-updated: 2024-08-04T21:19
+updated: 2024-08-05T19:05
 points: 431
+solves: 210
 ---
 
 `xlsm`'s `m` stands for macro. This excel file has macros in it.

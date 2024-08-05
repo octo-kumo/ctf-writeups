@@ -1,7 +1,8 @@
 ---
 created: 2024-08-04T06:14
-updated: 2024-08-04T21:17
+updated: 2024-08-05T19:05
 points: 403
+solves: 248
 ---
 
 Just bunch of numbers

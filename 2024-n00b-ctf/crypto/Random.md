@@ -1,7 +1,8 @@
 ---
 created: 2024-08-04T06:13
-updated: 2024-08-04T21:18
+updated: 2024-08-05T19:02
 points: 451
+solves: 177
 ---
 
 Constant seed random.

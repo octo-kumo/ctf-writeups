@@ -1,7 +1,8 @@
 ---
 created: 2024-08-04T06:12
-updated: 2024-08-04T21:18
+updated: 2024-08-05T19:03
 points: 100
+solves: 574
 ---
 
 Exiftool GOAT
