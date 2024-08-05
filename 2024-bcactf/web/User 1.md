@@ -16,7 +16,7 @@ Make a guess for the statement.
 UPDATE table SET name="<input>" WHERE id='1'
 ```
 
-With some [version checking](sql.md)...
+With some [version checking](../../../sql.md)...
 
 ```sql
 UPDATE table SET name=""||(SELECT sqlite_version())||"" WHERE id='1'
