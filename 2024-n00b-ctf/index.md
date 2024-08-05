@@ -1,6 +1,6 @@
 ---
 created: 2024-08-03T20:51
-updated: 2024-08-04T21:20
+updated: 2024-08-04T22:22
 title: n00bzCTF 2024
 points: 7485
 rank: 79
