@@ -14,3 +14,4 @@ __pycache__/
 !.github/*
 !.github/workflows/dispatch.yml
 .mine
+.*.md
