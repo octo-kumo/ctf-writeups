@@ -1,8 +1,10 @@
 ---
 created: 2024-08-04T06:14
-updated: 2024-08-05T19:06
+updated: 2024-08-05T19:37
 points: 463
 solves: 154
+tags:
+  - web3
 ---
 
 Just decompile the EVM byte code. [app.dedaub.com/decompile](https://app.dedaub.com/decompile)

@@ -1,8 +1,10 @@
 ---
 created: 2024-08-03T16:18
-updated: 2024-08-04T13:59
+updated: 2024-08-05T19:35
 solves: 16
 points: 476
+tags:
+  - bash
 ---
 
 ## analysis

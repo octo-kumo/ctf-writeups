@@ -1,8 +1,10 @@
 ---
 created: 2024-06-22T05:38
-updated: 2024-08-05T09:50
+updated: 2024-08-05T19:29
 solves: 118
 points: 182
+tags:
+  - cropped-image
 ---
 
 The image is suspiciously large for its pixel size.

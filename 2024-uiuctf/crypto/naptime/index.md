@@ -1,6 +1,6 @@
 ---
 created: 2024-06-28T22:58
-updated: 2024-07-07T23:05
+updated: 2024-08-05T19:32
 ---
 
 After reading through the challenge, we can see that the encryption method simply adds numbers from `a[i]` where `i`th bit is `1`.
@@ -42,5 +42,8 @@ for num in ct:
         print(ascii_char, end='')
     else:
         raise Exception("Unsat")
-# uiuctf{i_g0t_sleepy_s0_I_13f7_th3_fl4g}
+```
+
+```flag
+uiuctf{i_g0t_sleepy_s0_I_13f7_th3_fl4g}
 ```

@@ -1,8 +1,10 @@
 ---
 created: 2024-08-04T06:13
-updated: 2024-08-05T19:02
+updated: 2024-08-05T19:40
 points: 100
 solves: 568
+tags:
+  - rsa
 ---
 
 Low exponent RSA, so low that the modulus is irrelevant.

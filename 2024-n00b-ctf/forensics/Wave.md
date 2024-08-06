@@ -1,9 +1,11 @@
 ---
 created: 2024-08-04T06:12
-updated: 2024-08-05T19:03
+updated: 2024-08-05T19:40
 description: Fixing corrupted wav file
 points: 387
 solves: 267
+tags:
+  - wav
 ---
 
 ## Corrupted `.wav` file.

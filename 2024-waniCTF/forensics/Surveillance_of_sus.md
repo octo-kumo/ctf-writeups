@@ -1,8 +1,10 @@
 ---
 created: 2024-06-22T02:44
-updated: 2024-08-05T09:51
+updated: 2024-08-05T19:29
 solves: 431
 points: 126
+tags:
+  - RDP8bmp
 ---
 
 Using hex editor we can see that the file starts with `RDP8bmp`, with some google search we know that it is a BMP cache file.

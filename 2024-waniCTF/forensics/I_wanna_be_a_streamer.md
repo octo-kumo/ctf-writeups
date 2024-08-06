@@ -1,8 +1,10 @@
 ---
 created: 2024-06-22T05:17
-updated: 2024-08-05T09:50
+updated: 2024-08-05T19:29
 points: 169
 solves: 144
+tags:
+  - RTP
 ---
 
 First time doing anything RTP related, fun challenge.

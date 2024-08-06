@@ -1,8 +1,10 @@
 ---
 created: 2024-06-21T22:48
-updated: 2024-08-05T09:52
+updated: 2024-08-05T19:26
 tags:
   - fav
+  - electron
+  - xss
 solves: 12
 points: 393
 ---

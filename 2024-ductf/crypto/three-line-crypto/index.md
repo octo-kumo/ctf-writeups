@@ -1,9 +1,10 @@
 ---
 created: 2024-07-05T23:26
-updated: 2024-07-07T21:23
+updated: 2024-08-05T19:44
 title: Three Line Crypto
 tags:
   - fav
+  - freq-analysis
 solves: 44
 points: 247
 ---

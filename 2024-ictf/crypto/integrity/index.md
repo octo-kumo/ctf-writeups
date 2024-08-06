@@ -1,8 +1,9 @@
 ---
 created: 2024-07-19T22:35
-updated: 2024-07-21T18:47
+updated: 2024-08-05T19:43
 tags:
   - rsa
+  - modulus
 solves: 172
 points: 100
 ---

@@ -1,8 +1,10 @@
 ---
 created: 2024-08-04T06:07
-updated: 2024-08-05T19:05
+updated: 2024-08-05T19:42
 points: 431
 solves: 210
+tags:
+  - vba
 ---
 
 `xlsm`'s `m` stands for macro. This excel file has macros in it.

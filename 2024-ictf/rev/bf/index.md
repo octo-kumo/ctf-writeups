@@ -1,8 +1,10 @@
 ---
 created: 2024-07-19T20:57
-updated: 2024-07-21T18:34
+updated: 2024-08-05T19:43
 solves: 225
 points: 100
+tags:
+  - brainfuck
 ---
 
 Using the debugger [Brainfuck Debugger (bxt.gitlab.io)](https://bxt.gitlab.io/brainfuck-debugger/), we can observe that each character is checked individually.

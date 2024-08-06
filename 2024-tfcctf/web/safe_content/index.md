@@ -1,8 +1,10 @@
 ---
 created: 2024-08-02T15:00
-updated: 2024-08-04T14:00
+updated: 2024-08-05T19:36
 solves: 87
 points: 100
+tags:
+  - reflection
 ---
 
 To inject content into `exec`, we have to make `localhost` output arbitrary content.

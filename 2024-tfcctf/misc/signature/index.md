@@ -1,8 +1,10 @@
 ---
 created: 2024-08-02T20:15
-updated: 2024-08-04T13:59
+updated: 2024-08-05T19:35
 solves: 4
 points: 499
+tags:
+  - AI
 ---
 
 We are given a `h5` file, and the website asks for a signature.

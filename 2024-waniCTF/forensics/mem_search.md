@@ -1,8 +1,10 @@
 ---
 created: 2024-06-22T18:02
-updated: 2024-08-05T09:50
+updated: 2024-08-05T19:29
 points: 185
 solves: 112
+tags:
+  - mem
 ---
 
 ## analysis

@@ -1,8 +1,10 @@
 ---
 created: 2024-06-22T03:54
-updated: 2024-08-05T09:50
+updated: 2024-08-05T19:29
 points: 140
 solves: 268
+tags:
+  - qr-code
 ---
 
 QR Code repair, tedious and painful.

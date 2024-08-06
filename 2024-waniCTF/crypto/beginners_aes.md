@@ -1,8 +1,10 @@
 ---
 created: 2024-06-22T01:50
-updated: 2024-08-05T09:49
+updated: 2024-08-05T19:30
 points: 125
 solves: 453
+tags:
+  - aes
 ---
 
 I don't know AES, but I know brute force.

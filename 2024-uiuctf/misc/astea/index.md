@@ -1,6 +1,8 @@
 ---
 created: 2024-06-29T00:39
-updated: 2024-07-07T23:05
+updated: 2024-08-05T19:34
+tags:
+  - AST
 ---
 
 We are not allowed to use the following expressions in python: **assign**, **call**, **import**, **import from**, **binary operation (+-/ etc)**.

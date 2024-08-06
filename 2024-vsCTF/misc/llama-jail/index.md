@@ -1,8 +1,7 @@
 ---
 created: 2024-06-15T06:42
-updated: 2024-08-04T19:45
+updated: 2024-08-05T19:31
 solves: 23
-points: 490
 ---
 
 I was able to get a string `__import__` but that's it.

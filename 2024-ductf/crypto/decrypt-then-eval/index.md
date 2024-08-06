@@ -1,10 +1,12 @@
 ---
 created: 2024-07-05T18:09
-updated: 2024-07-07T21:49
+updated: 2024-08-05T19:44
 title: decrypt then eval
 solves: 197
 points: 118
 description: "1111"
+tags:
+  - aes
 ---
 
 ## Analysis
