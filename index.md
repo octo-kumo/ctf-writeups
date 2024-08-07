@@ -1,6 +1,6 @@
 ---
 created: 2024-06-06T23:50
-updated: 2024-07-07T23:09
+updated: 2024-08-06T18:06
 title: CTF Writeups
 ---
 
