@@ -1,6 +1,6 @@
 ---
 created: 2024-08-04T06:05
-updated: 2024-08-05T19:05
+updated: 2024-08-08T23:22
 points: 478
 navigation: false
 solves: 119
@@ -17,6 +17,8 @@ Furthermore, `open` does not read folders, so we have to use the endpoint `/view
 Which means we have to make a link under `/app/uploads/` that will point to `/app/` (and not under `/app/uploads/0123/aaa` during normal extraction).
 
 ## payload
+
+![image.png](https://res.cloudinary.com/kumonochisanaka/image/upload/v1723173745/2024/08/ace04d395856a46fe9424093ecc080a2.png)
 
 1. `tar` file can contain links, with that we can target the `/app` folder.
 2. `tar` file extraction allows arbitrary file write to any location by editing the name field (binary).
