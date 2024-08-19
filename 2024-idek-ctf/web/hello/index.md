@@ -1,6 +1,8 @@
 ---
 created: 2024-08-17T18:40
-updated: 2024-08-17T19:41
+updated: 2024-08-18T21:34
+points: 135
+solves: 161
 ---
 
 ## problem

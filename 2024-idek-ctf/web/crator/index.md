@@ -1,6 +1,8 @@
 ---
 created: 2024-08-17T21:27
-updated: 2024-08-17T23:15
+updated: 2024-08-18T21:33
+solves: 63
+points: 257
 ---
 
 Yet-Another-Python-Sandbox-Or-Is-It?

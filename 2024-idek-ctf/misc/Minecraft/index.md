@@ -1,6 +1,8 @@
 ---
 created: 2024-08-17T03:27
-updated: 2024-08-17T23:22
+updated: 2024-08-18T21:33
+points: 363
+solves: 29
 ---
 
 Minecraft arrow knockback coordinate leak
