@@ -8,3 +8,6 @@ title: CTFZone 2024
 ---
 
 Sadly was really busy during the event.
+
+::ctf-overview
+::
