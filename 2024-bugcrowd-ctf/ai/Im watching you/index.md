@@ -1,7 +1,9 @@
 ---
 created: 2024-08-08T08:22
-updated: 2024-08-08T09:50
+updated: 2024-08-17T20:13
+points: 225
 ---
+
 Honestly IDK how tf I solved this.
 
 Was just testing the endpoint.

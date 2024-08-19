@@ -1,7 +1,9 @@
 ---
 created: 2024-08-08T08:23
-updated: 2024-08-08T09:49
+updated: 2024-08-17T20:13
+points: 425
 ---
+
 Again, the challenge is kinda wonky.
 
 Same payload as the first ai challenge.

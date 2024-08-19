@@ -1,6 +1,7 @@
 ---
 created: 2024-08-08T09:50
-updated: 2024-08-08T09:58
+updated: 2024-08-17T20:14
+points: 75
 ---
 
 Just by chance, when cleaning up the log file with `replace`, I ended up on a `cmd`.

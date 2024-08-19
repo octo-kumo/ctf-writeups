@@ -1,6 +1,7 @@
 ---
 created: 2024-08-08T08:44
-updated: 2024-08-08T09:49
+updated: 2024-08-17T20:13
+points: 125
 ---
 Periodic table cipher.
 

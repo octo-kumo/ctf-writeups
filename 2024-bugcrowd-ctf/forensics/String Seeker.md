@@ -1,6 +1,7 @@
 ---
 created: 2024-08-08T09:49
-updated: 2024-08-08T09:49
+updated: 2024-08-17T20:14
+points: 50
 ---
 
 ![image.png](https://res.cloudinary.com/kumonochisanaka/image/upload/v1723124958/2024/08/6bcd7effbd8f3c733bbca900bc84e22b.png)

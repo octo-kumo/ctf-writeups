@@ -1,6 +1,7 @@
 ---
 created: 2024-08-08T09:04
-updated: 2024-08-08T09:33
+updated: 2024-08-17T20:13
+points: 225
 ---
 
 MD5 isn't secure, finding collisions is easy.

@@ -1,6 +1,7 @@
 ---
 created: 2024-08-08T09:33
-updated: 2024-08-08T09:49
+updated: 2024-08-17T20:13
+points: 500
 ---
 
 The server does not check for duplicate certificates, which means I can just upload one of the certs given.
