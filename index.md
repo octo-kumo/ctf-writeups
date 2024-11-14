@@ -1,9 +1,8 @@
 ---
 created: 2024-06-06T23:50
-updated: 2024-09-06T14:56
+updated: 2024-11-14T17:13
 title: CTF Writeups
-sorting-spec: |
-  > a-z by-metadata: created
+sorting-spec: "> a-z by-metadata: created"
 ---
 
 Write-ups for CTFs
