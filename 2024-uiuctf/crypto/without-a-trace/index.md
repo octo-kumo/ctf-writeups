@@ -1,6 +1,8 @@
 ---
 created: 2024-06-28T22:58
-updated: 2024-07-07T23:05
+updated: 2024-11-23T20:31
+solves: 298
+points: 246
 ---
 
 We are allowed to change the 5 cells of a 5 by 5 diagonal matrix.

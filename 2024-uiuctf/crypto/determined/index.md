@@ -1,6 +1,8 @@
 ---
 created: 2024-06-28T22:58
-updated: 2024-07-07T23:05
+updated: 2024-11-23T20:31
+solves: 222
+points: 322
 ---
 
 The problem involves the determinant of a 5 by 5 matrix, where we can decide certain the value of cells, and some other values unknown.

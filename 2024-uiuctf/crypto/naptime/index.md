@@ -1,6 +1,8 @@
 ---
 created: 2024-06-28T22:58
-updated: 2024-08-05T19:32
+updated: 2024-11-23T20:31
+solves: 180
+points: 363
 ---
 
 After reading through the challenge, we can see that the encryption method simply adds numbers from `a[i]` where `i`th bit is `1`.

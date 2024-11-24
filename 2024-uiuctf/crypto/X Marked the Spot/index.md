@@ -1,6 +1,8 @@
 ---
 created: 2024-06-28T22:58
-updated: 2024-07-07T23:05
+updated: 2024-11-23T20:30
+solves: 531
+points: 93
 ---
 
 We observe that the flag is encrypted with XOR with a cycling key of length 8.
