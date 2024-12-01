@@ -1,9 +1,10 @@
 ---
 created: 2024-11-23T11:58
-updated: 2024-11-23T22:35
+updated: 2024-11-30T17:26
 points: 2333
 rank: 3
 team: CyberSci
+title: CyberSci Regionals 2024
 ---
 
 Loved the free food, ate like 10 sandwiches.
