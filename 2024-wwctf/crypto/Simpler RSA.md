@@ -3,6 +3,8 @@ created: 2024-11-30T17:04
 updated: 2024-11-30T17:12
 ---
 
+Very simple RSA (not RSA).
+
 ```python
 from secret import flag
 from Crypto.Util.number import bytes_to_long, getPrime

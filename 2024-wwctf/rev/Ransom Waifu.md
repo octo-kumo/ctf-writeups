@@ -3,6 +3,8 @@ created: 2024-11-30T17:09
 updated: 2024-11-30T17:09
 ---
 
+I hope everyone liked my drawing!
+
 ## Step 1
 - https://obf-io.deobfuscate.io/
 - Remove dead code
