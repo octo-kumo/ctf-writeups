@@ -1,6 +1,6 @@
 ---
 created: 2024-12-07T14:26
-updated: 2024-12-08T13:17
+updated: 2024-12-08T13:44
 solves: 54
 points: 191
 ---
@@ -55,5 +55,3 @@ print(r.text)
 
 # http://localhost:3300/api/posts/21?contentType=text/html
 ```
-
-## solve script
