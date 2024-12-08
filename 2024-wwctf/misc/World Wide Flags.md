@@ -1,6 +1,8 @@
 ---
 created: 2024-11-30T16:19
-updated: 2024-12-02T18:01
+updated: 2024-12-08T01:44
+solves: 119
+points: 150
 ---
 
 Intended solution is ~~write an AI~~ manually identifying all the flags.

@@ -1,6 +1,8 @@
 ---
 created: 2024-11-30T17:04
-updated: 2024-11-30T17:12
+updated: 2024-12-08T01:43
+solves: 405
+points: 50
 ---
 
 Very simple RSA (not RSA).

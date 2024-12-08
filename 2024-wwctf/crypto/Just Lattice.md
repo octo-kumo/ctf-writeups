@@ -1,6 +1,8 @@
 ---
 created: 2024-11-30T15:25
-updated: 2024-11-30T17:03
+updated: 2024-12-08T01:43
+solves: 32
+points: 351
 ---
 
 The Learning with Errors (LWE) encryption scheme is a lattice-based cryptographic system with the following key mathematical components:

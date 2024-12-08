@@ -1,6 +1,8 @@
 ---
 created: 2024-11-30T15:25
-updated: 2024-11-30T16:56
+updated: 2024-12-08T01:43
+points: 153
+solves: 95
 ---
 
 You can always play it manually!

@@ -1,6 +1,8 @@
 ---
 created: 2024-11-30T17:09
-updated: 2024-11-30T17:09
+updated: 2024-12-08T01:44
+solves: 14
+points: 450
 ---
 
 I hope everyone liked my drawing!
