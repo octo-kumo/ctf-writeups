@@ -1,6 +1,7 @@
 ---
 created: 2024-12-13T14:12
-updated: 2024-12-13T14:57
+updated: 2024-12-15T17:06
+points: 775
 ---
 
 After using the app as intended, I think the solution is to reset someone else's password.

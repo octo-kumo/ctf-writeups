@@ -1,6 +1,7 @@
 ---
 created: 2024-12-15T07:55
-updated: 2024-12-15T07:55
+updated: 2024-12-15T17:06
+points: 675
 ---
 
 It is simply in `.bash_history`.

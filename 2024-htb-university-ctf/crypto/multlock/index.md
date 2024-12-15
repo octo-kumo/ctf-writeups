@@ -1,6 +1,7 @@
 ---
 created: 2024-12-14T01:15
-updated: 2024-12-14T01:35
+updated: 2024-12-15T17:05
+points: 825
 ---
 
 It is simple crypto, the timestamp part simply alternates between mode 1 and mode 2, even if its random its still ok anyways.

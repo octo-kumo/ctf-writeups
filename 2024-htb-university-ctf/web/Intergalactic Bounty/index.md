@@ -1,10 +1,11 @@
 ---
 created: 2024-12-13T17:55
-updated: 2024-12-14T05:25
+updated: 2024-12-15T17:06
 tags:
   - fav
   - email
   - 0day
+points: 975
 ---
 
 This appears similar to Armaxis, except I finally get to send email to multiple recipients?

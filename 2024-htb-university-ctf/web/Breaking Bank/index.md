@@ -1,6 +1,7 @@
 ---
 created: 2024-12-13T15:53
-updated: 2024-12-13T17:49
+updated: 2024-12-15T17:06
+points: 900
 ---
 
 Fun OTP bypass + JKU bypass. Signing JWTs with our own private keys.

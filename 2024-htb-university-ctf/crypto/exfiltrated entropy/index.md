@@ -1,6 +1,7 @@
 ---
 created: 2024-12-14T01:35
-updated: 2024-12-14T02:43
+updated: 2024-12-15T17:05
+points: 900
 ---
 
 I was writing a solver that can solve the SEED based on a stream of leaked last byte, possibly gotten via guessing the key stream, but oh well.
