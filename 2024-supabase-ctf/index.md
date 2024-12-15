@@ -1,6 +1,6 @@
 ---
 created: 2024-12-09T15:10
-updated: 2024-12-15T08:23
+updated: 2024-12-15T08:30
 rank: 36
 points: 450
 title: Supabase Hack the Base 2024
@@ -11,3 +11,6 @@ title: Supabase Hack the Base 2024
 A little guessy but overall great fun.
 
 > I was using supabase to make an entire ctf platform in the past, so imagine how surprised I was when supabase hosted a ctf.
+
+::ctf-overview
+::
