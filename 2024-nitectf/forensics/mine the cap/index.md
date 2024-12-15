@@ -1,8 +1,10 @@
 ---
 created: 2024-12-15T07:14
-updated: 2024-12-15T07:50
+updated: 2024-12-15T08:06
 tags:
   - minecraft
+solves: 4
+points: 480
 ---
 
 The packets are minecraft packets!

@@ -1,8 +1,10 @@
 ---
 created: 2024-12-15T07:05
-updated: 2024-12-15T07:47
+updated: 2024-12-15T08:06
 tags:
   - unity
+solves: 9
+points: 440
 ---
 
 It's a unity game! So I immediately injected [sinai-dev/UnityExplorer](https://github.com/sinai-dev/UnityExplorer?tab=readme-ov-file)
