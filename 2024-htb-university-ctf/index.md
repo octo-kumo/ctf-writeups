@@ -1,6 +1,6 @@
 ---
 created: 2024-12-13T14:09
-updated: 2024-12-15T17:00
+updated: 2024-12-16T02:39
 rank: 402
 points: 5950
 title: HTB University CTF 2024
@@ -16,3 +16,5 @@ Loved the web challenge.
 
 ::ctf-overview
 ::
+
+![image.png](https://res.cloudinary.com/kumonochisanaka/image/upload/v1734334792/2024/12/786aca2e74399860717d2bc4dad0699b.png)
