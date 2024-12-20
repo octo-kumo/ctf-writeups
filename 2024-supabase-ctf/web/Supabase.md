@@ -175,7 +175,7 @@ flag::intermediate::602c6d77e8294687ceb9608f3df5d2f89adc31ae
 ![image.png](https://res.cloudinary.com/kumonochisanaka/image/upload/v1734027236/2024/12/9bdc4713e9ba3ff531554d9a4ec01d69.png)
 ### flag 6
 
-```flag5
+```flag
 flag::easy::2c4452b6c23b2be707fcab43689ec06b7a91b6a5
 ```
 
