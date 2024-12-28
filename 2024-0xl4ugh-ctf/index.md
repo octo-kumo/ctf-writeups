@@ -1,6 +1,10 @@
 ---
 created: 2024-12-27T12:26
-updated: 2024-12-28T06:55
+updated: 2024-12-28T07:09
+title: 0xl4ugh CTF 2024
+rank: 1
+points: 7580
+team: wwf
 ---
 
 What a blast.
