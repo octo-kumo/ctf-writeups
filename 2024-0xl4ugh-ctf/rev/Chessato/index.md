@@ -1,6 +1,6 @@
 ---
 created: 2024-12-27T12:26
-updated: 2024-12-28T06:58
+updated: 2024-12-28T07:27
 solves: 43
 points: 100
 ---
@@ -26,7 +26,7 @@ We will edit only queen and rook.
 
 Hrm...
 
-How about making the energy queen my queen.
+How about making the enemy queen my queen.
 
 ![image.png](https://res.cloudinary.com/kumonochisanaka/image/upload/v1735321954/2024/12/3e602652bb679dcb506750efd90f4ad4.png)
 
