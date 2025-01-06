@@ -1,7 +1,9 @@
 ---
 created: 2025-01-01T04:01
-updated: 2025-01-01T18:32
+updated: 2025-01-01T18:35
 ---
+
+[pwn.college/intro-to-cybersecurity/binary-exploitation/](https://pwn.college/intro-to-cybersecurity/binary-exploitation/)
 
 Fun intro to pwn!
 ## Variable Control
