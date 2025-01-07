@@ -1,8 +1,12 @@
 ---
 created: 2025-01-05T06:07
-updated: 2025-01-05T19:06
+updated: 2025-01-06T23:23
 solves: 3
 points: 500
+tags:
+  - ecc
+  - hamming
+  - error-correct
 ---
 
 > I hate it when I have a bad link and my large data transfer gets corrupted. Apparently this weird new protocol is supposed to help with that, but I think the developers skipped an important step...

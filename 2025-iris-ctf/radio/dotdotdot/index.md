@@ -1,8 +1,11 @@
 ---
 created: 2025-01-06T14:53
-updated: 2025-01-06T16:46
+updated: 2025-01-06T23:28
 solves: 150
 points: 50
+tags:
+  - morse
+  - signal
 ---
 
 I solved this right after the CTF started, so I forgot that I've solved this and only now am I making the writeup.

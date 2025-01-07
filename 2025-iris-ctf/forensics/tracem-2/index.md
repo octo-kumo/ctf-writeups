@@ -1,8 +1,11 @@
 ---
 created: 2025-01-04T17:47
-updated: 2025-01-05T19:05
+updated: 2025-01-06T23:22
 solves: 31
 points: 457
+tags:
+  - json-log
+  - log
 ---
 
 > Here at EI Corp, ethics are our top priority! That's why our IT team was shocked when we got a knock from our ISP informing us that someone on our computer network was involved in some illegitimate activity. Who would do that? Don't they know that's illegal?

@@ -1,8 +1,11 @@
 ---
 created: 2025-01-04T20:01
-updated: 2025-01-05T19:13
+updated: 2025-01-06T23:20
 points: 50
 solves: 152
+tags:
+  - url
+  - normalization
 ---
 
 I knew from a glance that we have to bypass the url block list.

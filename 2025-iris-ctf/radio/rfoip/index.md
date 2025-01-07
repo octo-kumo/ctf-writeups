@@ -1,8 +1,10 @@
 ---
 created: 2025-01-05T04:22
-updated: 2025-01-05T19:09
+updated: 2025-01-06T23:20
 points: 359
 solves: 56
+tags:
+  - iq
 ---
 
 By the sheer amount of IQ radio challenges in this CTF, I can literally guess it is IQ.

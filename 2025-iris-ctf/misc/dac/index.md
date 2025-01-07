@@ -1,8 +1,11 @@
 ---
 created: 2025-01-04T21:36
-updated: 2025-01-05T19:05
+updated: 2025-01-06T23:22
 points: 494
 solves: 12
+tags:
+  - dpcm
+  - delta-modulation
 ---
 
 Was solved after tons of guessing.

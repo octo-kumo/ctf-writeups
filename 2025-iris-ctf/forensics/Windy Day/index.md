@@ -1,8 +1,10 @@
 ---
 created: 2025-01-04T18:58
-updated: 2025-01-05T19:05
+updated: 2025-01-06T23:22
 solves: 41
 points: 424
+tags:
+  - mem
 ---
 
 All attempts with volatility failed. So I decided to just analyse the strings manually on a hex editor.

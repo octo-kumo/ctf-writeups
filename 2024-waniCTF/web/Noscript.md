@@ -1,10 +1,11 @@
 ---
 created: 2024-06-21T20:15
-updated: 2024-08-05T19:26
+updated: 2025-01-06T23:26
 points: 202
 solves: 89
 tags:
   - xss
+  - csp-bypass
 ---
 
 This page is protected by csp `default-src 'self', script-src 'none'`.

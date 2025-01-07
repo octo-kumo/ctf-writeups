@@ -1,8 +1,11 @@
 ---
 created: 2025-01-04T15:56
-updated: 2025-01-05T19:04
+updated: 2025-01-06T23:22
 solves: 88
 points: 152
+tags:
+  - json-log
+  - log
 ---
 
 A quick look at the logs suggest a lot of DNS and DHCP packets.

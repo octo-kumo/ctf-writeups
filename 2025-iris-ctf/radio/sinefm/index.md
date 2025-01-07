@@ -1,8 +1,10 @@
 ---
 created: 2025-01-05T04:21
-updated: 2025-01-05T19:10
+updated: 2025-01-06T23:20
 solves: 26
 points: 470
+tags:
+  - fm
 ---
 
 My teammate @zeptoide basically solve it but the audio file was too fast, so I just slowed it down.
