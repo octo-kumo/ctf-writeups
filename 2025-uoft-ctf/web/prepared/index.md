@@ -194,3 +194,7 @@ All I had to do was switch `OUTFILE` to `DUMPFILE`.
 And my solution will work.
 
 ![200w.gif](https://res.cloudinary.com/kumonochisanaka/image/upload/v1736727242/2025/01/cdd29fbe6702a911d79e99121cf3bb62.gif)
+
+```flag
+uoftctf{5h3_53ll5_534_5h3ll5_by_7h3_C_5h0r3_c9b821c}
+```
