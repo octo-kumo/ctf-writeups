@@ -1,6 +1,6 @@
 ---
 created: 2025-01-12T11:00
-updated: 2025-01-12T19:00
+updated: 2025-01-12T20:04
 solves: 33
 points: 460
 ---
@@ -190,5 +190,7 @@ The file is there, but I get error of `file not found` when trying to execute it
 After the CTF ended, I realised that I was really close.
 
 All I had to do was switch `OUTFILE` to `DUMPFILE`.
+
+And my solution will work.
 
 ![200w.gif](https://res.cloudinary.com/kumonochisanaka/image/upload/v1736727242/2025/01/cdd29fbe6702a911d79e99121cf3bb62.gif)

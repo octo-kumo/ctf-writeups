@@ -1,8 +1,9 @@
 ---
 created: 2025-01-11T01:17
-updated: 2025-01-12T18:38
-unsolved: true
+updated: 2025-01-12T20:04
 solves: 3
+tags:
+  - unsolved
 ---
 
 Another minecraft pcap challenge?
@@ -326,3 +327,21 @@ I tried a lot of fixes but none of them work, the packets just keep getting misa
 Maybe it is coz the library I share much of the serialisation logic with has discontinued and is stuck in version 1.19, or maybe more steps are needed in the capture phase, like some tcp packets should be discarded or something.
 
 Welp.
+
+## after
+
+After the event ended, I realised that I was really close.
+
+I just had to use two ciphers, 1 for the client 1 for server, that's it.
+
+No error correction needed, packets all behave nicely.
+
+Everything works flawlessly.
+
+![200w.gif](https://res.cloudinary.com/kumonochisanaka/image/upload/v1736727242/2025/01/cdd29fbe6702a911d79e99121cf3bb62.gif)
+
+![image.png](https://res.cloudinary.com/kumonochisanaka/image/upload/v1736729941/2025/01/1d8b4684a1a6c9f6e39d8ded4550782d.png)
+
+Not a single error was thrown.
+
+I spent 24 hours in vane trying to manually fix the data.
