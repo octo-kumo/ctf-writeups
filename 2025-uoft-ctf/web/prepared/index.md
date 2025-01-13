@@ -186,3 +186,9 @@ But for some reason, never on the docker or remote.
 The file is there, but I get error of `file not found` when trying to execute it with format string payload.
 
 ![image.png](https://res.cloudinary.com/kumonochisanaka/image/upload/v1736726181/2025/01/df944d01f0a33f1134a02a51267e84a4.png)
+
+After the CTF ended, I realised that I was really close.
+
+All I had to do was switch `OUTFILE` to `DUMPFILE`.
+
+![200w.gif](https://res.cloudinary.com/kumonochisanaka/image/upload/v1736727242/2025/01/cdd29fbe6702a911d79e99121cf3bb62.gif)
