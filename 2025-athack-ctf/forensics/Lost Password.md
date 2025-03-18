@@ -1,6 +1,8 @@
 ---
 created: 2025-03-01T15:33
-updated: 2025-03-01T16:01
+updated: 2025-03-18T02:26
+solves: 30
+points: 50
 ---
 
 It's just a password zip file.

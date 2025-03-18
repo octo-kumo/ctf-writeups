@@ -1,6 +1,8 @@
 ---
 created: 2025-03-01T16:24
-updated: 2025-03-01T16:34
+updated: 2025-03-18T02:28
+points: 100
+solves: 27
 ---
 
 ## 2

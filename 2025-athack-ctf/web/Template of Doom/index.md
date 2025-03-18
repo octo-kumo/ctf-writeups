@@ -1,6 +1,8 @@
 ---
 created: 2025-03-02T05:16
-updated: 2025-03-02T05:22
+updated: 2025-03-18T02:30
+solves: 18
+points: 200
 ---
 
 Probing with `{{1+1}}` gave us back `2`.

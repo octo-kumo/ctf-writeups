@@ -1,6 +1,8 @@
 ---
 created: 2025-03-01T22:11
-updated: 2025-03-01T22:16
+updated: 2025-03-18T02:30
+solves: 17
+points: 50
 ---
 
 Domain validity check is done client-side, we can just inject a command directly.

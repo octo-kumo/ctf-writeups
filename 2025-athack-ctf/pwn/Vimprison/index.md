@@ -1,6 +1,8 @@
 ---
 created: 2025-03-02T08:45
-updated: 2025-03-02T08:48
+updated: 2025-03-18T02:30
+solves: 17
+points: 150
 ---
 
 A hint?

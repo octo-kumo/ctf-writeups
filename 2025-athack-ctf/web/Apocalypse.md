@@ -1,6 +1,8 @@
 ---
 created: 2025-03-01T20:30
-updated: 2025-03-02T05:14
+updated: 2025-03-18T02:31
+solves: 22
+points: 50
 ---
 
 Notice the `Set-Cookie` headers.

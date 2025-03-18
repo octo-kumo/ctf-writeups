@@ -1,6 +1,8 @@
 ---
 created: 2025-03-01T18:34
-updated: 2025-03-02T02:44
+updated: 2025-03-18T02:28
+solves: 13
+points: 1500
 ---
 
 Fun first time RFID challenge!

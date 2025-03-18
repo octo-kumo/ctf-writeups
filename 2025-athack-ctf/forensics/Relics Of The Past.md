@@ -1,6 +1,8 @@
 ---
 created: 2025-03-01T16:57
-updated: 2025-03-01T17:16
+updated: 2025-03-18T02:27
+points: 200
+solves: 25
 ---
 
 Just dump all files to txt.

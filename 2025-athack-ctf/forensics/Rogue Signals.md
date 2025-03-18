@@ -1,6 +1,8 @@
 ---
 created: 2025-03-01T15:41
-updated: 2025-03-01T16:00
+updated: 2025-03-18T02:27
+points: 100
+solves: 20
 ---
 
 ![image.png](https://res.cloudinary.com/kumonochisanaka/image/upload/v1740862660/2025/03/a14901ba5f149f54ef5a90f0743d4d35.png)

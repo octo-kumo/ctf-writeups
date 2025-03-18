@@ -1,6 +1,8 @@
 ---
 created: 2025-03-01T15:01
-updated: 2025-03-02T01:58
+updated: 2025-03-18T02:30
+points: 150
+solves: 20
 ---
 
 Simple linear algebra!

@@ -1,6 +1,8 @@
 ---
 created: 2025-03-01T22:28
-updated: 2025-03-01T22:34
+updated: 2025-03-18T02:29
+solves: 17
+points: 150
 ---
 
 ??? IDK What the task is even about, we have `sudo` right away and the flag is just right there.

@@ -1,6 +1,8 @@
 ---
 created: 2025-03-02T07:48
-updated: 2025-03-02T07:56
+updated: 2025-03-18T02:31
+solves: 7
+points: 450
 ---
 
 The 'trick' used created a vulnerbility.

@@ -1,6 +1,8 @@
 ---
 created: 2025-03-01T16:51
-updated: 2025-03-01T16:56
+updated: 2025-03-18T02:27
+solves: 19
+points: 250
 ---
 
 Open file with MFT Explorer.

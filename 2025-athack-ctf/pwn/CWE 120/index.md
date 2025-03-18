@@ -1,6 +1,8 @@
 ---
 created: 2025-03-01T22:17
-updated: 2025-03-02T14:21
+updated: 2025-03-18T02:29
+points: 100
+solves: 16
 ---
 
 Well, `passw0rd` didn't work.

@@ -1,6 +1,8 @@
 ---
 created: 2025-03-02T04:34
-updated: 2025-03-02T14:20
+updated: 2025-03-18T02:28
+points: 150
+solves: 9
 ---
 
 Solved it with [sokoban-solver](https://github.com/dangarfield/sokoban-solver).

@@ -1,6 +1,8 @@
 ---
 created: 2025-03-01T20:43
-updated: 2025-03-01T20:46
+updated: 2025-03-18T02:31
+solves: 20
+points: 100
 ---
 
 I thought this was a JWT cracking challenge, but turns out I can just sign it with whatever and it will work. The pasted JWT is from jwt.io with `"role": "admin"`.

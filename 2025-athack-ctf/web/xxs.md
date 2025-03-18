@@ -1,6 +1,8 @@
 ---
 created: 2025-03-01T14:15
-updated: 2025-03-01T20:25
+updated: 2025-03-18T02:31
+points: 100
+solves: 22
 ---
 
 ## XSS 1

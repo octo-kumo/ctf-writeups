@@ -1,6 +1,8 @@
 ---
 created: 2025-03-01T21:48
-updated: 2025-03-01T22:03
+updated: 2025-03-18T02:29
+solves: 13
+points: 100
 ---
 
 There is a 10s delay between successive guesses, hrmm.

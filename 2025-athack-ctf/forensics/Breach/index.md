@@ -1,6 +1,8 @@
 ---
 created: 2025-03-01T17:59
-updated: 2025-03-02T01:35
+updated: 2025-03-18T02:26
+solves: 11
+points: 300
 ---
 
 `breach` is a virus that sends keystrokes over UDP it seems.

@@ -1,6 +1,8 @@
 ---
 created: 2025-03-02T08:49
-updated: 2025-03-02T09:06
+updated: 2025-03-18T02:29
+points: 200
+solves: 11
 ---
 
 ```bash

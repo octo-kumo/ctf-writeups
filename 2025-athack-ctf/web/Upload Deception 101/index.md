@@ -1,6 +1,8 @@
 ---
 created: 2025-03-01T20:37
-updated: 2025-03-02T10:00
+updated: 2025-03-18T02:31
+solves: 19
+points: 50
 ---
 
 Simple PHP shell exploit.
