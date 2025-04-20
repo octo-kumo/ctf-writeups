@@ -1,9 +1,10 @@
 ---
 title: UofTCTF 2025
 created: 2025-01-10T18:08
-updated: 2025-01-12T19:16
+updated: 2025-04-19T08:14
 points: 7808
 rank: 8
+team: wwf
 ---
 
 Damn, was very hard.
