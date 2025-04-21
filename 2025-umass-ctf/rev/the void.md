@@ -3,7 +3,7 @@ title: the void
 solves: 20
 points: 486
 created: 2025-04-18T18:15
-updated: 2025-04-20T19:59
+updated: 2025-04-20T20:27
 ---
 
 It looks like the program is just doing random things with our input then calling `memcmp` with some answer in memory...

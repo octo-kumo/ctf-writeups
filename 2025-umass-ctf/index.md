@@ -1,8 +1,10 @@
 ---
 created: 2025-04-18T18:15
-updated: 2025-04-20T15:50
+updated: 2025-04-20T20:25
 title: UMassCTF 2025
 team: wwf
+points: 10986
+rank: 2
 ---
 
 Nice revision of CTF, right before my finals.

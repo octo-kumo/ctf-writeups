@@ -3,7 +3,7 @@ title: Falling Blocks
 solves: 45
 points: 423
 created: 2025-04-19T04:32
-updated: 2025-04-20T19:59
+updated: 2025-04-20T20:27
 ---
 
 We can just cheat directly no?

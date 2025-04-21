@@ -3,7 +3,11 @@ title: Flash Game Studio
 solves: 11
 points: 496
 created: 2025-04-19T20:17
-updated: 2025-04-20T19:59
+updated: 2025-04-20T20:28
+tags:
+  - python
+  - jail
+  - csrf
 ---
 
 At first glance `FlashGameHelper`  is really sus. It runs user provided code.

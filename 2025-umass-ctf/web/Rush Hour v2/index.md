@@ -3,7 +3,9 @@ title: Rush Hour v2
 solves: 40
 points: 426
 created: 2025-04-19T03:00
-updated: 2025-04-20T19:59
+updated: 2025-04-20T20:29
+tags:
+  - xss
 ---
 
 Not much is changed from the v1. Except that we now cannot send requests out to some webhook.

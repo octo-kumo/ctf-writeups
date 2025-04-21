@@ -3,7 +3,9 @@ title: Bonk4Cash
 solves: 15
 points: 493
 created: 2025-04-19T05:58
-updated: 2025-04-20T19:59
+updated: 2025-04-20T20:27
+tags:
+  - xss
 ---
 
 The client JS trusts the API so much it uses `innerHTML` to display the messages.

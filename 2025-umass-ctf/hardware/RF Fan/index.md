@@ -3,7 +3,11 @@ title: RF Fan
 solves: 10
 points: 497
 created: 2025-04-20T13:19
-updated: 2025-04-20T19:59
+updated: 2025-04-20T20:26
+tags:
+  - rf
+  - demodulation
+  - iq
 ---
 
 My teammate @zeptoide already did much of the work of writing the solve script and also finding the parameters.
@@ -71,7 +75,6 @@ python3 hmm.py --input signal.iq --bits-out bits.bin --frames-out frames.txt --d
 ```
 
 ```python [hmm.py]
-#!/usr/bin/env python3
 import numpy as np
 import argparse
 import os

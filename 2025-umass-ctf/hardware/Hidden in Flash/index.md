@@ -3,7 +3,7 @@ title: Hidden in Flash
 solves: 7
 points: 499
 created: 2025-04-18T23:21
-updated: 2025-04-20T19:59
+updated: 2025-04-20T20:26
 ---
 
 My teammate extract the firmware but it wasn't exactly right.

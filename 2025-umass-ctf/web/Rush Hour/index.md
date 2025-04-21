@@ -3,7 +3,9 @@ title: Rush Hour
 solves: 49
 points: 388
 created: 2025-04-19T02:56
-updated: 2025-04-20T19:59
+updated: 2025-04-20T20:29
+tags:
+  - xss
 ---
 
 It is pretty clear from the start that this has no XSS protection whatsoever.
