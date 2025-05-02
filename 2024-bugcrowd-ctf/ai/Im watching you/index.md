@@ -1,7 +1,13 @@
 ---
+ai_date: '2025-04-27 05:13:32'
+ai_summary: Executed code in the server without authentication
+ai_tags:
+- xss
+- exec
+- payload
 created: 2024-08-08T08:22
-updated: 2024-08-17T20:13
 points: 225
+updated: 2024-08-17T20:13
 ---
 
 Honestly IDK how tf I solved this.

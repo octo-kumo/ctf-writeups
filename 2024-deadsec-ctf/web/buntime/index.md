@@ -1,11 +1,18 @@
 ---
+ai_date: '2025-04-27 05:15:00'
+ai_summary: Bypassed WAF with input/output length restriction, used persistent prototype
+  pollution, and leveraged async execution by bypassing Bun functions.
+ai_tags:
+- waf-bypass
+- prototype-pollution
+- async-exec
 created: 2024-07-27T20:24
-updated: 2024-07-28T04:21
-tags:
-  - bun
-solves: 11
-points: 400
 description: Easiest ever RCE
+points: 400
+solves: 11
+tags:
+- bun
+updated: 2024-07-28T04:21
 ---
 
 > I’ve created a super secure sinkless buntime, is it really secure?

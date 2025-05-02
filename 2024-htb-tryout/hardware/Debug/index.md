@@ -1,10 +1,17 @@
 ---
+ai_date: '2025-04-27 05:16:11'
+ai_summary: Flag found by analyzing serial data with estimated frequency of 115741
+  Hz
+ai_tags:
+- logic2
+- serial-communication
+- freq-estimation
 created: 2024-07-17T01:41
-updated: 2024-08-04T20:31
-tags:
-  - sal
-solves: 71
 points: 975
+solves: 71
+tags:
+- sal
+updated: 2024-08-04T20:31
 ---
 
 ## SAL Files

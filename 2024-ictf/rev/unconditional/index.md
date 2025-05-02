@@ -1,8 +1,15 @@
 ---
+ai_date: '2025-04-27 05:18:08'
+ai_summary: Reversing challenge involving iterative character modification based on
+  ASCII range and bitwise operations
+ai_tags:
+- rev
+- xor
+- bit-manipulation
 created: 2024-07-20T23:23
-updated: 2024-07-21T18:34
-solves: 86
 points: 100
+solves: 86
+updated: 2024-07-21T18:34
 ---
 
 After gaining access to almighty IDA, reversing had never been easier.

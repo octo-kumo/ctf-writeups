@@ -1,9 +1,18 @@
 ---
+ai_date: '2025-04-27 05:19:19'
+ai_summary: Dynamic Programming solution to find the maximum sum path in a grid by
+  comparing top and left neighbors, using 'U' for up and 'L' for left moves. Reversed
+  move sequence gives the flag.
+ai_tags:
+- dp
+- grid
+- max-sum
+- dynamic-programming
 created: 2024-08-04T06:15
-updated: 2024-08-05T19:06
-points: 465
 navigation: false
+points: 465
 solves: 149
+updated: 2024-08-05T19:06
 ---
 
 Find optimal path from top-left to bottom-right which has the greatest sum.

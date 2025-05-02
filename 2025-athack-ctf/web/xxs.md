@@ -1,8 +1,15 @@
 ---
+ai_date: '2025-04-27 05:26:27'
+ai_summary: XSS exploitation using `img.onerror` in the first challenge and regex-based
+  `eval()` in the second challenge.
+ai_tags:
+- xss
+- regex
+- eval
 created: 2025-03-01T14:15
-updated: 2025-03-18T02:31
 points: 100
 solves: 22
+updated: 2025-03-18T02:31
 ---
 
 ## XSS 1

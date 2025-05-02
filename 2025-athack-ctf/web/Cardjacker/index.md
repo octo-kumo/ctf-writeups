@@ -1,8 +1,15 @@
 ---
+ai_date: '2025-04-27 05:26:08'
+ai_summary: XSS vulnerability via `safe` filter bypass, also prototype pollution allowing
+  SSRF exploitation through PDF generation
+ai_tags:
+- xss
+- prototype-pollution
+- ssrf
 created: 2025-03-02T05:54
-updated: 2025-03-18T02:30
 points: 600
 solves: 6
+updated: 2025-03-18T02:30
 ---
 
 `| safe` bypasses safety checks, this is definitely a XSS attack vector.

@@ -1,12 +1,19 @@
 ---
+ai_date: '2025-04-27 05:24:02'
+ai_summary: XSS vulnerability via `onerror` event, exploiting Electron's contextIsolation
+  false for RCE, using `curl` to fetch flag from file system
+ai_tags:
+- xss
+- rce
+- electron
 created: 2024-06-21T22:48
-updated: 2024-08-05T19:26
-tags:
-  - fav
-  - electron
-  - xss
-solves: 12
 points: 393
+solves: 12
+tags:
+- fav
+- electron
+- xss
+updated: 2024-08-05T19:26
 ---
 
 ## Analysis

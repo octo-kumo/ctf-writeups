@@ -1,8 +1,15 @@
 ---
+ai_date: '2025-04-27 05:25:47'
+ai_summary: No PIE and no stack canary allow for buffer overflow exploitation, leading
+  to flag retrieval
+ai_tags:
+- bof
+- stack-overflow
+- exploitation
 created: 2025-03-02T08:49
-updated: 2025-03-18T02:29
 points: 200
 solves: 11
+updated: 2025-03-18T02:29
 ---
 
 ```bash

@@ -1,8 +1,14 @@
 ---
+ai_date: '2025-04-27 05:22:20'
+ai_summary: Websocket endpoint vulnerable to command injection via Bingo game input
+ai_tags:
+- ws
+- cmd-inj
+- game
 created: 2024-09-07T13:52
-updated: 2024-09-20T23:55
-solves: 11
 points: 200
+solves: 11
+updated: 2024-09-20T23:55
 ---
 
 From the response of `/play` we can infer that this is a websocket endpoint.

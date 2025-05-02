@@ -1,13 +1,20 @@
 ---
+ai_date: '2025-04-27 05:15:11'
+ai_summary: 'Exploited a vulnerability in the js2py library to bypass sandbox restrictions
+  and execute arbitrary code, retrieving the flag: DEAD{Js_2_Py_3sc4p3_wr3ck3d_my_b0x}'
+ai_tags:
+- js2py
+- sandbox-escape
+- cve-2024-28397
 created: 2024-07-27T06:35
-updated: 2024-07-28T04:22
-tags:
-  - jail
-  - js2py
-  - blood
-solves: 29
-points: 220
 description: Copy paste CVE script kiddie still blooded the challenge
+points: 220
+solves: 29
+tags:
+- jail
+- js2py
+- blood
+updated: 2024-07-28T04:22
 ---
 
 > This is my first calculator ever, and it might have a 0day!!!

@@ -1,4 +1,11 @@
 ---
+ai_date: '2025-04-27 05:29:37'
+ai_summary: 'Memory Leak Exploitation: Overwriting ''x'' after freeing it'
+ai_tags:
+- malloc
+- leak
+- untracked
+- overwriting
 created: 2024-08-08T00:05
 updated: 2024-08-08T00:19
 ---

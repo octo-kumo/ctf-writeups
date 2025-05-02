@@ -1,8 +1,15 @@
 ---
-title: Hidden in Flash
-solves: 7
-points: 499
+ai_date: '2025-04-27 05:27:36'
+ai_summary: Discovered SWF file hidden in firmware extraction, used JPEXS decompiler
+  to extract flag
+ai_tags:
+- swf
+- decompilation
+- exploitation
 created: 2025-04-18T23:21
+points: 499
+solves: 7
+title: Hidden in Flash
 updated: 2025-04-20T20:26
 ---
 

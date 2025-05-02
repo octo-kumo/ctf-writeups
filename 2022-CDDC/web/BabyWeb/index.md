@@ -1,4 +1,10 @@
 ---
+ai_date: '2025-04-27 05:11:36'
+ai_summary: Flag obtained by extracting text from elements with 'flag' class
+ai_tags:
+- xss
+- queryselector
+- text-content
 created: 2024-06-11T01:17
 updated: 2024-07-07T23:07
 ---

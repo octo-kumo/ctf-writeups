@@ -1,4 +1,11 @@
 ---
+ai_date: '2025-04-27 05:22:12'
+ai_summary: Found eval function with custom token validation, allowing code execution;
+  also discovered iframe injection for injecting tokens.
+ai_tags:
+- eval
+- xss
+- iframe-injection
 created: 2024-06-29T18:39
 updated: 2024-07-07T23:06
 ---

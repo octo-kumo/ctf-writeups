@@ -1,4 +1,11 @@
 ---
+ai_date: '2025-04-27 05:10:43'
+ai_summary: Base64-encoded flag input required, likely involving a simple bruteforce
+  or input validation bypass.
+ai_tags:
+- base64
+- brute
+- input-validation
 created: 2024-06-11T01:17
 updated: 2024-07-07T23:08
 ---

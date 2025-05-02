@@ -1,8 +1,15 @@
 ---
+ai_date: '2025-04-27 05:14:12'
+ai_summary: Exploited SQL race condition to create multiple posts and retrieve the
+  flag
+ai_tags:
+- sql
+- race
+- rce
 created: 2024-08-30T19:02
-updated: 2024-09-01T16:00
-solves: 86
 points: 175
+solves: 86
+updated: 2024-09-01T16:00
 ---
 
 The remote uses SQL and checks post count at start.

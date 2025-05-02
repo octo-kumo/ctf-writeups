@@ -1,4 +1,10 @@
 ---
+ai_date: '2025-04-27 05:18:41'
+ai_summary: Web enumeration and XOR decryption challenge
+ai_tags:
+- web
+- xor
+- secret
 created: 2024-09-21T02:26
 updated: 2024-09-21T02:29
 ---

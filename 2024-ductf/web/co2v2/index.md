@@ -1,12 +1,19 @@
 ---
+ai_date: '2025-04-27 05:15:31'
+ai_summary: Disabling XSS protection and exploiting prototype pollution to manipulate
+  global variables
+ai_tags:
+- xss
+- prototype-pollution
+- csp-bypass
 created: 2024-07-06T16:35
-updated: 2024-08-05T19:46
-title: co2v2
-solves: 59
-points: 222
 description: '"Payload primed, initiate deployment."'
+points: 222
+solves: 59
 tags:
-  - csp-bypass
+- csp-bypass
+title: co2v2
+updated: 2024-08-05T19:46
 ---
 
 ## Analysis

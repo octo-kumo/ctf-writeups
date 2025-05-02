@@ -1,8 +1,15 @@
 ---
+ai_date: '2025-04-27 05:18:29'
+ai_summary: Exploited race condition to read previous submission's flag by predicting
+  and targeting its ID
+ai_tags:
+- race
+- file-read
+- rce
 created: 2024-08-17T21:27
-updated: 2024-08-18T21:33
-solves: 63
 points: 257
+solves: 63
+updated: 2024-08-18T21:33
 ---
 
 Yet-Another-Python-Sandbox-Or-Is-It?

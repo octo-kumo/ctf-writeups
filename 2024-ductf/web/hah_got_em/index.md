@@ -1,10 +1,17 @@
 ---
+ai_date: '2025-04-27 05:15:36'
+ai_summary: Exploited misconfigured regex to access /etc/flag.txt via `/proc` path
+  traversal in Chromium Docker image
+ai_tags:
+- lfi
+- proc-tmp
+- path-traversal
 created: 2024-07-05T20:39
-updated: 2024-07-07T21:47
-title: hah_got_em
-solves: 173
-points: 129
 description: smh bad regex
+points: 129
+solves: 173
+title: hah_got_em
+updated: 2024-07-07T21:47
 ---
 
 ## Analysis

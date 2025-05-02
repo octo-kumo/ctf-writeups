@@ -1,10 +1,17 @@
 ---
+ai_date: '2025-04-27 05:23:26'
+ai_summary: Found base64-encoded PowerShell command with SSRF to 192.168.0.16:8282,
+  hinting at a web-based payload and a secret file flag.
+ai_tags:
+- ssrf
+- powershell
+- web
 created: 2024-06-22T18:02
-updated: 2024-08-05T19:29
 points: 185
 solves: 112
 tags:
-  - mem
+- mem
+updated: 2024-08-05T19:29
 ---
 
 ## analysis

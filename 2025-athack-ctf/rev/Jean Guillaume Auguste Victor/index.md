@@ -1,8 +1,14 @@
 ---
+ai_date: '2025-04-27 05:25:55'
+ai_summary: Linear algebra used to calculate the password from given equations
+ai_tags:
+- math
+- linear-algebra
+- xor
 created: 2025-03-01T15:01
-updated: 2025-03-18T02:30
 points: 150
 solves: 20
+updated: 2025-03-18T02:30
 ---
 
 Simple linear algebra!

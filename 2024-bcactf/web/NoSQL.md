@@ -1,4 +1,11 @@
 ---
+ai_date: '2025-04-27 05:13:01'
+ai_summary: Exploited regex-based filtering to bypass authentication and retrieve
+  flag using string matching and index manipulation
+ai_tags:
+- regex
+- bypass
+- http-hdr
 created: 2024-06-10T02:01
 updated: 2024-06-10T23:18
 ---

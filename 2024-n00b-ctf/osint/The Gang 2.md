@@ -1,4 +1,8 @@
 ---
+ai_date: '2025-04-27 05:20:26'
+ai_summary: Username disclosure vulnerability found on Who Am I? challenge
+ai_tags:
+- username-disclosure
 created: 2024-08-04T20:50
 updated: 2024-08-04T20:50
 ---

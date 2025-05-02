@@ -1,4 +1,11 @@
 ---
+ai_date: '2025-04-27 05:29:00'
+ai_summary: Used password from leak to gain a shell, exploited symlink permissions
+  to read flag
+ai_tags:
+- password-leak
+- symlink
+- permissions
 created: 2024-08-08T01:21
 updated: 2024-08-08T01:24
 ---

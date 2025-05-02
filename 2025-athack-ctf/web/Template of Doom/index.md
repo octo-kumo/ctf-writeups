@@ -1,8 +1,15 @@
 ---
+ai_date: '2025-04-27 05:26:12'
+ai_summary: Python template injection vulnerability allows reading flag from 'flag.txt'
+  file
+ai_tags:
+- xss
+- ssti
+- file-read
 created: 2025-03-02T05:16
-updated: 2025-03-18T02:30
-solves: 18
 points: 200
+solves: 18
+updated: 2025-03-18T02:30
 ---
 
 Probing with `{{1+1}}` gave us back `2`.

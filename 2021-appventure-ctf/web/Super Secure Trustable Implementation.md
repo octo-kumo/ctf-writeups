@@ -1,4 +1,11 @@
 ---
+ai_date: '2025-04-27 05:10:37'
+ai_summary: Bypassed server-side filtering using template string manipulation and
+  __import__ to execute system command
+ai_tags:
+- xss
+- template-string
+- exploitation
 created: 2021-12-21T23:50
 updated: 2024-06-21T21:30
 ---

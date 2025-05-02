@@ -1,11 +1,18 @@
 ---
+ai_date: '2025-04-27 05:17:30'
+ai_summary: Exploited Salsa20 streaming property and CRC32 forgery to manipulate ciphertext
+  and command execution
+ai_tags:
+- salsa20
+- crc32
+- forgery
 created: 2024-07-20T01:21
-updated: 2024-07-21T18:46
-tags:
-  - crc32
-  - salsa20
-solves: 101
 points: 100
+solves: 101
+tags:
+- crc32
+- salsa20
+updated: 2024-07-21T18:46
 ---
 
 I made two important discoveries.

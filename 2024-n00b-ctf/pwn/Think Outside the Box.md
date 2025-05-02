@@ -1,8 +1,14 @@
 ---
+ai_date: '2025-04-27 05:20:34'
+ai_summary: Exploited integer overflow to manipulate game state and win without moving
+ai_tags:
+- int-ovf
+- game-exploit
+- logic-bug
 created: 2024-08-04T06:10
-updated: 2024-08-05T19:06
 points: 464
 solves: 152
+updated: 2024-08-05T19:06
 ---
 
 IDK how I solved it but sending it `4294967294,4294967294` will cause the bot to not move at all for 2 turns.

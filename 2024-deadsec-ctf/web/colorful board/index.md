@@ -1,11 +1,18 @@
 ---
+ai_date: '2025-04-27 05:15:05'
+ai_summary: CSS Injection used to find flag characters, followed by SSRF to gain admin
+  rights and find flag ID, then brute-forced flag using CSS rules
+ai_tags:
+- css-injection
+- ssrf
+- brute-force
 created: 2024-07-27T02:55
-updated: 2024-08-04T19:22
-tags:
-  - css-injection
-solves: 15
-points: 360
 description: I do love CSS injection
+points: 360
+solves: 15
+tags:
+- css-injection
+updated: 2024-08-04T19:22
 ---
 
 > Color your username colorful!

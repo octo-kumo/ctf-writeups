@@ -1,8 +1,15 @@
 ---
+ai_date: '2025-04-27 05:20:29'
+ai_summary: Authenticated SQL injection vulnerability found in John Doe's author page,
+  allowing flag retrieval.
+ai_tags:
+- sql
+- 注入
+- auth
 created: 2024-08-04T20:50
-updated: 2024-08-05T19:04
 points: 100
 solves: 597
+updated: 2024-08-05T19:04
 ---
 
 - [n00bzunit3d.xyz/authors/johndoe](https://n00bzunit3d.xyz/authors/johndoe)

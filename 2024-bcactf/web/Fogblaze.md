@@ -1,4 +1,11 @@
 ---
+ai_date: '2025-04-27 05:12:51'
+ai_summary: Bypassed MD5 CAPTCHA by generating a hash table and solving the challenge
+  with precomputed word matches.
+ai_tags:
+- md5
+- hash-table
+- captcha-bypass
 created: 2024-06-09T18:06
 updated: 2024-06-10T23:17
 ---

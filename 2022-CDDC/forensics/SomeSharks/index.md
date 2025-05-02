@@ -1,4 +1,11 @@
 ---
+ai_date: '2025-04-27 05:10:59'
+ai_summary: GET request with If-None-Match header exploited a 304 NOT MODIFIED response,
+  potentially revealing a cached PDF file.
+ai_tags:
+- http-hdr
+- cache-p
+- pdf
 created: 2024-06-11T01:17
 updated: 2024-08-04T20:29
 ---

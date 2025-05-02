@@ -1,8 +1,14 @@
 ---
+ai_date: '2025-04-27 05:24:54'
+ai_summary: Found a flag in the MFT entry with creation time and content hint.
+ai_tags:
+- mft
+- timestamp
+- data
 created: 2025-03-01T16:51
-updated: 2025-03-18T02:27
-solves: 19
 points: 250
+solves: 19
+updated: 2025-03-18T02:27
 ---
 
 Open file with MFT Explorer.

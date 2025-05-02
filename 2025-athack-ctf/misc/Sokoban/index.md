@@ -1,8 +1,14 @@
 ---
+ai_date: '2025-04-27 05:25:20'
+ai_summary: Exploited Sokoban logic to solve puzzle and gain access to flag
+ai_tags:
+- sokoban
+- puzzle
+- logic
 created: 2025-03-02T04:34
-updated: 2025-03-18T02:28
 points: 150
 solves: 9
+updated: 2025-03-18T02:28
 ---
 
 Solved it with [sokoban-solver](https://github.com/dangarfield/sokoban-solver).

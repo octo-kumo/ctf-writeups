@@ -1,10 +1,17 @@
 ---
+ai_date: '2025-04-27 05:15:54'
+ai_summary: Mime spoofing exploit using path traversal to access session files and
+  retrieve flag
+ai_tags:
+- mime-spoofing
+- path-traversal
+- file-read
 created: 2024-07-06T18:15
-updated: 2024-07-08T02:04
-title: Sniffy
-solves: 58
-points: 223
 description: '"Erh, I think this is an audio file?"'
+points: 223
+solves: 58
+title: Sniffy
+updated: 2024-07-08T02:04
 ---
 
 ## Analysis

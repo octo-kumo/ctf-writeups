@@ -1,8 +1,17 @@
 ---
+ai_date: '2025-04-27 05:18:48'
+ai_summary: The writeup describes a challenge where the randomness of a circuit output
+  is being tested, and a specific metric (np_entropy_mean) is used to exploit it.
+  The success rate is higher than expected, suggesting a vulnerability in the randomness
+  generation.
+ai_tags:
+- rand
+- entropy
+- exploitation
 created: 2024-12-08T00:26
-updated: 2024-12-08T13:16
-solves: 86
 points: 119
+solves: 86
+updated: 2024-12-08T13:16
 ---
 
 Output of the random circuit isn't all that random.

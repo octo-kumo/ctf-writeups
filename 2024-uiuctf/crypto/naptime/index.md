@@ -1,8 +1,15 @@
 ---
+ai_date: '2025-04-27 05:21:46'
+ai_summary: Flag encryption using bitwise addition, solved with Z3 by brute forcing
+  binary combinations
+ai_tags:
+- bitwise
+- brute-force
+- xor
 created: 2024-06-28T22:58
-updated: 2024-11-23T20:31
-solves: 180
 points: 363
+solves: 180
+updated: 2024-11-23T20:31
 ---
 
 After reading through the challenge, we can see that the encryption method simply adds numbers from `a[i]` where `i`th bit is `1`.

@@ -1,8 +1,15 @@
 ---
+ai_date: '2025-04-27 05:25:06'
+ai_summary: DNS query revealed zip file containing a password-protected PDF; cracked
+  with 'hackme' password.
+ai_tags:
+- dns-enum
+- zip
+- pdf
 created: 2025-03-01T15:41
-updated: 2025-03-18T02:27
 points: 100
 solves: 20
+updated: 2025-03-18T02:27
 ---
 
 ![image.png](https://res.cloudinary.com/kumonochisanaka/image/upload/v1740862660/2025/03/a14901ba5f149f54ef5a90f0743d4d35.png)

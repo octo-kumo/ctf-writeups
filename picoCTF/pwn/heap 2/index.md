@@ -1,4 +1,11 @@
 ---
+ai_date: '2025-04-27 05:29:34'
+ai_summary: Exploited heap overflow to overwrite x as a pointer, pointing to 'win()'
+  function, achieving remote code execution (RCE) in a 64-bit environment.
+ai_tags:
+- heap
+- rop
+- rce
 created: 2024-08-08T01:09
 updated: 2024-08-08T01:15
 ---

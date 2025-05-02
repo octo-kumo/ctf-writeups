@@ -1,8 +1,15 @@
 ---
+ai_date: '2025-04-27 05:17:57'
+ai_summary: 'Input sanitization missing in bash script generation, allowing command
+  injection (exploit: `;cat /app/flag.txt;echo`)'
+ai_tags:
+- bash
+- cmd-inj
+- payload-injection
 created: 2024-07-21T03:54
-updated: 2024-07-21T18:42
-solves: 18
 points: 474
+solves: 18
+updated: 2024-07-21T18:42
 ---
 
 So we have a python file that opens a testing suite...

@@ -1,8 +1,14 @@
 ---
+ai_date: '2025-04-27 05:25:43'
+ai_summary: Brute-forced seed using known constraints in a timing-based challenge
+ai_tags:
+- brute
+- timing
+- seed
 created: 2025-03-01T21:48
-updated: 2025-03-18T02:29
-solves: 13
 points: 100
+solves: 13
+updated: 2025-03-18T02:29
 ---
 
 There is a 10s delay between successive guesses, hrmm.

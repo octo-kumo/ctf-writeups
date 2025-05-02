@@ -1,11 +1,17 @@
 ---
+ai_date: '2025-04-27 05:18:17'
+ai_summary: User-supplied code execution via string manipulation in PHP assert statement
+ai_tags:
+- xss
+- cmd-injection
+- rce
 created: 2024-07-19T15:44
-updated: 2024-07-21T18:39
 points: 100
 solves: 518
 tags:
-  - php
-  - assert
+- php
+- assert
+updated: 2024-07-21T18:39
 ---
 
 ## assert

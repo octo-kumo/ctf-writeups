@@ -1,10 +1,17 @@
 ---
+ai_date: '2025-04-27 05:21:08'
+ai_summary: Exploited Unity game vulnerability with UnityExplorer mod for unlimited
+  access and found flag in level 1
+ai_tags:
+- cheat
+- exploit
+- level-traversal
 created: 2024-12-15T07:05
-updated: 2024-12-15T08:06
-tags:
-  - unity
-solves: 9
 points: 440
+solves: 9
+tags:
+- unity
+updated: 2024-12-15T08:06
 ---
 
 It's a unity game! So I immediately injected [sinai-dev/UnityExplorer](https://github.com/sinai-dev/UnityExplorer?tab=readme-ov-file)

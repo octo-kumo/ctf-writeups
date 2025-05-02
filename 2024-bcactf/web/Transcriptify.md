@@ -1,4 +1,8 @@
 ---
+ai_date: '2025-04-27 05:13:17'
+ai_summary: XSS vulnerability found in the school transcript request app
+ai_tags:
+- xss
 created: 2024-06-10T02:14
 updated: 2024-06-10T23:19
 ---

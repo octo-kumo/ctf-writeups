@@ -1,4 +1,12 @@
 ---
+ai_date: '2025-04-27 05:12:43'
+ai_summary: Exploited client-side event handling to bypass server-side validation
+  and send large values without triggering an error, achieving the flag by repeatedly
+  clicking.
+ai_tags:
+- xss
+- csrf
+- clickjacking
 created: 2024-06-09T17:56
 updated: 2024-06-10T23:18
 ---

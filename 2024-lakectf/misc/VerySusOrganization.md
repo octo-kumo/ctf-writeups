@@ -1,8 +1,15 @@
 ---
+ai_date: '2025-04-27 05:19:07'
+ai_summary: Supply chain attack exploiting npm postinstall script to read and exfiltrate
+  flag
+ai_tags:
+- npm
+- supply-chain
+- payload-injection
 created: 2024-12-07T17:12
-updated: 2024-12-08T13:17
-solves: 98
 points: 102
+solves: 98
+updated: 2024-12-08T13:17
 ---
 
 We are invited to a github organisation!

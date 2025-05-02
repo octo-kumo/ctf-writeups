@@ -1,8 +1,14 @@
 ---
+ai_date: '2025-04-27 05:18:52'
+ai_summary: Brute-forced the first byte of the signature to bypass validation
+ai_tags:
+- brute
+- padding
+- signature
 created: 2024-12-08T04:57
-updated: 2024-12-08T13:17
-solves: 93
 points: 109
+solves: 93
+updated: 2024-12-08T13:17
 ---
 
 Bruteforce the 1st byte of the signature.

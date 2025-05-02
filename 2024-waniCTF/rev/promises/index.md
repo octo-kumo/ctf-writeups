@@ -1,10 +1,18 @@
 ---
+ai_date: '2025-04-27 05:23:54'
+ai_summary: JavaScript promise exploitation involving getter/setter pattern, dependency
+  resolution, and logic with min/max operations.
+ai_tags:
+- promise
+- dependency-resolution
+- minmax
+- logic-extraction
 created: 2024-06-22T19:23
-updated: 2025-01-06T23:25
-solves: 15
 points: 373
+solves: 15
 tags:
-  - fav
+- fav
+updated: 2025-01-06T23:25
 ---
 
 > JavaScript の Promise について勉強した。なんかいろいろできますね！

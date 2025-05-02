@@ -1,4 +1,10 @@
 ---
+ai_date: '2025-04-27 05:11:13'
+ai_summary: Morse code decryption challenge
+ai_tags:
+- morse
+- decode
+- ciphertext
 created: 2024-06-11T01:17
 updated: 2024-07-07T23:08
 ---

@@ -1,4 +1,10 @@
 ---
+ai_date: '2025-04-27 05:13:05'
+ai_summary: Phone number input bypassed with hard-coded value, flag extracted
+ai_tags:
+- xss
+- csrf
+- rce
 created: 2024-06-09T16:16
 updated: 2024-06-10T23:19
 ---

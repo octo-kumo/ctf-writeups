@@ -1,8 +1,14 @@
 ---
+ai_date: '2025-04-27 05:20:06'
+ai_summary: 'Found flag in the guessed URLs: Terms_of_Serv1c3s_and_privacy_policy'
+ai_tags:
+- http-hdr
+- redir
+- sub-take
 created: 2024-08-04T20:47
-updated: 2024-08-05T19:04
 points: 326
 solves: 331
+updated: 2024-08-05T19:04
 ---
 
 Guessing game

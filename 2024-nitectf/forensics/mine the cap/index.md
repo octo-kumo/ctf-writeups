@@ -1,10 +1,17 @@
 ---
+ai_date: '2025-04-27 05:21:05'
+ai_summary: Flag found in Minecraft packet analysis, involving block updates and multi-block
+  changes
+ai_tags:
+- block-update
+- multi-block-change
+- recon
 created: 2024-12-15T07:14
-updated: 2024-12-15T08:06
-tags:
-  - minecraft
-solves: 4
 points: 480
+solves: 4
+tags:
+- minecraft
+updated: 2024-12-15T08:06
 ---
 
 The packets are minecraft packets!

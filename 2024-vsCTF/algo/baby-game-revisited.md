@@ -1,4 +1,11 @@
 ---
+ai_date: '2025-04-27 05:22:25'
+ai_summary: Koala wins by reaching d=0, while Panda wins by advancing when d is odd
+  or when adjacent cells are decreasing in value
+ai_tags:
+- game-theory
+- advantage
+- manhattan-distance
 created: 2024-06-15T00:52
 updated: 2024-08-04T19:44
 ---

@@ -1,10 +1,17 @@
 ---
+ai_date: '2025-04-27 05:16:28'
+ai_summary: Exploited stack-based buffer overflow with ROP to jump to 'escape_plan'
+  at 0x00401255, using 'A' repeated N times and a crafted RET address.
+ai_tags:
+- rop
+- bof
+- ret2addr
 created: 2024-07-17T02:27
-updated: 2024-08-04T19:33
-tags:
-  - rop
-solves: 65
 points: 975
+solves: 65
+tags:
+- rop
+updated: 2024-08-04T19:33
 ---
 
 We can trace where `flag.txt` is being read with xrefs.

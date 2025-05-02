@@ -1,8 +1,14 @@
 ---
+ai_date: '2025-04-27 05:19:41'
+ai_summary: 'Reversed shuffle algorithm reveals flag: n00bz{5up3r_dup3r_ultr4_54f3_p455w0rd_4fd1b2d60184}'
+ai_tags:
+- xss
+- reversing
+- puzzle
 created: 2024-08-04T06:13
-updated: 2024-08-05T19:02
 points: 451
 solves: 177
+updated: 2024-08-05T19:02
 ---
 
 Constant seed random.

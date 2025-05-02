@@ -1,7 +1,14 @@
 ---
+ai_date: '2025-04-27 05:16:45'
+ai_summary: MD5 collision exploitation used to bypass authentication with a known
+  alphanumeric collision pair
+ai_tags:
+- md5
+- collision
+- exploitation
 created: 2024-12-14T00:57
-updated: 2024-12-15T17:04
 points: 775
+updated: 2024-12-15T17:04
 ---
 
 ```python

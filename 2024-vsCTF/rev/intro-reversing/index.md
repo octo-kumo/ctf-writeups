@@ -1,8 +1,14 @@
 ---
+ai_date: '2025-04-27 05:22:58'
+ai_summary: Flag revealed by modifying sleep duration in decompiled code
+ai_tags:
+- rop
+- ret2libc
+- exploitation
 created: 2024-06-14T18:13
-updated: 2024-08-04T19:46
-solves: 387
 points: 242
+solves: 387
+updated: 2024-08-04T19:46
 ---
 
 > Flag will be printed out straight away when you run the binary.

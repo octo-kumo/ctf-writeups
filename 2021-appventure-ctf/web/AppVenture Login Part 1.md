@@ -1,4 +1,9 @@
 ---
+ai_date: '2025-04-27 05:10:19'
+ai_summary: SQL injection vulnerability due to unescaped user input in a query
+ai_tags:
+- sql
+- injection
 created: 2021-12-21T23:50
 updated: 2024-06-10T23:41
 ---

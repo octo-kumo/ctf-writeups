@@ -1,8 +1,15 @@
 ---
+ai_date: '2025-04-27 05:18:25'
+ai_summary: Exploited knockback calculation from shooter's location to triangulate
+  player's position in Minecraft.
+ai_tags:
+- ssrf
+- triangulation
+- exploitation
 created: 2024-08-17T03:27
-updated: 2024-08-18T21:33
 points: 363
 solves: 29
+updated: 2024-08-18T21:33
 ---
 
 Minecraft arrow knockback coordinate leak

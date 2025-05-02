@@ -1,4 +1,10 @@
 ---
+ai_date: '2025-04-27 05:11:33'
+ai_summary: '[!] Flag is hidden in input string, likely a bruteforce or regex challenge'
+ai_tags:
+- brute
+- regex
+- input-validation
 created: 2024-06-11T01:17
 updated: 2024-07-07T23:08
 ---

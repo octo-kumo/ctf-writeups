@@ -1,8 +1,14 @@
 ---
+ai_date: '2025-04-27 05:21:20'
+ai_summary: Exploits ping feature to find bot's ID, then moves bot and shoots to win
+ai_tags:
+- ping
+- id-enum
+- rce
 created: 2024-08-02T18:24
-updated: 2024-08-04T13:59
-solves: 48
 points: 338
+solves: 48
+updated: 2024-08-04T13:59
 ---
 
 The game goes like this.

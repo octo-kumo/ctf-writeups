@@ -1,13 +1,20 @@
 ---
-title: RF Fan
-solves: 10
-points: 497
+ai_date: '2025-04-27 05:27:41'
+ai_summary: Flag found by decoding a binary signal using OOK demodulation and pattern
+  recognition of repeating bits
+ai_tags:
+- demod
+- pattern-recognition
+- binary-decoding
 created: 2025-04-20T13:19
-updated: 2025-04-20T20:26
+points: 497
+solves: 10
 tags:
-  - rf
-  - demodulation
-  - iq
+- rf
+- demodulation
+- iq
+title: RF Fan
+updated: 2025-04-20T20:26
 ---
 
 My teammate @zeptoide already did much of the work of writing the solve script and also finding the parameters.

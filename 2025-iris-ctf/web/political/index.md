@@ -1,11 +1,17 @@
 ---
+ai_date: '2025-04-27 05:27:17'
+ai_summary: Bypassed URL encoding to exploit '/giveflag' endpoint
+ai_tags:
+- url-encoding
+- bypass
+- http-params
 created: 2025-01-04T20:01
-updated: 2025-01-06T23:20
 points: 50
 solves: 152
 tags:
-  - url
-  - normalization
+- url
+- normalization
+updated: 2025-01-06T23:20
 ---
 
 I knew from a glance that we have to bypass the url block list.

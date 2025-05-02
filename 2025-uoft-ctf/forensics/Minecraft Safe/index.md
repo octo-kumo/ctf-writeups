@@ -1,9 +1,16 @@
 ---
+ai_date: '2025-04-27 05:28:24'
+ai_summary: Identified weak crypto in server.jar's key generation, used for encryption.
+  Exploitation involved analyzing server source and understanding the encryption algorithm.
+ai_tags:
+- rsa
+- weak-key
+- crypto-exploitation
 created: 2025-01-11T01:17
-updated: 2025-01-12T20:04
 solves: 3
 tags:
-  - unsolved
+- unsolved
+updated: 2025-01-12T20:04
 ---
 
 Another minecraft pcap challenge?

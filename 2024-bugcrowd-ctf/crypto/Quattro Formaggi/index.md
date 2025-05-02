@@ -1,7 +1,13 @@
 ---
+ai_date: '2025-04-27 05:13:48'
+ai_summary: 'ASCII pixel data revealed flag: flag{take_a_break_have_a_snack}'
+ai_tags:
+- ascii
+- imgf
+- sub-take
 created: 2024-08-08T08:56
-updated: 2024-08-17T20:14
 points: 200
+updated: 2024-08-17T20:14
 ---
 
 Extracted pixel data are all ~70, and indeed they are just ascii values.

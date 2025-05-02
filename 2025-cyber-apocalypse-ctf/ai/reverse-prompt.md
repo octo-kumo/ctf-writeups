@@ -1,7 +1,14 @@
 ---
+ai_date: '2025-04-27 05:26:32'
+ai_summary: Used word2vec and vec2text to decode sentence embeddings, discovered the
+  flag by adjusting `num_steps` parameter
+ai_tags:
+- vec2text
+- embedding-decoding
+- reverse-engineering
 created: 2025-03-22T23:54
-updated: 2025-04-19T08:07
 points: 975
+updated: 2025-04-19T08:07
 ---
 
 My first attempt was to use a evolution like algorithm to find the original text, the model I used was `SentenceTransformer('sentence-transformers/gtr-t5-base')`.

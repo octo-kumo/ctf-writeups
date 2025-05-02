@@ -1,8 +1,14 @@
 ---
+ai_date: '2025-04-27 05:27:13'
+ai_summary: Single replace vulnerability exploited for SSRF and password retrieval
+ai_tags:
+- ssrf
+- xss
+- payload-injection
 created: 2025-01-04T20:01
-updated: 2025-01-05T19:10
 points: 50
 solves: 357
+updated: 2025-01-05T19:10
 ---
 
 A single replace is never good for security.

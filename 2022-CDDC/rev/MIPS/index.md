@@ -1,4 +1,10 @@
 ---
+ai_date: '2025-04-27 05:11:30'
+ai_summary: Flag recovered by XOR-decompiling and reversing the encryption
+ai_tags:
+- xor
+- decompilation
+- reversing
 created: 2024-06-11T01:17
 updated: 2024-07-07T23:08
 ---

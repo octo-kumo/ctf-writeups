@@ -1,7 +1,15 @@
 ---
+ai_date: '2025-04-27 05:16:53'
+ai_summary: Writeup describes a vulnerability in a solver script that exploits a leaked
+  LCG (Linear Congruential Generator) state, specifically the last byte, to determine
+  the seed. The total number of seeds is limited to 256 due to the state size.
+ai_tags:
+- lcg
+- state-leak
+- predictability
 created: 2024-12-14T01:35
-updated: 2024-12-15T17:05
 points: 900
+updated: 2024-12-15T17:05
 ---
 
 I was writing a solver that can solve the SEED based on a stream of leaked last byte, possibly gotten via guessing the key stream, but oh well.

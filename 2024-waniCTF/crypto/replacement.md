@@ -1,8 +1,15 @@
 ---
+ai_date: '2025-04-27 05:23:15'
+ai_summary: Solved by pre-computing an MD5 hash table and mapping character codes
+  to their original characters.
+ai_tags:
+- md5
+- hash
+- decryption
 created: 2024-06-22T02:03
-updated: 2024-08-05T09:49
 points: 126
 solves: 431
+updated: 2024-08-05T09:49
 ---
 
 It appears that every character is replaced by their MD5 hash.

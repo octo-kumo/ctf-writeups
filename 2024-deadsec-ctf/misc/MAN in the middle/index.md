@@ -1,12 +1,18 @@
 ---
+ai_date: '2025-04-27 05:14:55'
+ai_summary: Flag extracted from Manchester-encoded audio signal
+ai_tags:
+- manchester
+- sync
+- data-recovery
 created: 2024-07-27T15:54
-updated: 2024-07-28T04:21
-tags:
-  - audio
-title: MAN in the middle
-solves: 8
-points: 430
 description: I like your funny waves
+points: 430
+solves: 8
+tags:
+- audio
+title: MAN in the middle
+updated: 2024-07-28T04:21
 ---
 
 > Do you know that even the signals without encryption are vulnerable to the MAN in the middle attack?

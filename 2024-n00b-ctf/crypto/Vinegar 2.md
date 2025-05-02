@@ -1,8 +1,14 @@
 ---
+ai_date: '2025-04-27 05:19:48'
+ai_summary: Vigenère cipher with a custom key and extended character set
+ai_tags:
+- vigenere
+- custom-key
+- extended-alphabet
 created: 2024-08-04T06:13
-updated: 2024-08-05T19:03
 points: 135
 solves: 479
+updated: 2024-08-05T19:03
 ---
 
 Vigenère but more characters

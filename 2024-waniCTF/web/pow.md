@@ -1,8 +1,15 @@
 ---
+ai_date: '2025-04-27 05:24:13'
+ai_summary: Flag obtained by finding numbers with hash starting '000000', exploiting
+  repeated number acceptance
+ai_tags:
+- hash
+- pattern-attack
+- repeated-numbers
 created: 2024-06-21T19:41
-updated: 2024-08-05T09:53
 points: 143
 solves: 250
+updated: 2024-08-05T09:53
 ---
 
 > compute hash to get your flag

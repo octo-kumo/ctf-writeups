@@ -1,7 +1,14 @@
 ---
+ai_date: '2025-04-27 05:17:12'
+ai_summary: Bypassed OTP validation with de Bruijn sequence and manipulated JWT's
+  jku field for key substitution.
+ai_tags:
+- otp-bypass
+- jku-bypass
+- rsa
 created: 2024-12-13T15:53
-updated: 2024-12-15T17:06
 points: 900
+updated: 2024-12-15T17:06
 ---
 
 Fun OTP bypass + JKU bypass. Signing JWTs with our own private keys.

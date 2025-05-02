@@ -1,8 +1,15 @@
 ---
+ai_date: '2025-04-27 05:26:03'
+ai_summary: Cookie manipulation allows bypassing authentication on /human_submit,
+  exploiting lack of proper validation for 'is_human' cookie.
+ai_tags:
+- cookie
+- xss
+- auth-bypass
 created: 2025-03-01T20:30
-updated: 2025-03-18T02:31
-solves: 22
 points: 50
+solves: 22
+updated: 2025-03-18T02:31
 ---
 
 Notice the `Set-Cookie` headers.

@@ -1,8 +1,15 @@
 ---
+ai_date: '2025-04-27 05:24:09'
+ai_summary: Web challenge exploiting timing difference in server's time handling,
+  solved by setting up a custom time server
+ai_tags:
+- time
+- http-hdr
+- rce
 created: 2024-06-22T17:30
-updated: 2024-08-05T09:53
-solves: 105
 points: 190
+solves: 105
+updated: 2024-08-05T09:53
 ---
 
 I went on a large tangent searching for ways to crack the ECC and DSS.

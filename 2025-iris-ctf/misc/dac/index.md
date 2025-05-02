@@ -1,11 +1,18 @@
 ---
+ai_date: '2025-04-27 05:26:56'
+ai_summary: Recovered audio data from distorted image using cumulative sum on binary
+  array
+ai_tags:
+- imgf
+- audio
+- diff
 created: 2025-01-04T21:36
-updated: 2025-01-06T23:22
 points: 494
 solves: 12
 tags:
-  - dpcm
-  - delta-modulation
+- dpcm
+- delta-modulation
+updated: 2025-01-06T23:22
 ---
 
 Was solved after tons of guessing.

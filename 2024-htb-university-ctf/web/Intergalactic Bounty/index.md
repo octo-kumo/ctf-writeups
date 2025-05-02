@@ -1,11 +1,18 @@
 ---
+ai_date: '2025-04-27 05:17:17'
+ai_summary: Bypassed email domain validation and used prototype pollution and template
+  injection to gain admin access and retrieve flag
+ai_tags:
+- xss
+- prototype-pollution
+- template-injection
 created: 2024-12-13T17:55
-updated: 2024-12-15T17:06
-tags:
-  - fav
-  - email
-  - 0day
 points: 975
+tags:
+- fav
+- email
+- 0day
+updated: 2024-12-15T17:06
 ---
 
 This appears similar to Armaxis, except I finally get to send email to multiple recipients?

@@ -1,4 +1,11 @@
 ---
+ai_date: '2025-04-27 05:14:08'
+ai_summary: Misconfigured Nginx alias allowed directory traversal in static files
+  leading to JWT secret exposure and privilege escalation.
+ai_tags:
+- lfi
+- rfi
+- ssrf
 created: 2024-09-01T17:04
 updated: 2024-09-01T17:06
 ---

@@ -1,4 +1,10 @@
 ---
+ai_date: '2025-04-27 05:13:15'
+ai_summary: 'Websocket exploit: Unsecured game state allowed remote control of moves'
+ai_tags:
+- ws
+- xss
+- cmd-exec
 created: 2024-06-10T01:50
 updated: 2024-06-10T23:19
 ---

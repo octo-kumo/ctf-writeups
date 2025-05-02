@@ -1,4 +1,10 @@
 ---
+ai_date: '2025-04-27 05:29:03'
+ai_summary: Overflow and code execution to bypass level checks
+ai_tags:
+- overflow
+- bypass
+- level-checks
 created: 2024-08-08T02:49
 updated: 2024-08-08T04:38
 ---

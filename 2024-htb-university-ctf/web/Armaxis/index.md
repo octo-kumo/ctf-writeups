@@ -1,7 +1,14 @@
 ---
+ai_date: '2025-04-27 05:17:07'
+ai_summary: Command injection vulnerability via Markdown parsing allows for file upload
+  and flag retrieval
+ai_tags:
+- cmd-inj
+- markdown
+- lfi
 created: 2024-12-13T14:12
-updated: 2024-12-15T17:06
 points: 775
+updated: 2024-12-15T17:06
 ---
 
 After using the app as intended, I think the solution is to reset someone else's password.

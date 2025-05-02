@@ -1,4 +1,11 @@
 ---
+ai_date: '2025-04-27 05:10:12'
+ai_summary: Format string attack exploited to gain remote shell by replacing '/bin/ls'
+  with '/bin/sh'
+ai_tags:
+- fmt-str
+- rop
+- shell
 created: 2021-12-21T23:50
 updated: 2024-06-10T23:38
 ---

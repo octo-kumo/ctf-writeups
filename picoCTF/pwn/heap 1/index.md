@@ -1,4 +1,10 @@
 ---
+ai_date: '2025-04-27 05:29:29'
+ai_summary: Overflow exploit using adjacent memory allocation due to `malloc` fragmentation
+ai_tags:
+- heap-overflow
+- malloc
+- buffer-overflow
 created: 2024-08-08T00:20
 updated: 2024-08-08T01:08
 ---

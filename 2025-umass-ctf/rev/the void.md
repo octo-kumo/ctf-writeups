@@ -1,8 +1,14 @@
 ---
-title: the void
-solves: 20
-points: 486
+ai_date: '2025-04-27 05:27:51'
+ai_summary: XOR-based encryption with a fixed XOR key
+ai_tags:
+- xor
+- xor-key
+- brute-force
 created: 2025-04-18T18:15
+points: 486
+solves: 20
+title: the void
 updated: 2025-04-20T20:27
 ---
 

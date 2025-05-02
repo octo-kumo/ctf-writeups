@@ -1,4 +1,11 @@
 ---
+ai_date: '2025-04-27 05:28:53'
+ai_summary: Flag obtained by exploiting modular arithmetic and finding the private
+  key using given equations
+ai_tags:
+- mod-exp
+- rsa
+- math
 created: 2024-11-16T19:35
 updated: 2024-11-16T19:41
 ---

@@ -1,8 +1,15 @@
 ---
+ai_date: '2025-04-27 05:12:15'
+ai_summary: Extracted flag from filtered signal using FFT analysis and peak detection,
+  with adjustments for weak first bit
+ai_tags:
+- fft
+- freq-analysis
+- peak-detection
 created: 2024-12-27T17:06
-updated: 2024-12-28T06:30
 points: 450
 solves: 6
+updated: 2024-12-28T06:30
 ---
 
 Trace file that seems pretty well structured, 7 bits, solved with FFT and a bunch of filters.

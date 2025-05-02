@@ -1,8 +1,15 @@
 ---
+ai_date: '2025-04-27 05:16:02'
+ai_summary: Decompressing and combining SMTP email attachments to reveal a PDF file
+ai_tags:
+- smtp
+- email
+- decomp
+- pdf
 created: 2024-07-17T00:16
-updated: 2024-08-04T19:30
-solves: 265
 points: 950
+solves: 265
+updated: 2024-08-04T19:30
 ---
 
 I extracted files from HTTP but they are all useless xz archives.

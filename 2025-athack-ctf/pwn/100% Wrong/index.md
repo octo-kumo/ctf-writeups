@@ -1,8 +1,12 @@
 ---
+ai_date: '2025-04-27 05:25:28'
+ai_summary: Format string vulnerability in printf with user-supplied input
+ai_tags:
+- fmt-str
 created: 2025-03-01T22:32
-updated: 2025-03-02T14:21
 tags:
-  - unsolved
+- unsolved
+updated: 2025-03-02T14:21
 ---
 
 Couldn't solve it, probably some fancy triple format string.

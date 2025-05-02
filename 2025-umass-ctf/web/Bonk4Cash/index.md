@@ -1,11 +1,18 @@
 ---
-title: Bonk4Cash
-solves: 15
-points: 493
+ai_date: '2025-04-27 05:27:56'
+ai_summary: XSS exploitation via DOM manipulation after sanitization bypass in client-side
+  JavaScript
+ai_tags:
+- xss
+- sanitization-bypass
+- javascript
 created: 2025-04-19T05:58
-updated: 2025-04-20T20:27
+points: 493
+solves: 15
 tags:
-  - xss
+- xss
+title: Bonk4Cash
+updated: 2025-04-20T20:27
 ---
 
 The client JS trusts the API so much it uses `innerHTML` to display the messages.

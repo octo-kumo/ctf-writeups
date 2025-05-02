@@ -1,10 +1,15 @@
 ---
+ai_date: '2025-04-27 05:23:08'
+ai_summary: Flag decrypted using integer factorization to compute the private key
+ai_tags:
+- factorization
+- rsa
 created: 2024-06-22T01:47
-updated: 2024-08-05T19:29
 points: 121
 solves: 530
 tags:
-  - rsa
+- rsa
+updated: 2024-08-05T19:29
 ---
 
 The big number can be factorized with online tools [Integer factorization calculator (alpertron.com.ar)](https://www.alpertron.com.ar/ECM.HTM)

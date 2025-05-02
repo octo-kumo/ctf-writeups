@@ -1,8 +1,15 @@
 ---
+ai_date: '2025-04-27 05:25:14'
+ai_summary: Exploited cleartext RFID data and UID spoofing to gain access, manipulated
+  balance for flag
+ai_tags:
+- rfid
+- uid-spoofing
+- balance-manipulation
 created: 2025-03-01T18:34
-updated: 2025-03-18T02:28
-solves: 13
 points: 1500
+solves: 13
+updated: 2025-03-18T02:28
 ---
 
 Fun first time RFID challenge!

@@ -1,4 +1,10 @@
 ---
+ai_date: '2025-04-27 05:11:02'
+ai_summary: Decoding and manipulating a PNG image revealed a hidden flag
+ai_tags:
+- imgf
+- png
+- redir
 created: 2024-06-11T01:17
 updated: 2024-07-07T23:08
 ---

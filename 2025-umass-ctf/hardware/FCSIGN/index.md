@@ -1,8 +1,15 @@
 ---
-title: FCSIGN
-solves: 3
-points: 500
+ai_date: '2025-04-27 05:27:31'
+ai_summary: Challenge involved brute-forcing a 16-byte password by measuring time
+  differences in response cycles, exploiting string comparison order.
+ai_tags:
+- brute
+- timing
+- password-guessing
 created: 2025-04-19T21:18
+points: 500
+solves: 3
+title: FCSIGN
 updated: 2025-04-20T19:59
 ---
 

@@ -1,8 +1,14 @@
 ---
+ai_date: '2025-04-27 05:14:21'
+ai_summary: Unprotected session vulnerability and LLM access control improved
+ai_tags:
+- ssrf
+- sql
+- auth-bypass
 created: 2024-11-23T16:03
-updated: 2024-11-23T22:26
-solves: 10
 points: 1833
+solves: 10
+updated: 2024-11-23T22:26
 ---
 
 > LLM is all the rage! Our intern created this chatbot poc which leverages LLMs to answer questions from voters! It was working so well that we deployed it straight to production! We are now getting reports of usual behavior on the site. We captured the traffic and created a script to re-run it at the click of the button.

@@ -1,4 +1,11 @@
 ---
+ai_date: '2025-04-27 05:10:32'
+ai_summary: Exploited YAML deserialization vulnerability (RCE) in PyYAML 5.3.1 for
+  remote code execution, using a crafted payload.
+ai_tags:
+- yaml
+- rce
+- deserialization
 created: 2021-12-21T23:50
 updated: 2024-06-21T21:29
 ---

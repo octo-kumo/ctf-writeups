@@ -1,8 +1,14 @@
 ---
+ai_date: '2025-04-27 05:15:57'
+ai_summary: Single character XOR decryption with a fixed key
+ai_tags:
+- xor
+- crypto
+- ciphertext
 created: 2024-07-17T01:12
-updated: 2024-08-04T19:32
-solves: 462
 points: 900
+solves: 462
+updated: 2024-08-04T19:32
 ---
 
 Single character change crypto.

@@ -1,10 +1,17 @@
 ---
+ai_date: '2025-04-27 05:23:30'
+ai_summary: Identified RDP cache file containing a hidden flag using forensic analysis
+  tools like RDPCacheStitcher or BMC-tools.
+ai_tags:
+- rpd-cache
+- forensic
+- bmp
 created: 2024-06-22T02:44
-updated: 2024-08-05T19:29
-solves: 431
 points: 126
+solves: 431
 tags:
-  - RDP8bmp
+- RDP8bmp
+updated: 2024-08-05T19:29
 ---
 
 Using hex editor we can see that the file starts with `RDP8bmp`, with some google search we know that it is a BMP cache file.

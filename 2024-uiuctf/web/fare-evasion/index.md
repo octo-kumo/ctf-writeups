@@ -1,10 +1,17 @@
 ---
+ai_date: '2025-04-27 05:22:08'
+ai_summary: Exploited SQL injection using raw MD5 hash in string concatenation for
+  payload modification
+ai_tags:
+- sql
+- md5
+- injection
 created: 2024-06-28T20:52
-updated: 2024-11-23T20:30
-tags:
-  - raw-md5
 points: 370
 solves: 173
+tags:
+- raw-md5
+updated: 2024-11-23T20:30
 ---
 
 ## Analyze

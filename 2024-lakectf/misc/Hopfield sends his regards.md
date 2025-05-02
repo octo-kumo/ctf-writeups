@@ -1,8 +1,14 @@
 ---
+ai_date: '2025-04-27 05:19:02'
+ai_summary: Recovering patterns from Hopfield network weights leads to flag
+ai_tags:
+- hopfield
+- pattern-recovery
+- neural-network
 created: 2024-12-07T18:23
-updated: 2024-12-08T13:17
-solves: 24
 points: 325
+solves: 24
+updated: 2024-12-08T13:17
 ---
 
 The name is "Hopfield", that is a big give away that this is a [Hopfield network](https://en.wikipedia.org/wiki/Hopfield_network) question.

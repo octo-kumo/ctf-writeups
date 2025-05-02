@@ -1,10 +1,17 @@
 ---
+ai_date: '2025-04-27 05:23:34'
+ai_summary: Suspicious image size revealed hidden width; discovered using SOF0 marker
+  and length
+ai_tags:
+- imgf
+- len-ext
+- magic-bytes
 created: 2024-06-22T05:38
-updated: 2024-08-05T19:29
-solves: 118
 points: 182
+solves: 118
 tags:
-  - cropped-image
+- cropped-image
+updated: 2024-08-05T19:29
 ---
 
 The image is suspiciously large for its pixel size.

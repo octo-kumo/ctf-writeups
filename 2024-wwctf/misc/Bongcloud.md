@@ -1,8 +1,15 @@
 ---
+ai_date: '2025-04-27 05:24:25'
+ai_summary: Script uses Stockfish engine for chess to win games against a bot, demonstrating
+  AI exploitation.
+ai_tags:
+- ai
+- stockfish
+- exploitation
 created: 2024-11-30T15:25
-updated: 2024-12-08T01:43
 points: 153
 solves: 95
+updated: 2024-12-08T01:43
 ---
 
 You can always play it manually!

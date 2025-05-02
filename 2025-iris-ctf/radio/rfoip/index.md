@@ -1,10 +1,17 @@
 ---
+ai_date: '2025-04-27 05:27:07'
+ai_summary: 'Audio analysis used to demodulate a radio signal and recover the flag:
+  irisctf{welcome_to_iris_radio_enjoy_surfing_the_waves}'
+ai_tags:
+- radio
+- demodulation
+- audio-analysis
 created: 2025-01-05T04:22
-updated: 2025-01-06T23:20
 points: 359
 solves: 56
 tags:
-  - iq
+- iq
+updated: 2025-01-06T23:20
 ---
 
 By the sheer amount of IQ radio challenges in this CTF, I can literally guess it is IQ.

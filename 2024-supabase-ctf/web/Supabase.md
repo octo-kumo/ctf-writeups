@@ -1,7 +1,14 @@
 ---
+ai_date: '2025-04-27 05:21:17'
+ai_summary: 'Found vulnerabilities: XSS, SQL Injection, and Stored XSS in JavaScript,
+  as well as email enumeration and admin credentials exploitation.'
+ai_tags:
+- xss
+- sql
+- stored-xss
 created: 2024-12-09T15:10
-updated: 2024-12-15T08:05
 points: 450
+updated: 2024-12-15T08:05
 ---
 
 ## Basics

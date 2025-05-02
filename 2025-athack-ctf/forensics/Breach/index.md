@@ -1,8 +1,15 @@
 ---
+ai_date: '2025-04-27 05:24:42'
+ai_summary: UDP-based keystroke injection vulnerability in a virus program, extracting
+  flag from captured packets
+ai_tags:
+- udp-recon
+- input-event
+- keylogging
 created: 2025-03-01T17:59
-updated: 2025-03-18T02:26
-solves: 11
 points: 300
+solves: 11
+updated: 2025-03-18T02:26
 ---
 
 `breach` is a virus that sends keystrokes over UDP it seems.

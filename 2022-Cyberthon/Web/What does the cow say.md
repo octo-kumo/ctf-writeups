@@ -1,4 +1,10 @@
 ---
+ai_date: '2025-04-27 05:12:06'
+ai_summary: Flag retrieved by exploiting command injection through the 'msg' header
+ai_tags:
+- cmd-inj
+- http-hdr
+- rce
 created: 2024-06-11T01:33
 updated: 2024-06-11T01:35
 ---

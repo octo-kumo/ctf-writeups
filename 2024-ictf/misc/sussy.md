@@ -1,8 +1,14 @@
 ---
+ai_date: '2025-04-27 05:17:53'
+ai_summary: Flag found in Discord spoiler, likely a leaked message.
+ai_tags:
+- chat-log
+- discord
+- hidden
 created: 2024-07-20T17:38
-updated: 2024-07-21T18:40
-solves: 51
 points: 292
+solves: 51
+updated: 2024-07-21T18:40
 ---
 
 I logged every message the bot sent, and there it is, hidden by discord spoiler magic.

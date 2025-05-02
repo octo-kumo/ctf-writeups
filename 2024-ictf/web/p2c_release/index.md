@@ -1,8 +1,14 @@
 ---
+ai_date: '2025-04-27 05:18:20'
+ai_summary: 'Easiest ever RCE: Unrestricted code execution via input payload'
+ai_tags:
+- rce
+- cmd-exec
+- python
 created: 2024-07-19T16:06
-updated: 2024-07-21T18:39
 points: 100
 solves: 247
+updated: 2024-07-21T18:39
 ---
 
 We are sending code to the server... and the server is running it.

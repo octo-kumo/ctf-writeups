@@ -1,4 +1,10 @@
 ---
+ai_date: '2025-04-27 05:11:51'
+ai_summary: Found secret header exploitation for admin access to view source code
+ai_tags:
+- http-hdr
+- xss
+- secret
 created: 2024-06-11T01:33
 updated: 2024-06-11T01:34
 ---

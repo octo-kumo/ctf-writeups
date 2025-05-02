@@ -1,8 +1,15 @@
 ---
+ai_date: '2025-04-27 05:14:28'
+ai_summary: Used testing image from PDF, attempted to generate valid barcode for input
+  validation bypass
+ai_tags:
+- img-search
+- barcodes
+- input-validation
 created: 2024-11-23T22:27
-updated: 2024-11-23T22:29
-solves: 61
 points: 100
+solves: 61
+updated: 2024-11-23T22:29
 ---
 
 ## part 1

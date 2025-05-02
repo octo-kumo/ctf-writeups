@@ -1,8 +1,14 @@
 ---
+ai_date: '2025-04-27 05:18:33'
+ai_summary: XSS bypass with HTTP-only cookie exploitation and SSRF through nginx rule
+ai_tags:
+- xss
+- http-only
+- ssrf
 created: 2024-08-17T18:40
-updated: 2024-08-18T21:34
 points: 135
 solves: 161
+updated: 2024-08-18T21:34
 ---
 
 ## problem

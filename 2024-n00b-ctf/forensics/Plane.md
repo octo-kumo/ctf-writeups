@@ -1,8 +1,14 @@
 ---
+ai_date: '2025-04-27 05:19:54'
+ai_summary: Flag found in GPS coordinates
+ai_tags:
+- geo
+- gps
+- flag
 created: 2024-08-04T06:12
-updated: 2024-08-05T19:03
 points: 100
 solves: 574
+updated: 2024-08-05T19:03
 ---
 
 Exiftool GOAT

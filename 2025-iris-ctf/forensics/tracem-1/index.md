@@ -1,11 +1,19 @@
 ---
+ai_date: '2025-04-27 05:26:43'
+ai_summary: User 1021321935 visited a suspicious domain and had a unique IP-MAC mapping,
+  revealing their username 'llloyd'
+ai_tags:
+- dns
+- dhcp
+- mac-to-ip
+- unique-visit
 created: 2025-01-04T15:56
-updated: 2025-01-06T23:22
-solves: 88
 points: 152
+solves: 88
 tags:
-  - json-log
-  - log
+- json-log
+- log
+updated: 2025-01-06T23:22
 ---
 
 A quick look at the logs suggest a lot of DNS and DHCP packets.

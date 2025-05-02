@@ -1,13 +1,23 @@
 ---
+ai_date: '2025-04-27 05:14:47'
+ai_summary: The challenge involves observing the synchronization of two Tree Parity
+  Machines (TPMs) and a third TPM (C) learning from their interactions. After 3 iterations,
+  C imitates the behavior of A and B, and the flag is encrypted with a key derived
+  from C's weights.
+ai_tags:
+- tpm
+- synchronization
+- imitation
+- crypto
 created: 2024-07-27T20:56
-updated: 2024-07-28T04:20
-title: Not an active field for a reason
-tags:
-  - tree-parity-machine
-  - neuro-crypto
+description: How did only 4 teams solve this? Just copy paste code lol
 points: 470
 solves: 4
-description: How did only 4 teams solve this? Just copy paste code lol
+tags:
+- tree-parity-machine
+- neuro-crypto
+title: Not an active field for a reason
+updated: 2024-07-28T04:20
 ---
 
 ## Neural networks

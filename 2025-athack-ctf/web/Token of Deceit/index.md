@@ -1,8 +1,14 @@
 ---
+ai_date: '2025-04-27 05:26:18'
+ai_summary: JWT signing bypass due to lack of validation
+ai_tags:
+- jwt
+- bypass
+- auth
 created: 2025-03-01T20:43
-updated: 2025-03-18T02:31
-solves: 20
 points: 100
+solves: 20
+updated: 2025-03-18T02:31
 ---
 
 I thought this was a JWT cracking challenge, but turns out I can just sign it with whatever and it will work. The pasted JWT is from jwt.io with `"role": "admin"`.

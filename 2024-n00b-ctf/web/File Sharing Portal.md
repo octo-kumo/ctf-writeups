@@ -1,9 +1,16 @@
 ---
+ai_date: '2025-04-27 05:20:52'
+ai_summary: Exploited directory traversal and tar file manipulation to bypass checksum,
+  create symbolic links, and extract flag from `/app`
+ai_tags:
+- lfi
+- tar
+- path-traversal
 created: 2024-08-04T06:05
-updated: 2024-08-08T23:22
-points: 478
 navigation: false
+points: 478
 solves: 119
+updated: 2024-08-08T23:22
 ---
 
 We are allowed to upload a tar file and have the remote extract it, nice.

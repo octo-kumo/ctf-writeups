@@ -1,12 +1,19 @@
 ---
+ai_date: '2025-04-27 05:26:37'
+ai_summary: Hamming code used for error correction in packet data, revealing flag
+  after decoding and removing counter bits
+ai_tags:
+- hamming-code
+- error-correction
+- parity-checks
 created: 2025-01-05T06:07
-updated: 2025-01-06T23:23
-solves: 3
 points: 500
+solves: 3
 tags:
-  - ecc
-  - hamming
-  - error-correct
+- ecc
+- hamming
+- error-correct
+updated: 2025-01-06T23:23
 ---
 
 > I hate it when I have a bad link and my large data transfer gets corrupted. Apparently this weird new protocol is supposed to help with that, but I think the developers skipped an important step...

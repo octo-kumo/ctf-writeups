@@ -1,4 +1,10 @@
 ---
+ai_date: '2025-04-27 05:11:26'
+ai_summary: XSS exploitation through character encoding manipulation
+ai_tags:
+- xss
+- encoding
+- manipulation
 created: 2024-06-11T01:17
 updated: 2024-07-07T23:08
 ---
