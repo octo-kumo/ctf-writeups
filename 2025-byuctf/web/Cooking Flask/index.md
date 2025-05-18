@@ -6,10 +6,10 @@ ai_tags:
   - union
   - select
 created: 2025-05-17T05:17
-points: 363
-solves: 139
+points: 359
+solves: 141
 title: Cooking Flask
-updated: 2025-05-17T21:53
+updated: 2025-05-17T22:01
 ---
 
 This is clearly a SQL challenge.

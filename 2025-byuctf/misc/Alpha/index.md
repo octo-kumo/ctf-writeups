@@ -9,7 +9,7 @@ created: 2025-05-17T05:47
 points: 477
 solves: 58
 title: Alpha
-updated: 2025-05-17T21:52
+updated: 2025-05-17T22:01
 ---
 
 First we export the data to CSV via Logic 2.

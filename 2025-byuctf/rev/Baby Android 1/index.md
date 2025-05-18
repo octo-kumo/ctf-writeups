@@ -9,7 +9,7 @@ created: 2025-05-17T06:52
 points: 241
 solves: 191
 title: Baby Android 1
-updated: 2025-05-17T21:52
+updated: 2025-05-17T22:01
 ---
 
 First decompile the APK using `apktool`.

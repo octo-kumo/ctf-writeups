@@ -9,7 +9,7 @@ created: 2025-05-17T04:45
 points: 436
 solves: 96
 title: Enabled
-updated: 2025-05-17T21:52
+updated: 2025-05-17T22:01
 ---
 
 Well we can use `printf` to bypass the blacklist.

@@ -9,7 +9,7 @@ created: 2025-05-17T07:11
 points: 481
 solves: 53
 title: moooo
-updated: 2025-05-17T21:52
+updated: 2025-05-17T22:01
 ---
 
 This is the Cow language: [COW - Esolang](https://esolangs.org/wiki/COW).

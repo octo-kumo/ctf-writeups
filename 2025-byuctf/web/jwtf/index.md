@@ -9,7 +9,7 @@ created: 2025-05-17T03:31
 points: 434
 solves: 97
 title: JWTF
-updated: 2025-05-17T21:52
+updated: 2025-05-17T22:01
 ---
 
 Simple JWT challenge.
