@@ -1,17 +1,16 @@
 ---
-ai_date: '2025-04-27 05:18:03'
-ai_summary: 'Solved by iterating through printable characters and checking if the
-  Brainfuck program halts, revealing the flag: ictf{1_h4t3_3s0l4ng5_7d4f3a1b}'
+ai_date: 2025-04-27 05:18:03
+ai_summary: "Solved by iterating through printable characters and checking if the Brainfuck program halts, revealing the flag: ictf{1_h4t3_3s0l4ng5_7d4f3a1b}"
 ai_tags:
-- brute
-- bf
-- halt-problem
+  - brute
+  - bf
+  - halt-problem
 created: 2024-07-19T20:57
 points: 100
 solves: 225
 tags:
-- brainfuck
-updated: 2024-08-05T19:43
+  - brainfuck
+updated: 2025-07-14T09:46
 ---
 
 Using the debugger [Brainfuck Debugger (bxt.gitlab.io)](https://bxt.gitlab.io/brainfuck-debugger/), we can observe that each character is checked individually.

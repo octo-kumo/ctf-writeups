@@ -1,14 +1,14 @@
 ---
-ai_date: '2025-04-27 05:26:22'
+ai_date: 2025-04-27 05:26:22
 ai_summary: PHP shell exploit via file upload, allowing command execution
 ai_tags:
-- xss
-- cmd-exec
-- upload
+  - xss
+  - cmd-exec
+  - upload
 created: 2025-03-01T20:37
 points: 50
 solves: 19
-updated: 2025-03-18T02:31
+updated: 2025-07-14T09:46
 ---
 
 Simple PHP shell exploit.

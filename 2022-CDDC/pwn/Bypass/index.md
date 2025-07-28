@@ -1,12 +1,12 @@
 ---
-ai_date: '2025-04-27 05:11:19'
+ai_date: 2025-04-27 05:11:19
 ai_summary: Password validation using hardcoded string comparison and input sanitization
 ai_tags:
-- str
-- decomp
-- xss-prevention
+  - str
+  - decomp
+  - xss-prevention
 created: 2024-06-11T01:17
-updated: 2024-07-07T23:07
+updated: 2025-07-14T09:46
 ---
 
 By decompiling, we first try to figure out the login process

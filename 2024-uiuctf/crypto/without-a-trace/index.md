@@ -1,17 +1,16 @@
 ---
-ai_date: '2025-04-27 05:21:52'
-ai_summary: 'Exploit: Determine flag values by manipulating diagonal matrix elements
-  and measuring differences'
+ai_date: 2025-04-27 05:21:52
+ai_summary: "Exploit: Determine flag values by manipulating diagonal matrix elements and measuring differences"
 ai_tags:
-- matrix
-- diff
-- xor
-- linear-algebra
-- math
+  - matrix
+  - diff
+  - xor
+  - linear-algebra
+  - math
 created: 2024-06-28T22:58
 points: 246
 solves: 298
-updated: 2024-11-23T20:31
+updated: 2025-07-14T09:46
 ---
 
 We are allowed to change the 5 cells of a 5 by 5 diagonal matrix.

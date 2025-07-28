@@ -1,12 +1,12 @@
 ---
-ai_date: '2025-04-27 05:11:22'
+ai_date: 2025-04-27 05:11:22
 ai_summary: Two strcmp comparisons reveal hardcoded credentials for login and password
 ai_tags:
-- str
-- user-input
-- credentials
+  - str
+  - user-input
+  - credentials
 created: 2024-06-11T01:17
-updated: 2024-07-07T23:07
+updated: 2025-07-14T09:46
 ---
 
 From the decompiled result we find two `strcmp`

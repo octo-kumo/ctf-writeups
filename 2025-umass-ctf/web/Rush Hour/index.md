@@ -1,18 +1,17 @@
 ---
-ai_date: '2025-04-27 05:28:11'
-ai_summary: XSS exploitation using base64 encoded payload and img tags for SSRF to
-  read and send cookie
+ai_date: 2025-04-27 05:28:11
+ai_summary: XSS exploitation using base64 encoded payload and img tags for SSRF to read and send cookie
 ai_tags:
-- xss
-- ssrf
-- cookie-read
+  - xss
+  - ssrf
+  - cookie-read
 created: 2025-04-19T02:56
 points: 388
 solves: 49
 tags:
-- xss
+  - xss
 title: Rush Hour
-updated: 2025-04-20T20:29
+updated: 2025-07-14T09:46
 ---
 
 It is pretty clear from the start that this has no XSS protection whatsoever.

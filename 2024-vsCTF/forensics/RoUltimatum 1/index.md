@@ -1,14 +1,13 @@
 ---
-ai_date: '2025-04-27 05:22:42'
-ai_summary: Script modifies file names and timestamps, potentially leading to unintended
-  file renaming and privacy implications.
+ai_date: 2025-04-27 05:22:42
+ai_summary: Script modifies file names and timestamps, potentially leading to unintended file renaming and privacy implications.
 ai_tags:
-- path
-- lfi
-- file-rename
+  - path
+  - lfi
+  - file-rename
 created: 2024-06-15T01:22
 solves: 18
-updated: 2024-08-05T19:30
+updated: 2025-07-14T09:46
 ---
 
 ```

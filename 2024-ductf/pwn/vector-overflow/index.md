@@ -1,16 +1,15 @@
 ---
-ai_date: '2025-04-27 05:15:26'
-ai_summary: Overflow exploit using buffer overflow to modify vector's address and
-  achieve RCE, payload includes address of 'buf'
+ai_date: 2025-04-27 05:15:26
+ai_summary: Overflow exploit using buffer overflow to modify vector's address and achieve RCE, payload includes address of 'buf'
 ai_tags:
-- buffer-overflow
-- rop
-- rce
+  - buffer-overflow
+  - rop
+  - rce
 created: 2024-07-05T19:31
 description: Where do vectors point to?
 points: 100
 solves: 239
-updated: 2024-07-07T21:39
+updated: 2025-07-14T09:46
 ---
 
 ## Analysis

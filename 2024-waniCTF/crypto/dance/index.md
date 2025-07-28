@@ -1,14 +1,14 @@
 ---
-ai_date: '2025-04-27 05:23:11'
+ai_date: 2025-04-27 05:23:11
 ai_summary: Brute-forced token generation and encryption to find the flag
 ai_tags:
-- brute
-- hash
-- sha256
+  - brute
+  - hash
+  - sha256
 created: 2024-06-23T05:36
 points: 205
 solves: 85
-updated: 2024-08-05T09:48
+updated: 2025-07-14T09:46
 ---
 
 ## Tokens

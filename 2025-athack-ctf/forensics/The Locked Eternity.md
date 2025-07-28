@@ -1,14 +1,14 @@
 ---
-ai_date: '2025-04-27 05:25:10'
+ai_date: 2025-04-27 05:25:10
 ai_summary: Found encrypted keys file requiring decryption for flag
 ai_tags:
-- aes
-- secret
-- decryption
+  - aes
+  - secret
+  - decryption
 created: 2025-03-02T00:16
 tags:
-- unsolved
-updated: 2025-03-02T14:19
+  - unsolved
+updated: 2025-07-14T09:46
 ---
 
 ```bash

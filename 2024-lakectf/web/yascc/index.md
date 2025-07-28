@@ -1,15 +1,14 @@
 ---
-ai_date: '2025-04-27 05:19:13'
-ai_summary: Exploited XSS via query parameter manipulation, bypassing CSP restrictions
-  by injecting report endpoint URL in JavaScript payload.
+ai_date: 2025-04-27 05:19:13
+ai_summary: Exploited XSS via query parameter manipulation, bypassing CSP restrictions by injecting report endpoint URL in JavaScript payload.
 ai_tags:
-- xss
-- csp
-- report-uri-bypass
+  - xss
+  - csp
+  - report-uri-bypass
 created: 2024-12-07T14:26
 points: 191
 solves: 54
-updated: 2024-12-08T13:44
+updated: 2025-07-14T09:46
 ---
 
 Note-XSS challenge, with CSP `default-src: self` and restricted report url.

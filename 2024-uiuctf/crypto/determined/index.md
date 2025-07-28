@@ -1,15 +1,14 @@
 ---
-ai_date: '2025-04-27 05:21:39'
-ai_summary: Solved math problem using sympy to find determinant values, then decrypted
-  RSA with given public key.
+ai_date: 2025-04-27 05:21:39
+ai_summary: Solved math problem using sympy to find determinant values, then decrypted RSA with given public key.
 ai_tags:
-- math
-- det
-- rsa
+  - math
+  - det
+  - rsa
 created: 2024-06-28T22:58
 points: 322
 solves: 222
-updated: 2024-11-23T20:31
+updated: 2025-07-14T09:46
 ---
 
 The problem involves the determinant of a 5 by 5 matrix, where we can decide certain the value of cells, and some other values unknown.

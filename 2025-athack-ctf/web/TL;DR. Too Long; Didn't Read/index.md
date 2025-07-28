@@ -1,15 +1,14 @@
 ---
-ai_date: '2025-04-27 05:26:15'
-ai_summary: BCrypt vulnerability due to appending password to username, allowing brute
-  forcing of a single byte.
+ai_date: 2025-04-27 05:26:15
+ai_summary: BCrypt vulnerability due to appending password to username, allowing brute forcing of a single byte.
 ai_tags:
-- bcrypt
-- length-extension
-- brute-force
+  - bcrypt
+  - length-extension
+  - brute-force
 created: 2025-03-02T07:48
 points: 450
 solves: 7
-updated: 2025-03-18T02:31
+updated: 2025-07-14T09:46
 ---
 
 The 'trick' used created a vulnerbility.

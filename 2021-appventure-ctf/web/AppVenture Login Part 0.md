@@ -1,12 +1,12 @@
 ---
-ai_date: '2025-04-27 05:10:15'
+ai_date: 2025-04-27 05:10:15
 ai_summary: Flag found in robots.txt disallowed path pointing to source code
 ai_tags:
-- robots.txt
-- src-code
-- 信息披露
+  - robots.txt
+  - src-code
+  - 信息披露
 created: 2021-12-21T23:50
-updated: 2024-06-10T23:38
+updated: 2025-07-14T09:46
 ---
 
 ## AppVenture Login Part 0

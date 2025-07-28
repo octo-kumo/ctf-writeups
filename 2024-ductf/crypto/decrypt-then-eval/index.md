@@ -1,20 +1,19 @@
 ---
-ai_date: '2025-04-27 05:15:15'
-ai_summary: Found plaintext-ciphertext relationship in CFB mode, used known-plaintext
-  attack to obtain initial encryption value and extracted flag with IV and key.
+ai_date: 2025-04-27 05:15:15
+ai_summary: Found plaintext-ciphertext relationship in CFB mode, used known-plaintext attack to obtain initial encryption value and extracted flag with IV and key.
 ai_tags:
-- aes
-- cfb
-- known-plaintext
-- xor
+  - aes
+  - cfb
+  - known-plaintext
+  - xor
 created: 2024-07-05T18:09
-description: '1111'
+description: "1111"
 points: 118
 solves: 197
 tags:
-- aes
+  - aes
 title: decrypt then eval
-updated: 2024-08-05T19:44
+updated: 2025-07-14T09:46
 ---
 
 ## Analysis

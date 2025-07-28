@@ -1,16 +1,15 @@
 ---
-ai_date: '2025-04-27 05:19:24'
-ai_summary: Exploitation involves calculating LCM, GCD, and prime factorization using
-  math functions, likely to demonstrate understanding of pwntool and sockets.
+ai_date: 2025-04-27 05:19:24
+ai_summary: Exploitation involves calculating LCM, GCD, and prime factorization using math functions, likely to demonstrate understanding of pwntool and sockets.
 ai_tags:
-- math
-- gcd
-- lcm
-- prime-factorization
+  - math
+  - gcd
+  - lcm
+  - prime-factorization
 created: 2024-08-04T06:14
 points: 403
 solves: 248
-updated: 2024-08-05T19:05
+updated: 2025-07-14T09:46
 ---
 
 Just bunch of numbers

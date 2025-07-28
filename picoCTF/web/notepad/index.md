@@ -1,13 +1,12 @@
 ---
-ai_date: '2025-04-27 05:30:00'
-ai_summary: Python path traversal and template injection vulnerability exploited to
-  read files and retrieve the flag
+ai_date: 2025-04-27 05:30:00
+ai_summary: Python path traversal and template injection vulnerability exploited to read files and retrieve the flag
 ai_tags:
-- path-traversal
-- template-injection
-- rce
+  - path-traversal
+  - template-injection
+  - rce
 created: 2024-11-16T19:45
-updated: 2024-11-16T19:48
+updated: 2025-07-14T09:46
 ---
 
 Python path traversal + template injection.

@@ -1,14 +1,13 @@
 ---
-ai_date: '2025-04-27 05:16:58'
-ai_summary: Crypto challenge involving timestamp-based XOR and polyalphabetic cipher
-  decryption.
+ai_date: 2025-04-27 05:16:58
+ai_summary: Crypto challenge involving timestamp-based XOR and polyalphabetic cipher decryption.
 ai_tags:
-- xor
-- polyalphabetic
-- crypto
+  - xor
+  - polyalphabetic
+  - crypto
 created: 2024-12-14T01:15
 points: 825
-updated: 2025-01-05T19:48
+updated: 2025-07-14T09:46
 ---
 
 It is simple crypto, the timestamp part simply alternates between mode 1 and mode 2, even if its random its still ok anyways.

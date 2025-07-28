@@ -1,17 +1,17 @@
 ---
-ai_date: '2025-04-27 05:19:58'
+ai_date: 2025-04-27 05:19:58
 ai_summary: Morse code hidden in corrupted .wav file, solved using a Morse code decoder.
 ai_tags:
-- audio
-- morse-code
-- stegano
+  - audio
+  - morse-code
+  - stegano
 created: 2024-08-04T06:12
 description: Fixing corrupted wav file
 points: 387
 solves: 267
 tags:
-- wav
-updated: 2024-08-05T19:40
+  - wav
+updated: 2025-07-14T09:46
 ---
 
 ## Corrupted `.wav` file.

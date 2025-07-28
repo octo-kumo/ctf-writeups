@@ -1,12 +1,12 @@
 ---
-ai_date: '2025-04-27 05:10:45'
+ai_date: 2025-04-27 05:10:45
 ai_summary: Vigenere cipher decryption challenge with key 'key'
 ai_tags:
-- vigenere
-- cipher
-- decryption
+  - vigenere
+  - cipher
+  - decryption
 created: 2024-06-11T01:17
-updated: 2024-07-07T23:09
+updated: 2025-07-14T09:46
 ---
 
 ```text

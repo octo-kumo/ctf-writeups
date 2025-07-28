@@ -1,15 +1,14 @@
 ---
-ai_date: '2025-04-27 05:27:26'
-ai_summary: Race condition vulnerability in gift card redemption process allows for
-  rapid redemption abuse
+ai_date: 2025-04-27 05:27:26
+ai_summary: Race condition vulnerability in gift card redemption process allows for rapid redemption abuse
 ai_tags:
-- race
-- http-hdr
-- rce
+  - race
+  - http-hdr
+  - rce
 created: 2025-01-19T01:45
 points: 50
 solves: 189
-updated: 2025-01-19T13:32
+updated: 2025-07-14T09:46
 ---
 
 `lastVoucherRedemption` is checked only at the start, and updated at the end, creating a window for race condition.

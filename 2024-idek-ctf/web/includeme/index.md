@@ -1,13 +1,12 @@
 ---
-ai_date: '2025-04-27 05:18:38'
-ai_summary: Brute-forced file upload exploiting a test script, revealing race condition
-  in /home/ctf/.julia/packages/Genie/yQwwj/test/tests_AppServer.jl
+ai_date: 2025-04-27 05:18:38
+ai_summary: Brute-forced file upload exploiting a test script, revealing race condition in /home/ctf/.julia/packages/Genie/yQwwj/test/tests_AppServer.jl
 ai_tags:
-- brute
-- file-upload
-- race-condition
+  - brute
+  - file-upload
+  - race-condition
 created: 2024-08-17T23:23
-updated: 2024-08-18T21:34
+updated: 2025-07-14T09:46
 ---
 
 By brute forcing every `.jl` file on the system, I managed to launch a file upload window that worked!

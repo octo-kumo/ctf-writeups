@@ -1,17 +1,17 @@
 ---
-ai_date: '2025-04-27 05:28:15'
+ai_date: 2025-04-27 05:28:15
 ai_summary: XSS exploitation through adding hidden images with encoded flag in cookie
 ai_tags:
-- xss
-- cookie
-- payload-execution
+  - xss
+  - cookie
+  - payload-execution
 created: 2025-04-19T03:00
 points: 426
 solves: 40
 tags:
-- xss
+  - xss
 title: Rush Hour v2
-updated: 2025-04-20T20:29
+updated: 2025-07-14T09:46
 ---
 
 Not much is changed from the v1. Except that we now cannot send requests out to some webhook.

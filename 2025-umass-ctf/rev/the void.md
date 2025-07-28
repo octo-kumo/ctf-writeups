@@ -1,15 +1,15 @@
 ---
-ai_date: '2025-04-27 05:27:51'
+ai_date: 2025-04-27 05:27:51
 ai_summary: XOR-based encryption with a fixed XOR key
 ai_tags:
-- xor
-- xor-key
-- brute-force
+  - xor
+  - xor-key
+  - brute-force
 created: 2025-04-18T18:15
 points: 486
 solves: 20
 title: the void
-updated: 2025-04-20T20:27
+updated: 2025-07-14T09:46
 ---
 
 It looks like the program is just doing random things with our input then calling `memcmp` with some answer in memory...

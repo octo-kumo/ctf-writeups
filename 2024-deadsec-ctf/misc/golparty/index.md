@@ -1,17 +1,16 @@
 ---
-ai_date: '2025-04-27 05:14:51'
-ai_summary: Infinite grid implementation used to solve Game of Life puzzle with efficient
-  live cell management
+ai_date: 2025-04-27 05:14:51
+ai_summary: Infinite grid implementation used to solve Game of Life puzzle with efficient live cell management
 ai_tags:
-- grid
-- brute-force
-- state-expansion
+  - grid
+  - brute-force
+  - state-expansion
 created: 2024-07-27T17:05
-description: 'When the author had to give out hints in the #meme channel'
+description: "When the author had to give out hints in the #meme channel"
 points: 270
 solves: 24
 title: GoLParty
-updated: 2024-07-28T04:21
+updated: 2025-07-14T09:46
 ---
 
 > Welcome to the GoL Party!

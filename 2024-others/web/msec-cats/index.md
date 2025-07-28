@@ -1,16 +1,15 @@
 ---
-ai_date: '2025-04-27 05:21:11'
-ai_summary: Login bypass via SQL injection, payload executed in upload via magic bytes
-  manipulation
+ai_date: 2025-04-27 05:21:11
+ai_summary: Login bypass via SQL injection, payload executed in upload via magic bytes manipulation
 ai_tags:
-- sql
-- xss
-- magic.mime
+  - sql
+  - xss
+  - magic.mime
 created: 2024-08-03T22:15
 tags:
-- php
-- mime
-updated: 2024-08-03T22:25
+  - php
+  - mime
+updated: 2025-07-14T09:46
 ---
 
 ## login

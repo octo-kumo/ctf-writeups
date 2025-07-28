@@ -1,17 +1,16 @@
 ---
-ai_date: '2025-04-27 05:21:34'
-ai_summary: Exploited SSRF using 404 redirect and base64 encoding to inject payload,
-  fixed unclosed backtick issue.
+ai_date: 2025-04-27 05:21:34
+ai_summary: Exploited SSRF using 404 redirect and base64 encoding to inject payload, fixed unclosed backtick issue.
 ai_tags:
-- ssrf
-- xss
-- base64
+  - ssrf
+  - xss
+  - base64
 created: 2024-08-02T15:00
 points: 100
 solves: 87
 tags:
-- reflection
-updated: 2024-08-05T19:36
+  - reflection
+updated: 2025-07-14T09:46
 ---
 
 To inject content into `exec`, we have to make `localhost` output arbitrary content.

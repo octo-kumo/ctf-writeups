@@ -1,13 +1,12 @@
 ---
-ai_date: '2025-04-27 05:12:02'
-ai_summary: SQL Injection vulnerability allows retrieving the 'flag.jpg' from the
-  dogs directory
+ai_date: 2025-04-27 05:12:02
+ai_summary: SQL Injection vulnerability allows retrieving the 'flag.jpg' from the dogs directory
 ai_tags:
-- sql
-- injection
-- rce
+  - sql
+  - injection
+  - rce
 created: 2024-06-11T01:33
-updated: 2024-06-11T01:35
+updated: 2025-07-14T09:46
 ---
 
 > APOCALYPSE has recently started a new business venture, a website for people to download cute images of cats! While

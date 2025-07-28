@@ -1,13 +1,13 @@
 ---
-ai_date: '2025-04-27 05:10:50'
+ai_date: 2025-04-27 05:10:50
 ai_summary: SVG animation reveals base64-encoded PNG flag after parsing and decoding
 ai_tags:
-- svg
-- base64-decode
-- png
+  - svg
+  - base64-decode
+  - png
 created: 2024-06-11T01:17
 title: Copy & Paste
-updated: 2024-07-07T23:08
+updated: 2025-07-14T09:46
 ---
 
 The svg is an animation of a terminal window it seems, well a bit of digging and we find this

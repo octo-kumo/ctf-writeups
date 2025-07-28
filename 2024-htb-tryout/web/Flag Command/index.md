@@ -1,13 +1,13 @@
 ---
-ai_date: '2025-04-27 05:16:32'
+ai_date: 2025-04-27 05:16:32
 ai_summary: Found secret command by guessing; not a maze puzzle
 ai_tags:
-- guessing
-- command-execution
+  - guessing
+  - command-execution
 created: 2024-07-16T22:59
 points: 825
 solves: 854
-updated: 2024-08-04T19:28
+updated: 2025-07-14T09:46
 ---
 
 ## Analysis

@@ -1,13 +1,12 @@
 ---
-ai_date: '2025-04-27 05:12:55'
-ai_summary: JavaScript eval with whitelist vulnerability, exploiting JSFuck to execute
-  arbitrary code
+ai_date: 2025-04-27 05:12:55
+ai_summary: JavaScript eval with whitelist vulnerability, exploiting JSFuck to execute arbitrary code
 ai_tags:
-- jsfuck
-- eval
-- arbitrary-code-execution
+  - jsfuck
+  - eval
+  - arbitrary-code-execution
 created: 2024-06-10T16:37
-updated: 2024-06-10T23:17
+updated: 2025-07-14T09:46
 ---
 
 > Hey, can you help me on this Javascript problem? Making strings is hard.

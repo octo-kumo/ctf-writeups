@@ -1,17 +1,16 @@
 ---
-ai_date: '2025-04-27 05:17:34'
-ai_summary: Found black dogs with blue collars and used `/data` command to get the
-  flag from one of them.
+ai_date: 2025-04-27 05:17:34
+ai_summary: Found black dogs with blue collars and used `/data` command to get the flag from one of them.
 ai_tags:
-- ssrf
-- exploitation
-- minecraft
+  - ssrf
+  - exploitation
+  - minecraft
 created: 2024-07-20T02:55
 points: 100
 solves: 127
 tags:
-- minecraft
-updated: 2024-07-21T18:46
+  - minecraft
+updated: 2025-07-14T09:46
 ---
 
 ## minecraft

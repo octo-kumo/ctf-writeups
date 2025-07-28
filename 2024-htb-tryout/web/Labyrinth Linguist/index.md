@@ -1,15 +1,14 @@
 ---
-ai_date: '2025-04-27 05:16:36'
-ai_summary: Exploited unfiltered user input in Velocity template execution, leading
-  to code execution; payload bypassed filtering with class loading and output capture.
+ai_date: 2025-04-27 05:16:36
+ai_summary: Exploited unfiltered user input in Velocity template execution, leading to code execution; payload bypassed filtering with class loading and output capture.
 ai_tags:
-- xss
-- cmd-exec
-- code-exec
+  - xss
+  - cmd-exec
+  - code-exec
 created: 2024-07-16T23:56
 points: 925
 solves: 339
-updated: 2024-08-04T19:29
+updated: 2025-07-14T09:46
 ---
 
 ## Analysis

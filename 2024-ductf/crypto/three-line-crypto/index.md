@@ -1,18 +1,18 @@
 ---
-ai_date: '2025-04-27 05:15:22'
-ai_summary: 'Decrypted text reveals flag: DUCTF{when_in_doubt_xort_it_out}'
+ai_date: 2025-04-27 05:15:22
+ai_summary: "Decrypted text reveals flag: DUCTF{when_in_doubt_xort_it_out}"
 ai_tags:
-- xor
-- frequency-analysis
-- english
+  - xor
+  - frequency-analysis
+  - english
 created: 2024-07-05T23:26
 points: 247
 solves: 44
 tags:
-- fav
-- freq-analysis
+  - fav
+  - freq-analysis
 title: Three Line Crypto
-updated: 2024-08-05T19:44
+updated: 2025-07-14T09:46
 ---
 
 A cipher with only three lines?

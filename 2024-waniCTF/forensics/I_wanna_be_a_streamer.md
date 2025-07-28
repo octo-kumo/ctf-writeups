@@ -1,18 +1,17 @@
 ---
-ai_date: '2025-04-27 05:23:21'
-ai_summary: Extracted h264 stream from RTP led to flag discovery, likely involving
-  RTP analysis or media exploitation.
+ai_date: 2025-04-27 05:23:21
+ai_summary: Extracted h264 stream from RTP led to flag discovery, likely involving RTP analysis or media exploitation.
 ai_tags:
-- rtp
-- h264
-- media-exploitation
+  - rtp
+  - h264
+  - media-exploitation
 created: 2024-06-22T05:17
 points: 169
 solves: 144
 tags:
-- RTP
-- pcap
-updated: 2025-01-06T23:24
+  - RTP
+  - pcap
+updated: 2025-07-14T09:46
 ---
 
 First time doing anything RTP related, fun challenge.

@@ -1,12 +1,12 @@
 ---
-ai_date: '2025-04-27 05:28:50'
-ai_summary: 'Reversed operations: Custom XOR decryption followed by custom encryption'
+ai_date: 2025-04-27 05:28:50
+ai_summary: "Reversed operations: Custom XOR decryption followed by custom encryption"
 ai_tags:
-- xss
-- custom-cipher
-- reverse-operations
+  - xss
+  - custom-cipher
+  - reverse-operations
 created: 2024-11-16T15:26
-updated: 2024-11-16T19:34
+updated: 2025-07-14T09:46
 ---
 
 Just reverse the two operations.

@@ -1,18 +1,16 @@
 ---
-ai_date: '2025-04-27 05:15:50'
-ai_summary: Prototype pollution vulnerability allows arbitrary file name manipulation
-  and overwriting of 'index.ts', exploiting it to replace with a malicious YAML file
-  and crash the script for restart.
+ai_date: 2025-04-27 05:15:50
+ai_summary: Prototype pollution vulnerability allows arbitrary file name manipulation and overwriting of 'index.ts', exploiting it to replace with a malicious YAML file and crash the script for restart.
 ai_tags:
-- prototype-pollution
-- file-name-manipulation
-- code-injection
+  - prototype-pollution
+  - file-name-manipulation
+  - code-injection
 created: 2024-07-07T02:38
 description: Hijacking the main application
 points: 325
 solves: 17
 title: Prisoner Processor
-updated: 2024-07-07T21:46
+updated: 2025-07-14T09:46
 ---
 
 ## Analysis

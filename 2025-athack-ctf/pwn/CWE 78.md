@@ -1,15 +1,14 @@
 ---
-ai_date: '2025-04-27 05:25:36'
-ai_summary: Client-side domain validation allows command injection, exploiting with
-  'curl' to retrieve the flag.
+ai_date: 2025-04-27 05:25:36
+ai_summary: Client-side domain validation allows command injection, exploiting with 'curl' to retrieve the flag.
 ai_tags:
-- xss
-- cmd-inj
-- rce
+  - xss
+  - cmd-inj
+  - rce
 created: 2025-03-01T22:11
 points: 50
 solves: 17
-updated: 2025-03-18T02:30
+updated: 2025-07-14T09:46
 ---
 
 Domain validity check is done client-side, we can just inject a command directly.

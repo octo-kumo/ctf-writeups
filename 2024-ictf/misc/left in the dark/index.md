@@ -1,20 +1,19 @@
 ---
-ai_date: '2025-04-27 05:17:48'
-ai_summary: Maze solver using A* algorithm with path reconstruction on encountering
-  obstacles
+ai_date: 2025-04-27 05:17:48
+ai_summary: Maze solver using A* algorithm with path reconstruction on encountering obstacles
 ai_tags:
-- pathfinding
-- a*
-- grid
-- maze
+  - pathfinding
+  - a*
+  - grid
+  - maze
 created: 2024-07-20T17:40
 points: 428
 solves: 30
 tags:
-- algo
-- maze
-- astar
-updated: 2024-07-21T18:46
+  - algo
+  - maze
+  - astar
+updated: 2025-07-14T09:46
 ---
 
 It's a maze.

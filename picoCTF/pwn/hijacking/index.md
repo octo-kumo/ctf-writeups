@@ -1,15 +1,14 @@
 ---
-ai_date: '2025-04-27 05:29:42'
-ai_summary: Escalated privileges by modifying Python library to execute system command
-  and retrieving the flag
+ai_date: 2025-04-27 05:29:42
+ai_summary: Escalated privileges by modifying Python library to execute system command and retrieving the flag
 ai_tags:
-- python
-- library-hijack
-- sys-call
+  - python
+  - library-hijack
+  - sys-call
 created: 2024-11-16T15:01
 tags:
-- escalation
-updated: 2024-11-16T19:43
+  - escalation
+updated: 2025-07-14T09:46
 ---
 
 python based linux escalation.

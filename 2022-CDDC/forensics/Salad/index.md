@@ -1,13 +1,12 @@
 ---
-ai_date: '2025-04-27 05:10:55'
-ai_summary: Found hidden data in image by converting to QR code and decoding binary
-  data
+ai_date: 2025-04-27 05:10:55
+ai_summary: Found hidden data in image by converting to QR code and decoding binary data
 ai_tags:
-- qr
-- binary-representation
-- steganography
+  - qr
+  - binary-representation
+  - steganography
 created: 2024-06-11T01:17
-updated: 2024-07-07T23:08
+updated: 2025-07-14T09:46
 ---
 
 Using exiftool or just hex editor, we can find a `tEXt` chunk near the end of the image

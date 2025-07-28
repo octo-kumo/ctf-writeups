@@ -1,14 +1,14 @@
 ---
-ai_date: '2025-04-27 05:25:17'
+ai_date: 2025-04-27 05:25:17
 ai_summary: Reconstructed image hints at a possible steganography or image-based challenge
 ai_tags:
-- stegc
-- imgf
-- secret
+  - stegc
+  - imgf
+  - secret
 created: 2025-03-02T10:24
 tags:
-- unsolved
-updated: 2025-03-02T14:20
+  - unsolved
+updated: 2025-07-14T09:46
 ---
 
 Wasn't able to solve it but hey I got this very correct looking wrong image.

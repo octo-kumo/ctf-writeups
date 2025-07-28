@@ -1,16 +1,15 @@
 ---
-ai_date: '2025-04-27 05:27:59'
-ai_summary: Exploited unauthorized data modification and password manipulation to
-  gain flag
+ai_date: 2025-04-27 05:27:59
+ai_summary: Exploited unauthorized data modification and password manipulation to gain flag
 ai_tags:
-- http-hdr
-- sql
-- xss
+  - http-hdr
+  - sql
+  - xss
 created: 2025-04-19T04:32
 points: 423
 solves: 45
 title: Falling Blocks
-updated: 2025-04-20T20:27
+updated: 2025-07-14T09:46
 ---
 
 We can just cheat directly no?

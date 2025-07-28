@@ -1,15 +1,14 @@
 ---
-ai_date: '2025-04-27 05:21:56'
-ai_summary: Flag encrypted with XOR and cycling key; used known flag portion to derive
-  key, then XOR decryption
+ai_date: 2025-04-27 05:21:56
+ai_summary: Flag encrypted with XOR and cycling key; used known flag portion to derive key, then XOR decryption
 ai_tags:
-- xor
-- cycling-key
-- known-plaintext
+  - xor
+  - cycling-key
+  - known-plaintext
 created: 2024-06-28T22:58
 points: 93
 solves: 531
-updated: 2024-11-23T20:30
+updated: 2025-07-14T09:46
 ---
 
 We observe that the flag is encrypted with XOR with a cycling key of length 8.

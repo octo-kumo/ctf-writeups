@@ -1,12 +1,12 @@
 ---
-ai_date: '2025-04-27 05:30:16'
+ai_date: 2025-04-27 05:30:16
 ai_summary: Web challenges requiring manipulation of HTTP headers for flag retrieval
 ai_tags:
-- http-hdr
-- host-header-injection
-- rfi
+  - http-hdr
+  - host-header-injection
+  - rfi
 created: 2024-12-31T18:16
-updated: 2025-01-01T14:50
+updated: 2025-07-14T09:46
 ---
 
 Why am I doing web challenges on the pwn site?

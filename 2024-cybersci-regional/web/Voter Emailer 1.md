@@ -1,15 +1,14 @@
 ---
-ai_date: '2025-04-27 05:14:35'
-ai_summary: Arbitrary command execution via unfiltered input in FastAPI endpoint,
-  enabling access to `voters.txt` file.
+ai_date: 2025-04-27 05:14:35
+ai_summary: Arbitrary command execution via unfiltered input in FastAPI endpoint, enabling access to `voters.txt` file.
 ai_tags:
-- cmd-exec
-- ssrf
-- azure-storage
+  - cmd-exec
+  - ssrf
+  - azure-storage
 created: 2024-11-23T22:11
 points: 100
 solves: 45
-updated: 2024-11-23T22:35
+updated: 2025-07-14T09:46
 ---
 
 > We've been trying to leverage AI to help automate emailing voters to make sure they know all the important campaign dates and details.

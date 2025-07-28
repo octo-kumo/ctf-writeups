@@ -1,18 +1,17 @@
 ---
-ai_date: '2025-04-27 05:27:03'
-ai_summary: 'Extracted morse code from audio signal at 1515 Hz, decoded to reveal
-  flag: irisctf{n01s3_g0t_n0th1ng_0n_my_m0rse}'
+ai_date: 2025-04-27 05:27:03
+ai_summary: "Extracted morse code from audio signal at 1515 Hz, decoded to reveal flag: irisctf{n01s3_g0t_n0th1ng_0n_my_m0rse}"
 ai_tags:
-- spectrogram
-- freq-discovery
-- morse-code
+  - spectrogram
+  - freq-discovery
+  - morse-code
 created: 2025-01-06T14:53
 points: 50
 solves: 150
 tags:
-- morse
-- signal
-updated: 2025-01-06T23:28
+  - morse
+  - signal
+updated: 2025-07-14T09:46
 ---
 
 I solved this right after the CTF started, so I forgot that I've solved this and only now am I making the writeup.

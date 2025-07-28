@@ -1,15 +1,14 @@
 ---
-ai_date: '2025-04-27 05:16:06'
-ai_summary: Flag found in HadesMicro-B_Cu.gbr file, likely a hint for a binary exploitation
-  challenge
+ai_date: 2025-04-27 05:16:06
+ai_summary: Flag found in HadesMicro-B_Cu.gbr file, likely a hint for a binary exploitation challenge
 ai_tags:
-- binary-exploitation
-- rop
-- ret2libc
+  - binary-exploitation
+  - rop
+  - ret2libc
 created: 2024-07-17T01:18
 points: 975
 solves: 101
-updated: 2024-08-04T20:31
+updated: 2025-07-14T09:46
 ---
 
 ## HadesMicro-B_Cu.gbr

@@ -1,15 +1,14 @@
 ---
-ai_date: '2025-04-27 05:24:59'
-ai_summary: Found base64-encoded PowerShell command in ApplicationConfig.json, likely
-  leading to RCE; used grep to locate 'QVRIQUNLQ1RGe' in config files, revealing flag
+ai_date: 2025-04-27 05:24:59
+ai_summary: Found base64-encoded PowerShell command in ApplicationConfig.json, likely leading to RCE; used grep to locate 'QVRIQUNLQ1RGe' in config files, revealing flag
 ai_tags:
-- powershell
-- rce
-- grep
+  - powershell
+  - rce
+  - grep
 created: 2025-03-01T17:19
 points: 250
 solves: 5
-updated: 2025-03-18T02:27
+updated: 2025-07-14T09:46
 ---
 
 ![image.png](https://res.cloudinary.com/kumonochisanaka/image/upload/v1740867597/2025/03/d403118c5aface90d6a1de69ac2d76c0.png)

@@ -1,16 +1,16 @@
 ---
-ai_date: '2025-04-27 05:21:59'
+ai_date: 2025-04-27 05:21:59
 ai_summary: Exploited function decorators and AnnAssign to bypass restrictions
 ai_tags:
-- decorator
-- annassign
-- reflection
+  - decorator
+  - annassign
+  - reflection
 created: 2024-06-29T00:39
 points: 470
 solves: 52
 tags:
-- AST
-updated: 2024-11-23T20:30
+  - AST
+updated: 2025-07-14T09:46
 ---
 
 We are not allowed to use the following expressions in python: **assign**, **call**, **import**, **import from**, **binary operation (+-/ etc)**.

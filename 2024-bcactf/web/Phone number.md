@@ -1,12 +1,12 @@
 ---
-ai_date: '2025-04-27 05:13:05'
+ai_date: 2025-04-27 05:13:05
 ai_summary: Phone number input bypassed with hard-coded value, flag extracted
 ai_tags:
-- xss
-- csrf
-- rce
+  - xss
+  - csrf
+  - rce
 created: 2024-06-09T16:16
-updated: 2024-06-10T23:19
+updated: 2025-07-14T09:46
 ---
 
 > I was trying to sign into this website, but now it's asking me for a phone number. The way I'm supposed to input it is strange. Can you help me sign in?

@@ -1,16 +1,16 @@
 ---
-ai_date: '2025-04-27 05:15:40'
+ai_date: 2025-04-27 05:15:40
 ai_summary: Template injection exploiting 'FileLoader' to read flag
 ai_tags:
-- template
-- template-injection
-- class-extraction
+  - template
+  - template-injection
+  - class-extraction
 created: 2024-07-06T23:50
 description: A template injection chat bot
 points: 100
 solves: 993
 title: Parrot EMU
-updated: 2024-07-07T21:46
+updated: 2025-07-14T09:46
 ---
 
 ```python

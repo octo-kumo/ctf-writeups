@@ -1,14 +1,14 @@
 ---
-ai_date: '2025-04-27 05:22:37'
+ai_date: 2025-04-27 05:22:37
 ai_summary: Reversed Caesar cipher with custom operations
 ai_tags:
-- caesar
-- reverse
-- custom-ops
+  - caesar
+  - reverse
+  - custom-ops
 created: 2024-06-14T17:42
 points: 141
 solves: 595
-updated: 2024-08-04T19:45
+updated: 2025-07-14T09:46
 ---
 
 > Caesar??? Couldn't be this!

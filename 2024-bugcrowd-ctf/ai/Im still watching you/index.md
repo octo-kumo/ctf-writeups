@@ -1,12 +1,12 @@
 ---
-ai_date: '2025-04-27 05:13:30'
+ai_date: 2025-04-27 05:13:30
 ai_summary: Payload executed without sanitization, likely a code execution vulnerability
 ai_tags:
-- exec
-- payload-execution
+  - exec
+  - payload-execution
 created: 2024-08-08T08:23
 points: 425
-updated: 2024-08-17T20:13
+updated: 2025-07-14T09:46
 ---
 
 Again, the challenge is kinda wonky.

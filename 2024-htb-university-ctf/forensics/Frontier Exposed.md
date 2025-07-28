@@ -1,14 +1,13 @@
 ---
-ai_date: '2025-04-27 05:17:04'
-ai_summary: 'Exploitation techniques include: web scanning (nmap, gobuster), port
-  scanning (nc), sql injection (sqlmap), and command execution (exploit scripts, beaconing)'
+ai_date: 2025-04-27 05:17:04
+ai_summary: "Exploitation techniques include: web scanning (nmap, gobuster), port scanning (nc), sql injection (sqlmap), and command execution (exploit scripts, beaconing)"
 ai_tags:
-- nmap
-- sql
-- cmd-exec
+  - nmap
+  - sql
+  - cmd-exec
 created: 2024-12-15T07:55
 points: 675
-updated: 2024-12-15T17:06
+updated: 2025-07-14T09:46
 ---
 
 It is simply in `.bash_history`.

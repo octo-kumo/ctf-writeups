@@ -1,15 +1,14 @@
 ---
-ai_date: '2025-04-27 05:12:37'
-ai_summary: Flag obtained through brute-forcing after observing consistent patterns
-  in encrypted output bytes
+ai_date: 2025-04-27 05:12:37
+ai_summary: Flag obtained through brute-forcing after observing consistent patterns in encrypted output bytes
 ai_tags:
-- brute
-- pattern-obs
-- reduced-charset
+  - brute
+  - pattern-obs
+  - reduced-charset
 created: 2024-12-27T18:12
 points: 460
 solves: 5
-updated: 2024-12-28T06:26
+updated: 2025-07-14T09:46
 ---
 
 Trying to decode the binary was a bit too difficult for me, so I decided to brute force the flag.

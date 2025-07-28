@@ -1,12 +1,12 @@
 ---
-ai_date: '2025-04-27 05:29:57'
+ai_date: 2025-04-27 05:29:57
 ai_summary: MongoDB injection vulnerability exploited using JSON parse to bypass filter
 ai_tags:
-- json
-- mongodb
-- injection
+  - json
+  - mongodb
+  - injection
 created: 2024-11-16T19:49
-updated: 2024-11-16T19:51
+updated: 2025-07-14T09:46
 ---
 
 Simple mongodb injection.

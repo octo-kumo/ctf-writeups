@@ -1,14 +1,14 @@
 ---
-ai_date: '2025-04-27 05:16:41'
+ai_date: 2025-04-27 05:16:41
 ai_summary: Command injection vulnerability in TimeModel through format string
 ai_tags:
-- cmd-exec
-- xss
-- rce
+  - cmd-exec
+  - xss
+  - rce
 created: 2024-07-16T22:50
 points: 825
 solves: 847
-updated: 2024-08-04T19:29
+updated: 2025-07-14T09:46
 ---
 
 ## Analysis

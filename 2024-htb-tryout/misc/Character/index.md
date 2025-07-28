@@ -1,15 +1,14 @@
 ---
-ai_date: '2025-04-27 05:16:14'
-ai_summary: Buffer overflow exploitation through input validation bypass (integer
-  overflow) in a command-line interface
+ai_date: 2025-04-27 05:16:14
+ai_summary: Buffer overflow exploitation through input validation bypass (integer overflow) in a command-line interface
 ai_tags:
-- bof
-- overflow
-- input-validation
+  - bof
+  - overflow
+  - input-validation
 created: 2024-07-17T00:57
 points: 900
 solves: 463
-updated: 2024-08-04T19:30
+updated: 2025-07-14T09:46
 ---
 
 ```python

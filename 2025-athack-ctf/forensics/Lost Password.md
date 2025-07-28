@@ -1,14 +1,14 @@
 ---
-ai_date: '2025-04-27 05:24:49'
+ai_date: 2025-04-27 05:24:49
 ai_summary: Cracked password in PKZIP archive using a wordlist
 ai_tags:
-- password-cracking
-- wordlist
-- zip
+  - password-cracking
+  - wordlist
+  - zip
 created: 2025-03-01T15:33
 points: 50
 solves: 30
-updated: 2025-03-18T02:26
+updated: 2025-07-14T09:46
 ---
 
 It's just a password zip file.

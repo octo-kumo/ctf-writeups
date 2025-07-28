@@ -1,15 +1,14 @@
 ---
-ai_date: '2025-04-27 05:22:28'
-ai_summary: 'Winning strategy based on Manhattan distance: if combined moves are even,
-  second player wins; otherwise, first player wins.'
+ai_date: 2025-04-27 05:22:28
+ai_summary: "Winning strategy based on Manhattan distance: if combined moves are even, second player wins; otherwise, first player wins."
 ai_tags:
-- manhattan-distance
-- parity
-- game-theory
+  - manhattan-distance
+  - parity
+  - game-theory
 created: 2024-06-14T14:37
 points: 272
 solves: 345
-updated: 2024-08-04T19:43
+updated: 2025-07-14T09:46
 ---
 
 > 1. Players start at different positions on the grid.

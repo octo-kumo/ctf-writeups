@@ -1,12 +1,11 @@
 ---
-ai_date: '2025-04-27 05:13:51'
-ai_summary: Executed `wget` command with a URL from the log, likely leading to command
-  injection vulnerability.
+ai_date: 2025-04-27 05:13:51
+ai_summary: Executed `wget` command with a URL from the log, likely leading to command injection vulnerability.
 ai_tags:
-- cmd-injection
+  - cmd-injection
 created: 2024-08-08T09:50
 points: 75
-updated: 2024-08-17T20:14
+updated: 2025-07-14T09:46
 ---
 
 Just by chance, when cleaning up the log file with `replace`, I ended up on a `cmd`.

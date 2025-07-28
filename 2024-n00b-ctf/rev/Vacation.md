@@ -1,14 +1,14 @@
 ---
-ai_date: '2025-04-27 05:20:48'
+ai_date: 2025-04-27 05:20:48
 ai_summary: Flag found using XOR decryption on a string provided in the image
 ai_tags:
-- xor
-- secret
-- ctf
+  - xor
+  - secret
+  - ctf
 created: 2024-08-04T06:09
 points: 100
 solves: 590
-updated: 2024-08-05T19:05
+updated: 2025-07-14T09:46
 ---
 
 Free challenge, GPT-solvable.

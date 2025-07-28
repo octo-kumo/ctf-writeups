@@ -1,15 +1,14 @@
 ---
-ai_date: '2025-04-27 05:12:20'
-ai_summary: Simple timing attack used to guess pin characters, with longer response
-  times for correct guesses
+ai_date: 2025-04-27 05:12:20
+ai_summary: Simple timing attack used to guess pin characters, with longer response times for correct guesses
 ai_tags:
-- timing
-- guessing
-- pin
+  - timing
+  - guessing
+  - pin
 created: 2024-12-27T17:20
 points: 410
 solves: 10
-updated: 2024-12-28T06:58
+updated: 2025-07-14T09:46
 ---
 
 Just simple timing attack, and with it we can guess the pin char by char.

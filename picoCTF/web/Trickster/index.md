@@ -1,13 +1,12 @@
 ---
-ai_date: '2025-04-27 05:30:04'
-ai_summary: PHP MIME spoofing vulnerability exploited to execute commands and read
-  files
+ai_date: 2025-04-27 05:30:04
+ai_summary: PHP MIME spoofing vulnerability exploited to execute commands and read files
 ai_tags:
-- php
-- xss
-- cmd-injection
+  - php
+  - xss
+  - cmd-injection
 created: 2024-11-16T19:44
-updated: 2024-11-16T19:45
+updated: 2025-07-14T09:46
 ---
 
 Simple php mime spoofing.

@@ -1,15 +1,14 @@
 ---
-ai_date: '2025-04-27 05:22:16'
-ai_summary: Decoding function revealed JSFuck-encoded text, leading to flag extraction
-  after decoding.
+ai_date: 2025-04-27 05:22:16
+ai_summary: Decoding function revealed JSFuck-encoded text, leading to flag extraction after decoding.
 ai_tags:
-- jsfuck
-- decode
-- rev
+  - jsfuck
+  - decode
+  - rev
 created: 2024-09-07T18:46
 points: 400
 solves: 14
-updated: 2024-09-20T23:55
+updated: 2025-07-14T09:46
 ---
 
 After [deobfuscation](https://obf-io.deobfuscate.io/) and slight modifications of the original code, I discovered a simple decoding function that is used everywhere, so I ported it over to node and dumped all decoded strings into one file.

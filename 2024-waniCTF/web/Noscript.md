@@ -1,18 +1,17 @@
 ---
-ai_date: '2025-04-27 05:24:05'
-ai_summary: Exploited CSP bypass using an object element to load script for stealing
-  cookie and making a POST request
+ai_date: 2025-04-27 05:24:05
+ai_summary: Exploited CSP bypass using an object element to load script for stealing cookie and making a POST request
 ai_tags:
-- csp
-- xss
-- csp-bypass
+  - csp
+  - xss
+  - csp-bypass
 created: 2024-06-21T20:15
 points: 202
 solves: 89
 tags:
-- xss
-- csp-bypass
-updated: 2025-01-06T23:26
+  - xss
+  - csp-bypass
+updated: 2025-07-14T09:46
 ---
 
 This page is protected by csp `default-src 'self', script-src 'none'`.

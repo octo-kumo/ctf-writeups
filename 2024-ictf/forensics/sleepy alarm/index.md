@@ -1,17 +1,16 @@
 ---
-ai_date: '2025-04-27 05:17:40'
-ai_summary: Flag found by analyzing audio spectrogram and decoding binary data at
-  8000Hz in a specific channel difference
+ai_date: 2025-04-27 05:17:40
+ai_summary: Flag found by analyzing audio spectrogram and decoding binary data at 8000Hz in a specific channel difference
 ai_tags:
-- audio-analysis
-- binary-decoding
-- spectrogram
+  - audio-analysis
+  - binary-decoding
+  - spectrogram
 created: 2024-07-21T02:54
 points: 471
 solves: 19
 tags:
-- audio
-updated: 2024-07-21T18:46
+  - audio
+updated: 2025-07-14T09:46
 ---
 
 ## analysis

@@ -1,13 +1,12 @@
 ---
-ai_date: '2025-04-27 05:28:56'
-ai_summary: Executed `decrypt.sh` on each file in 'files' directory, filtered for
-  lines containing 'picoCTF'
+ai_date: 2025-04-27 05:28:56
+ai_summary: Executed `decrypt.sh` on each file in 'files' directory, filtered for lines containing 'picoCTF'
 ai_tags:
-- shell
-- decrypt
-- grep
+  - shell
+  - decrypt
+  - grep
 created: 2024-08-07T21:44
-updated: 2024-08-07T21:45
+updated: 2025-07-14T09:46
 ---
 
 ```bash

@@ -1,15 +1,14 @@
 ---
-ai_date: '2025-04-27 05:28:42'
-ai_summary: Exploited SQL injection with format string and payload injection to bypass
-  restrictions, eventually using 'DUMPFILE' to leak flag
+ai_date: 2025-04-27 05:28:42
+ai_summary: Exploited SQL injection with format string and payload injection to bypass restrictions, eventually using 'DUMPFILE' to leak flag
 ai_tags:
-- sql
-- format-string
-- payload-injection
+  - sql
+  - format-string
+  - payload-injection
 created: 2025-01-12T11:00
 points: 460
 solves: 33
-updated: 2025-01-12T20:04
+updated: 2025-07-14T09:46
 ---
 
 After some testing I discovered the world of python format string attacks.

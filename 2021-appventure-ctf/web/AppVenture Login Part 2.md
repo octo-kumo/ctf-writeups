@@ -1,13 +1,12 @@
 ---
-ai_date: '2025-04-27 05:10:26'
-ai_summary: Script bruteforces password by checking characters one at a time using
-  SQL substring.
+ai_date: 2025-04-27 05:10:26
+ai_summary: Script bruteforces password by checking characters one at a time using SQL substring.
 ai_tags:
-- sql
-- brute-force
-- sub-string
+  - sql
+  - brute-force
+  - sub-string
 created: 2021-12-21T23:50
-updated: 2024-06-10T23:38
+updated: 2025-07-14T09:46
 ---
 
 ## AppVenture Login Part 2

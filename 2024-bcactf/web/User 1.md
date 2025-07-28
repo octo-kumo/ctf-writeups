@@ -1,13 +1,12 @@
 ---
-ai_date: '2025-04-27 05:13:21'
-ai_summary: SQL Injection vulnerability found, allowing for data manipulation and
-  privilege escalation through various queries.
+ai_date: 2025-04-27 05:13:21
+ai_summary: SQL Injection vulnerability found, allowing for data manipulation and privilege escalation through various queries.
 ai_tags:
-- sql
-- 注入
-- privilege-escalation
+  - sql
+  - 注入
+  - privilege-escalation
 created: 2024-06-09T16:20
-updated: 2024-08-05T02:01
+updated: 2025-07-14T09:46
 ---
 
 > I was working on this website and wanted you to check it out. The code is a bit of a mess, since it's only an extremely early version. In fact, you're the very first user, with ID 1!

@@ -1,16 +1,14 @@
 ---
-ai_date: '2025-04-27 05:12:11'
-ai_summary: Vulnerability involves estimating a large prime factor (q) from a given
-  equation involving modular arithmetic, exploiting a difference between p^2 and q
-  in a discrete logarithm context.
+ai_date: 2025-04-27 05:12:11
+ai_summary: Vulnerability involves estimating a large prime factor (q) from a given equation involving modular arithmetic, exploiting a difference between p^2 and q in a discrete logarithm context.
 ai_tags:
-- math
-- discrete-log
-- modular-arithmetic
+  - math
+  - discrete-log
+  - modular-arithmetic
 created: 2024-12-27T17:41
 points: 100
 solves: 50
-updated: 2024-12-28T06:58
+updated: 2025-07-14T09:46
 ---
 
 If the gold is so pure, is it actually completely pure? Well it is effectively pure.

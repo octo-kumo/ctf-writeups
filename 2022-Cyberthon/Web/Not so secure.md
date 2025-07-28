@@ -1,12 +1,12 @@
 ---
-ai_date: '2025-04-27 05:11:55'
+ai_date: 2025-04-27 05:11:55
 ai_summary: Flag found via PHP injection, revealing file contents
 ai_tags:
-- php
-- rce
-- xss
+  - php
+  - rce
+  - xss
 created: 2024-06-11T01:33
-updated: 2024-06-11T01:34
+updated: 2025-07-14T09:46
 ---
 
 > We found a site which APOCALYPSE uses for report generation.

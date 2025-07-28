@@ -1,16 +1,16 @@
 ---
-ai_date: '2025-04-27 05:27:10'
+ai_date: 2025-04-27 05:27:10
 ai_summary: Audio file was sped up, slowed down using PyDub to reveal hidden flag
 ai_tags:
-- audio
-- modulation
-- stegano
+  - audio
+  - modulation
+  - stegano
 created: 2025-01-05T04:21
 points: 470
 solves: 26
 tags:
-- fm
-updated: 2025-01-06T23:20
+  - fm
+updated: 2025-07-14T09:46
 ---
 
 My teammate @zeptoide basically solve it but the audio file was too fast, so I just slowed it down.

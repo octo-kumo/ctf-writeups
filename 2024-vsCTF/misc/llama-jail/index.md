@@ -1,14 +1,13 @@
 ---
-ai_date: '2025-04-27 05:22:46'
-ai_summary: Executed arbitrary code using '__import__' string exploitation, likely
-  a hint for code injection or reflection vulnerability.
+ai_date: 2025-04-27 05:22:46
+ai_summary: Executed arbitrary code using '__import__' string exploitation, likely a hint for code injection or reflection vulnerability.
 ai_tags:
-- exec
-- code-injection
-- python
+  - exec
+  - code-injection
+  - python
 created: 2024-06-15T06:42
 solves: 23
-updated: 2024-08-05T19:31
+updated: 2025-07-14T09:46
 ---
 
 I was able to get a string `__import__` but that's it.

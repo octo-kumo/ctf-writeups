@@ -1,16 +1,16 @@
 ---
-ai_date: '2025-04-27 05:19:31'
+ai_date: 2025-04-27 05:19:31
 ai_summary: Recovering the flag from decompiled EVM bytecode arithmetic check
 ai_tags:
-- decomp
-- arithm
-- exploit
+  - decomp
+  - arithm
+  - exploit
 created: 2024-08-04T06:14
 points: 463
 solves: 154
 tags:
-- web3
-updated: 2024-08-05T19:37
+  - web3
+updated: 2025-07-14T09:46
 ---
 
 Just decompile the EVM byte code. [app.dedaub.com/decompile](https://app.dedaub.com/decompile)

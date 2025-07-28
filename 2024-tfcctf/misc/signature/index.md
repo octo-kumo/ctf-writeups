@@ -1,17 +1,16 @@
 ---
-ai_date: '2025-04-27 05:21:30'
-ai_summary: Optimized image using adversarial attack to exploit model's weakness,
-  submitting manipulated signature for flag
+ai_date: 2025-04-27 05:21:30
+ai_summary: Optimized image using adversarial attack to exploit model's weakness, submitting manipulated signature for flag
 ai_tags:
-- adversarial
-- model-exploitation
-- input-optimization
+  - adversarial
+  - model-exploitation
+  - input-optimization
 created: 2024-08-02T20:15
 points: 499
 solves: 4
 tags:
-- AI
-updated: 2024-08-05T19:35
+  - AI
+updated: 2025-07-14T09:46
 ---
 
 We are given a `h5` file, and the website asks for a signature.

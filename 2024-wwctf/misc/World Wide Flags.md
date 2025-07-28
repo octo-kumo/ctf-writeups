@@ -1,15 +1,14 @@
 ---
-ai_date: '2025-04-27 05:24:30'
-ai_summary: 'Flag recovery using image processing techniques: denoising, contour detection,
-  and template matching.'
+ai_date: 2025-04-27 05:24:30
+ai_summary: "Flag recovery using image processing techniques: denoising, contour detection, and template matching."
 ai_tags:
-- img-search
-- denoise
-- template-matching
+  - img-search
+  - denoise
+  - template-matching
 created: 2024-11-30T16:19
 points: 150
 solves: 119
-updated: 2024-12-08T01:44
+updated: 2025-07-14T09:46
 ---
 
 Intended solution is ~~write an AI~~ manually identifying all the flags.

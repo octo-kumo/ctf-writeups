@@ -1,15 +1,14 @@
 ---
-ai_date: '2025-04-27 05:24:17'
-ai_summary: LWE encryption scheme exploited for key recovery using brute force search
-  and known plaintexts.
+ai_date: 2025-04-27 05:24:17
+ai_summary: LWE encryption scheme exploited for key recovery using brute force search and known plaintexts.
 ai_tags:
-- lwe
-- brute-force
-- probabilistic-key-recovery
+  - lwe
+  - brute-force
+  - probabilistic-key-recovery
 created: 2024-11-30T15:25
 points: 351
 solves: 32
-updated: 2024-12-08T01:43
+updated: 2025-07-14T09:46
 ---
 
 The Learning with Errors (LWE) encryption scheme is a lattice-based cryptographic system with the following key mathematical components:

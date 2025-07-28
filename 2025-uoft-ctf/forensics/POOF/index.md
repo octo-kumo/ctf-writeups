@@ -1,18 +1,17 @@
 ---
-ai_date: '2025-04-27 05:28:29'
-ai_summary: Detected AES decryption and flag in PowerShell script, involving hardcoded
-  key and IV
+ai_date: 2025-04-27 05:28:29
+ai_summary: Detected AES decryption and flag in PowerShell script, involving hardcoded key and IV
 ai_tags:
-- aes
-- decryption
-- flag
+  - aes
+  - decryption
+  - flag
 created: 2025-01-11T00:52
 points: 100
 solves: 172
 tags:
-- virus
-- powershell
-updated: 2025-01-12T18:59
+  - virus
+  - powershell
+updated: 2025-07-14T09:46
 ---
 
 Fancy virus.

@@ -1,11 +1,11 @@
 ---
-ai_date: '2025-04-27 05:11:40'
+ai_date: 2025-04-27 05:11:40
 ai_summary: Cookie controls image source; exploit via input tampering
 ai_tags:
-- xss
-- csrf
+  - xss
+  - csrf
 created: 2024-06-11T01:17
-updated: 2024-07-07T23:08
+updated: 2025-07-14T09:46
 ---
 
 Accessing the source we find this at the beginning

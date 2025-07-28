@@ -1,21 +1,19 @@
 ---
-ai_date: '2025-04-27 05:28:06'
-ai_summary: Exploited FlashGameHelper via __import__ and __getattr__ bypass, then
-  escalated privileges by manipulating image URLs and using URL encoding to execute
-  arbitrary code, ultimately reading flag from database.
+ai_date: 2025-04-27 05:28:06
+ai_summary: Exploited FlashGameHelper via __import__ and __getattr__ bypass, then escalated privileges by manipulating image URLs and using URL encoding to execute arbitrary code, ultimately reading flag from database.
 ai_tags:
-- xss
-- url-encoding
-- payload-execution
+  - xss
+  - url-encoding
+  - payload-execution
 created: 2025-04-19T20:17
 points: 496
 solves: 11
 tags:
-- python
-- jail
-- csrf
+  - python
+  - jail
+  - csrf
 title: Flash Game Studio
-updated: 2025-04-20T20:28
+updated: 2025-07-14T09:46
 ---
 
 At first glance `FlashGameHelper`  is really sus. It runs user provided code.

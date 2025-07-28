@@ -1,15 +1,14 @@
 ---
-ai_date: '2025-04-27 05:19:27'
-ai_summary: Binary search vulnerability in the `try_m` function allows for integer
-  overflow exploitation.
+ai_date: 2025-04-27 05:19:27
+ai_summary: Binary search vulnerability in the `try_m` function allows for integer overflow exploitation.
 ai_tags:
-- overflow
-- binary-search
-- integer-overflow
+  - overflow
+  - binary-search
+  - integer-overflow
 created: 2024-08-04T06:14
 points: 267
 solves: 383
-updated: 2024-08-05T19:05
+updated: 2025-07-14T09:46
 ---
 
 Simple binary search

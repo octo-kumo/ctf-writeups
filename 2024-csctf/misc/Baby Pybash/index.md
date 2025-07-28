@@ -1,15 +1,14 @@
 ---
-ai_date: '2025-04-27 05:14:01'
-ai_summary: Exploitation involves using `$0` to gain bash access and retrieve the
-  flag
+ai_date: 2025-04-27 05:14:01
+ai_summary: Exploitation involves using `$0` to gain bash access and retrieve the flag
 ai_tags:
-- shell
-- cmd-injection
-- exploitation
+  - shell
+  - cmd-injection
+  - exploitation
 created: 2024-08-30T19:04
 points: 50
 solves: 211
-updated: 2024-09-01T15:59
+updated: 2025-07-14T09:46
 ---
 
 Just use `$0` and you will have bash access.

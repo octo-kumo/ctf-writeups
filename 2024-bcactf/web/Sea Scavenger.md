@@ -1,13 +1,12 @@
 ---
-ai_date: '2025-04-27 05:13:11'
-ai_summary: Webpage exploration reveals hidden flag parts through image hints and
-  script clues, requiring knowledge of robots.txt and directory traversal.
+ai_date: 2025-04-27 05:13:11
+ai_summary: Webpage exploration reveals hidden flag parts through image hints and script clues, requiring knowledge of robots.txt and directory traversal.
 ai_tags:
-- web
-- lfi
-- redir
+  - web
+  - lfi
+  - redir
 created: 2024-06-09T15:55
-updated: 2024-06-10T23:19
+updated: 2025-07-14T09:46
 ---
 
 > Take a tour of the deep sea! Explore the depths of webpage secrets and find the hidden treasure. Pro tip: Zoom out!

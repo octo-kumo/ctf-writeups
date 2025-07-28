@@ -1,14 +1,13 @@
 ---
-ai_date: '2025-04-27 05:13:45'
-ai_summary: MD5 collisions demonstrated for file hashing, leading to a bypass of the
-  security measure.
+ai_date: 2025-04-27 05:13:45
+ai_summary: MD5 collisions demonstrated for file hashing, leading to a bypass of the security measure.
 ai_tags:
-- md5
-- collisions
-- hash
+  - md5
+  - collisions
+  - hash
 created: 2024-08-08T09:04
 points: 225
-updated: 2024-08-17T20:13
+updated: 2025-07-14T09:46
 ---
 
 MD5 isn't secure, finding collisions is easy.

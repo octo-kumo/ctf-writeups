@@ -1,14 +1,14 @@
 ---
-ai_date: '2025-04-27 05:20:56'
+ai_date: 2025-04-27 05:20:56
 ai_summary: Challenge allows reading environment variables to obtain the flag
 ai_tags:
-- proc-self-environ
-- env-var-read
-- rce
+  - proc-self-environ
+  - env-var-read
+  - rce
 created: 2024-08-04T06:06
 points: 429
 solves: 212
-updated: 2024-08-05T19:04
+updated: 2025-07-14T09:46
 ---
 
 Very obvious hint indeed.

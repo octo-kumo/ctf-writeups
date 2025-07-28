@@ -1,12 +1,12 @@
 ---
-ai_date: '2025-04-27 05:12:46'
+ai_date: 2025-04-27 05:12:46
 ai_summary: EJS RCE vulnerability exploited to steal the flag
 ai_tags:
-- xss
-- rce
-- ejs
+  - xss
+  - rce
+  - ejs
 created: 2024-06-10T01:41
-updated: 2024-06-10T23:17
+updated: 2025-07-14T09:46
 ---
 
 > This old service lets you make some interesting queries. It hasn't been updated in a while, though.

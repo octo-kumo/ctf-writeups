@@ -1,18 +1,17 @@
 ---
-ai_date: '2025-04-27 05:17:22'
-ai_summary: Common Modulus Attack used to recover the flag after RSA encryption with
-  shared modulus
+ai_date: 2025-04-27 05:17:22
+ai_summary: Common Modulus Attack used to recover the flag after RSA encryption with shared modulus
 ai_tags:
-- rsa
-- common-modulus
-- recovery
+  - rsa
+  - common-modulus
+  - recovery
 created: 2024-07-19T22:35
 points: 100
 solves: 172
 tags:
-- rsa
-- modulus
-updated: 2024-08-05T19:43
+  - rsa
+  - modulus
+updated: 2025-07-14T09:46
 ---
 
 We can observe that the same `flag` is encrypted twice using RSA, with the same modulus `n` and two different `e`.

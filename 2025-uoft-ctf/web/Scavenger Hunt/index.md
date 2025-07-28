@@ -1,16 +1,15 @@
 ---
-ai_date: '2025-04-27 05:28:46'
-ai_summary: Flag found in HTML comment, headers, cookies, and source maps, requiring
-  inspection and enumeration.
+ai_date: 2025-04-27 05:28:46
+ai_summary: Flag found in HTML comment, headers, cookies, and source maps, requiring inspection and enumeration.
 ai_tags:
-- xss
-- cookie
-- http-hdr
-- map-source
+  - xss
+  - cookie
+  - http-hdr
+  - map-source
 created: 2025-01-10T19:26
 points: 100
 solves: 499
-updated: 2025-01-12T19:01
+updated: 2025-07-14T09:46
 ---
 
 ## part 1

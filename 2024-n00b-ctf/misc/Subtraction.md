@@ -1,15 +1,14 @@
 ---
-ai_date: '2025-04-27 05:20:13'
-ai_summary: Script computes absolute difference with middle number, reducing range
-  by half, eventually reaching a fixed point for input size <= 696969
+ai_date: 2025-04-27 05:20:13
+ai_summary: Script computes absolute difference with middle number, reducing range by half, eventually reaching a fixed point for input size <= 696969
 ai_tags:
-- math
-- range-reduction
-- integer-overflow
+  - math
+  - range-reduction
+  - integer-overflow
 created: 2024-08-04T06:10
 points: 448
 solves: 182
-updated: 2024-08-05T19:04
+updated: 2025-07-14T09:46
 ---
 
 When a set of numbers $x\in[0,n]$ are taken abs difference with the middle number $n/2$, we are effectively halving the size of that range. ($[0,n/2]$)

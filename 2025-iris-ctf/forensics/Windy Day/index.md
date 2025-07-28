@@ -1,17 +1,16 @@
 ---
-ai_date: '2025-04-27 05:26:52'
-ai_summary: Found base64-encoded flag by searching for specific patterns in memory
-  dump
+ai_date: 2025-04-27 05:26:52
+ai_summary: Found base64-encoded flag by searching for specific patterns in memory dump
 ai_tags:
-- hex-editor
-- base64
-- pattern-search
+  - hex-editor
+  - base64
+  - pattern-search
 created: 2025-01-04T18:58
 points: 424
 solves: 41
 tags:
-- mem
-updated: 2025-01-06T23:22
+  - mem
+updated: 2025-07-14T09:46
 ---
 
 All attempts with volatility failed. So I decided to just analyse the strings manually on a hex editor.

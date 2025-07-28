@@ -1,15 +1,14 @@
 ---
-ai_date: '2025-04-27 05:24:21'
-ai_summary: Simple RSA encryption bypassed using modular inverse to compute the private
-  key
+ai_date: 2025-04-27 05:24:21
+ai_summary: Simple RSA encryption bypassed using modular inverse to compute the private key
 ai_tags:
-- rsa
-- mod-inv
-- brute
+  - rsa
+  - mod-inv
+  - brute
 created: 2024-11-30T17:04
 points: 50
 solves: 405
-updated: 2024-12-08T01:43
+updated: 2025-07-14T09:46
 ---
 
 Very simple RSA (not RSA).

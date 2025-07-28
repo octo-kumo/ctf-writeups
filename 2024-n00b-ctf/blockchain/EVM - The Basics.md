@@ -1,17 +1,16 @@
 ---
-ai_date: '2025-04-27 05:19:35'
-ai_summary: Reversed EVM code reveals multiplication check, flag is derived from the
-  result
+ai_date: 2025-04-27 05:19:35
+ai_summary: Reversed EVM code reveals multiplication check, flag is derived from the result
 ai_tags:
-- decomp
-- math
-- hex
+  - decomp
+  - math
+  - hex
 created: 2024-08-04T06:14
 points: 363
 solves: 294
 tags:
-- web3
-updated: 2024-08-05T19:37
+  - web3
+updated: 2025-07-14T09:46
 ---
 
 Just decompile the EVM byte code. [app.dedaub.com/decompile](https://app.dedaub.com/decompile)

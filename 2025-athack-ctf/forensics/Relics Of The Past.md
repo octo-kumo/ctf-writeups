@@ -1,14 +1,14 @@
 ---
-ai_date: '2025-04-27 05:25:03'
-ai_summary: 'Files contain hidden parts of flag: PART1, PART2, PART3, PART4, PART5'
+ai_date: 2025-04-27 05:25:03
+ai_summary: "Files contain hidden parts of flag: PART1, PART2, PART3, PART4, PART5"
 ai_tags:
-- payload
-- data-recovery
-- file-analysis
+  - payload
+  - data-recovery
+  - file-analysis
 created: 2025-03-01T16:57
 points: 200
 solves: 25
-updated: 2025-03-18T02:27
+updated: 2025-07-14T09:46
 ---
 
 Just dump all files to txt.

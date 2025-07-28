@@ -1,15 +1,14 @@
 ---
-ai_date: '2025-04-27 05:23:01'
-ai_summary: Exploited race condition in real-time socket communication to bypass rate
-  limiting and obtain flag.
+ai_date: 2025-04-27 05:23:01
+ai_summary: Exploited race condition in real-time socket communication to bypass rate limiting and obtain flag.
 ai_tags:
-- race
-- socket
-- rce
+  - race
+  - socket
+  - rce
 created: 2024-06-14T16:44
 points: 380
 solves: 204
-updated: 2024-08-04T19:47
+updated: 2025-07-14T09:46
 ---
 
 > angstromctf's spinner was too easy... and not annoying enough

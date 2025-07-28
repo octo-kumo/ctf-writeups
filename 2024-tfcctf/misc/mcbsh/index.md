@@ -1,17 +1,16 @@
 ---
-ai_date: '2025-04-27 05:21:25'
-ai_summary: Exploited command injection using octal escape sequences and binary conversion
-  to obtain numbers and characters in a restricted shell
+ai_date: 2025-04-27 05:21:25
+ai_summary: Exploited command injection using octal escape sequences and binary conversion to obtain numbers and characters in a restricted shell
 ai_tags:
-- cmd-inj
-- octal-esc
-- binary-conversion
+  - cmd-inj
+  - octal-esc
+  - binary-conversion
 created: 2024-08-03T16:18
 points: 476
 solves: 16
 tags:
-- bash
-updated: 2024-08-05T19:35
+  - bash
+updated: 2025-07-14T09:46
 ---
 
 ## analysis

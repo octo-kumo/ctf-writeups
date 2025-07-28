@@ -1,14 +1,13 @@
 ---
-ai_date: '2025-04-27 05:29:22'
-ai_summary: Format string attack exploited to leak and overwrite GOT entry for `puts`
-  to execute `system` after address leak.
+ai_date: 2025-04-27 05:29:22
+ai_summary: Format string attack exploited to leak and overwrite GOT entry for `puts` to execute `system` after address leak.
 ai_tags:
-- fmt-str
-- got
-- rop
-- aslr
+  - fmt-str
+  - got
+  - rop
+  - aslr
 created: 2024-08-07T22:13
-updated: 2024-08-07T23:55
+updated: 2025-07-14T09:46
 ---
 
 Format string attack modifying GOT to run custom function after memory address leak.

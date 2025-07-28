@@ -1,14 +1,14 @@
 ---
-ai_date: '2025-04-27 05:12:24'
+ai_date: 2025-04-27 05:12:24
 ai_summary: Decrypted flag by observing chess piece positions and AES encryption
 ai_tags:
-- aes
-- decryption
-- chess
+  - aes
+  - decryption
+  - chess
 created: 2024-12-27T12:26
 points: 100
 solves: 43
-updated: 2024-12-28T07:27
+updated: 2025-07-14T09:46
 ---
 
 ## mod

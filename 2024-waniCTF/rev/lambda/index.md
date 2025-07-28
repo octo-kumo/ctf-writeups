@@ -1,15 +1,14 @@
 ---
-ai_date: '2025-04-27 05:23:45'
-ai_summary: Obfuscated encryption using ASCII shifting and XOR, involving base conversion
-  and modulo arithmetic
+ai_date: 2025-04-27 05:23:45
+ai_summary: Obfuscated encryption using ASCII shifting and XOR, involving base conversion and modulo arithmetic
 ai_tags:
-- xor
-- ascii-shifting
-- base-conversion
+  - xor
+  - ascii-shifting
+  - base-conversion
 created: 2024-06-22T09:03
 points: 128
 solves: 402
-updated: 2024-08-05T09:51
+updated: 2025-07-14T09:46
 ---
 
 - [gio54321/lambdifier: Python obfuscation for the average lambda enjoyer (github.com)](https://github.com/gio54321/lambdifier)

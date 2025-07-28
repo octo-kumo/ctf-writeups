@@ -1,16 +1,16 @@
 ---
-ai_date: '2025-04-27 05:19:44'
+ai_date: 2025-04-27 05:19:44
 ai_summary: Low exponent RSA vulnerability exploited by calculating cube root of ciphertext
 ai_tags:
-- rsa
-- low-e
-- crt
+  - rsa
+  - low-e
+  - crt
 created: 2024-08-04T06:13
 points: 100
 solves: 568
 tags:
-- rsa
-updated: 2024-08-05T19:40
+  - rsa
+updated: 2025-07-14T09:46
 ---
 
 Low exponent RSA, so low that the modulus is irrelevant.

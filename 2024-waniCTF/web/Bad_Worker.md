@@ -1,14 +1,14 @@
 ---
-ai_date: '2025-04-27 05:23:57'
+ai_date: 2025-04-27 05:23:57
 ai_summary: Service worker detected; disabling it reveals a flag.
 ai_tags:
-- service-worker
-- offline
-- flag
+  - service-worker
+  - offline
+  - flag
 created: 2024-06-21T19:37
 points: 120
 solves: 569
-updated: 2024-08-05T09:52
+updated: 2025-07-14T09:46
 ---
 
 > オフラインで動くウェブアプリをつくりました。

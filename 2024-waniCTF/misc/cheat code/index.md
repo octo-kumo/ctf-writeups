@@ -1,14 +1,14 @@
 ---
-ai_date: '2025-04-27 05:23:37'
+ai_date: 2025-04-27 05:23:37
 ai_summary: Timing-based attack discovered by measuring response time for input characters
 ai_tags:
-- timing
-- brute
-- attack
+  - timing
+  - brute
+  - attack
 created: 2024-06-22T07:29
 points: 264
 solves: 44
-updated: 2024-08-05T09:51
+updated: 2025-07-14T09:46
 ---
 
 It seems that the validation step would take a very  long time, which means its gonna be timing attack!

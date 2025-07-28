@@ -1,14 +1,13 @@
 ---
-ai_date: '2025-04-27 05:16:17'
-ai_summary: Exploitation involves pattern matching and command execution based on
-  predefined keywords; likely a command injection vulnerability.
+ai_date: 2025-04-27 05:16:17
+ai_summary: Exploitation involves pattern matching and command execution based on predefined keywords; likely a command injection vulnerability.
 ai_tags:
-- cmd-inj
-- pattern-matching
+  - cmd-inj
+  - pattern-matching
 created: 2024-07-17T00:57
 points: 925
 solves: 319
-updated: 2024-08-04T19:31
+updated: 2025-07-14T09:46
 ---
 
 ## Solve Script

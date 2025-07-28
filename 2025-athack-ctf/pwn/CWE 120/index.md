@@ -1,14 +1,14 @@
 ---
-ai_date: '2025-04-27 05:25:32'
+ai_date: 2025-04-27 05:25:32
 ai_summary: Overflow exploit using buffer overflow in scanf input for 'password'
 ai_tags:
-- buffer-overflow
-- overflow
-- x86
+  - buffer-overflow
+  - overflow
+  - x86
 created: 2025-03-01T22:17
 points: 100
 solves: 16
-updated: 2025-03-18T02:29
+updated: 2025-07-14T09:46
 ---
 
 Well, `passw0rd` didn't work.

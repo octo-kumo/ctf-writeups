@@ -1,15 +1,14 @@
 ---
-ai_date: '2025-04-27 05:12:31'
-ai_summary: Malware encodes zip file in 'Would you lose.png' using XOR encryption
-  with a 4-byte key; solved by extracting and decrypting the image
+ai_date: 2025-04-27 05:12:31
+ai_summary: Malware encodes zip file in 'Would you lose.png' using XOR encryption with a 4-byte key; solved by extracting and decrypting the image
 ai_tags:
-- xor
-- imgf
-- decryption
+  - xor
+  - imgf
+  - decryption
 created: 2024-12-27T23:30
 points: 440
 solves: 7
-updated: 2024-12-28T06:27
+updated: 2025-07-14T09:46
 ---
 
 The malware seems to be fetching a bunch of files and putting them into "Exfiltrated_data.zip" then "Would you lose.png".

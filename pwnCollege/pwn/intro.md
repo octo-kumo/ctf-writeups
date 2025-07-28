@@ -1,14 +1,12 @@
 ---
-ai_date: '2025-04-27 05:30:10'
-ai_summary: 'Explored various binary exploitation techniques: variable control, control
-  hijack, PIEs, string lengths, shellcode (NOP sleds, null-free, hijack to mapped
-  memory, hijack to shellcode), and using IDA for analysis.'
+ai_date: 2025-04-27 05:30:10
+ai_summary: "Explored various binary exploitation techniques: variable control, control hijack, PIEs, string lengths, shellcode (NOP sleds, null-free, hijack to mapped memory, hijack to shellcode), and using IDA for analysis."
 ai_tags:
-- pwn
-- shellcode
-- exploitation
+  - pwn
+  - shellcode
+  - exploitation
 created: 2025-01-01T04:01
-updated: 2025-01-01T18:35
+updated: 2025-07-14T09:46
 ---
 
 [pwn.college/intro-to-cybersecurity/binary-exploitation/](https://pwn.college/intro-to-cybersecurity/binary-exploitation/)

@@ -1,15 +1,14 @@
 ---
-ai_date: '2025-04-27 05:24:36'
-ai_summary: CTF challenge required reverse Polish notation (RPN) evaluation to decode
-  an arithmetic expression using custom operators and flag manipulation
+ai_date: 2025-04-27 05:24:36
+ai_summary: CTF challenge required reverse Polish notation (RPN) evaluation to decode an arithmetic expression using custom operators and flag manipulation
 ai_tags:
-- rpn
-- arithmetics
-- custom-operators
+  - rpn
+  - arithmetics
+  - custom-operators
 created: 2024-11-30T17:09
 points: 450
 solves: 14
-updated: 2024-12-08T01:44
+updated: 2025-07-14T09:46
 ---
 
 I hope everyone liked my drawing!

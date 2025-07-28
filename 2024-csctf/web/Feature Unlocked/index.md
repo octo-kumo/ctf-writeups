@@ -1,15 +1,14 @@
 ---
-ai_date: '2025-04-27 05:14:05'
-ai_summary: Exploited server's preference for custom validation server by modifying
-  cookie, allowing for code execution
+ai_date: 2025-04-27 05:14:05
+ai_summary: Exploited server's preference for custom validation server by modifying cookie, allowing for code execution
 ai_tags:
-- http-hdr
-- xss
-- csrf
+  - http-hdr
+  - xss
+  - csrf
 created: 2024-08-30T17:43
 points: 50
 solves: 184
-updated: 2024-09-01T16:00
+updated: 2025-07-14T09:46
 ---
 
 ## Validation

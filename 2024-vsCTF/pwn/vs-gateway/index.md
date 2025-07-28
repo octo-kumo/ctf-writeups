@@ -1,15 +1,14 @@
 ---
-ai_date: '2025-04-27 05:22:51'
-ai_summary: Rust code saves credentials and allows command injection, enabling file
-  discovery and flag retrieval via curl.
+ai_date: 2025-04-27 05:22:51
+ai_summary: Rust code saves credentials and allows command injection, enabling file discovery and flag retrieval via curl.
 ai_tags:
-- cmd-inj
-- file-disc
-- flag-extract
+  - cmd-inj
+  - file-disc
+  - flag-extract
 created: 2024-06-15T04:41
 points: 471
 solves: 63
-updated: 2024-08-04T19:46
+updated: 2025-07-14T09:46
 ---
 
 > We are developing a new router but not sure if the interface has bug or not. Could you have a look?

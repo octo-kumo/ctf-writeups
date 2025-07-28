@@ -1,12 +1,12 @@
 ---
-ai_date: '2025-04-27 05:29:18'
+ai_date: 2025-04-27 05:29:18
 ai_summary: Format string attack exploited to leak and overwrite memory with the flag
 ai_tags:
-- fmt-str
-- rop
-- buffer-overflow
+  - fmt-str
+  - rop
+  - buffer-overflow
 created: 2024-08-07T23:48
-updated: 2024-08-07T23:57
+updated: 2025-07-14T09:46
 ---
 
 Simple application of format string attack.

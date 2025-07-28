@@ -1,14 +1,14 @@
 ---
-ai_date: '2025-04-27 05:24:46'
+ai_date: 2025-04-27 05:24:46
 ai_summary: Found hidden audio files and a rot13 encrypted flag in a Zip archive
 ai_tags:
-- zip
-- audio
-- rot13
+  - zip
+  - audio
+  - rot13
 created: 2025-03-01T16:38
 points: 50
 solves: 25
-updated: 2025-03-18T02:26
+updated: 2025-07-14T09:46
 ---
 
 ```

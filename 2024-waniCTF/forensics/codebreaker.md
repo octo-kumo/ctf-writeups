@@ -1,16 +1,16 @@
 ---
-ai_date: '2025-04-27 05:23:18'
+ai_date: 2025-04-27 05:23:18
 ai_summary: QR code exploit involves manual analysis for hidden flag
 ai_tags:
-- qr-code
-- manual-attack
-- hidden-flag
+  - qr-code
+  - manual-attack
+  - hidden-flag
 created: 2024-06-22T03:54
 points: 140
 solves: 268
 tags:
-- qr-code
-updated: 2024-08-05T19:29
+  - qr-code
+updated: 2025-07-14T09:46
 ---
 
 QR Code repair, tedious and painful.

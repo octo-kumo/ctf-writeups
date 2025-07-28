@@ -1,13 +1,12 @@
 ---
-ai_date: '2025-04-27 05:29:50'
-ai_summary: 'Exploitation: Remote code execution via controlled input (RCE) using
-  a hardcoded address'
+ai_date: 2025-04-27 05:29:50
+ai_summary: "Exploitation: Remote code execution via controlled input (RCE) using a hardcoded address"
 ai_tags:
-- rop
-- ret2libc
-- remote-code-execution
+  - rop
+  - ret2libc
+  - remote-code-execution
 created: 2024-08-08T02:30
-updated: 2024-08-08T02:36
+updated: 2025-07-14T09:46
 ---
 
 We have to jump to `win`.

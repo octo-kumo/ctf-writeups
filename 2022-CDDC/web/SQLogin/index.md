@@ -1,13 +1,12 @@
 ---
-ai_date: '2025-04-27 05:11:47'
-ai_summary: SQL injection vulnerability exploited to bypass authentication and retrieve
-  the flag
+ai_date: 2025-04-27 05:11:47
+ai_summary: SQL injection vulnerability exploited to bypass authentication and retrieve the flag
 ai_tags:
-- sql
-- xss
-- rce
+  - sql
+  - xss
+  - rce
 created: 2024-06-11T01:17
-updated: 2024-07-07T23:08
+updated: 2025-07-14T09:46
 ---
 
 Seems like the usual SQL injection

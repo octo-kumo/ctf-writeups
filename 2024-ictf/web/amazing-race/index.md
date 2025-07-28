@@ -1,15 +1,14 @@
 ---
-ai_date: '2025-04-27 05:18:13'
-ai_summary: Race condition exploit by sending simultaneous move requests to overwrite
-  wall tiles
+ai_date: 2025-04-27 05:18:13
+ai_summary: Race condition exploit by sending simultaneous move requests to overwrite wall tiles
 ai_tags:
-- race
-- http-hdr
-- rce
+  - race
+  - http-hdr
+  - rce
 created: 2024-07-19T18:28
 points: 100
 solves: 100
-updated: 2024-07-21T18:39
+updated: 2025-07-14T09:46
 ---
 
 ## race condition

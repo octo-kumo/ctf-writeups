@@ -1,18 +1,17 @@
 ---
-ai_date: '2025-04-27 05:27:46'
-ai_summary: Flag obtained by patching binary to bypass input validation and deciphering
-  a string
+ai_date: 2025-04-27 05:27:46
+ai_summary: Flag obtained by patching binary to bypass input validation and deciphering a string
 ai_tags:
-- xss
-- input-validation
-- string-decipher
+  - xss
+  - input-validation
+  - string-decipher
 created: 2025-04-19T00:38
 points: 310
 solves: 70
 tags:
-- unity
+  - unity
 title: Bullet Dodge
-updated: 2025-04-20T20:26
+updated: 2025-07-14T09:46
 ---
 
 Game hacking.

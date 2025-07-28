@@ -1,15 +1,14 @@
 ---
-ai_date: '2025-04-27 05:14:15'
-ai_summary: Solved by creating a symlink in a zip file pointing to the flag file,
-  exploiting path traversal.
+ai_date: 2025-04-27 05:14:15
+ai_summary: Solved by creating a symlink in a zip file pointing to the flag file, exploiting path traversal.
 ai_tags:
-- path
-- symlink
-- lfi
+  - path
+  - symlink
+  - lfi
 created: 2024-08-31T13:59
 points: 50
 solves: 173
-updated: 2024-09-01T16:01
+updated: 2025-07-14T09:46
 ---
 
 It's a simple symlink zip challenge.

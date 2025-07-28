@@ -1,12 +1,12 @@
 ---
-ai_date: '2025-04-27 05:29:09'
-ai_summary: 'Buffer overflow exploitation with brute force, discovered flag: picoCTF{5c9838eff837a883a30c38001280f07d}'
+ai_date: 2025-04-27 05:29:09
+ai_summary: "Buffer overflow exploitation with brute force, discovered flag: picoCTF{5c9838eff837a883a30c38001280f07d}"
 ai_tags:
-- bof
-- brute
-- rop
+  - bof
+  - brute
+  - rop
 created: 2024-06-15T20:56
-updated: 2024-06-15T21:03
+updated: 2025-07-14T09:46
 ---
 
 ```cpp

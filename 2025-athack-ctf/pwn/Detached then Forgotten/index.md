@@ -1,15 +1,14 @@
 ---
-ai_date: '2025-04-27 05:25:40'
-ai_summary: Challenge involves exploiting bash history to bypass permissions and access
-  flag (sudo required)
+ai_date: 2025-04-27 05:25:40
+ai_summary: Challenge involves exploiting bash history to bypass permissions and access flag (sudo required)
 ai_tags:
-- bash
-- history
-- sudo
+  - bash
+  - history
+  - sudo
 created: 2025-03-01T22:28
 points: 150
 solves: 17
-updated: 2025-03-18T02:29
+updated: 2025-07-14T09:46
 ---
 
 ??? IDK What the task is even about, we have `sudo` right away and the flag is just right there.

@@ -1,16 +1,15 @@
 ---
-ai_date: '2025-04-27 05:20:02'
-ai_summary: Exploited integer overflow in arithmetic calculation to bypass input validation
-  and obtain the flag
+ai_date: 2025-04-27 05:20:02
+ai_summary: Exploited integer overflow in arithmetic calculation to bypass input validation and obtain the flag
 ai_tags:
-- overflow
-- integer-overflow
-- math
+  - overflow
+  - integer-overflow
+  - math
 created: 2024-08-04T06:10
 description: Just wait 2000 years
 points: 100
 solves: 501
-updated: 2024-08-05T19:03
+updated: 2025-07-14T09:46
 ---
 
 ## Cheese method

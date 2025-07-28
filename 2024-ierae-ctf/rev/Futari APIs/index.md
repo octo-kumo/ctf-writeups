@@ -1,12 +1,12 @@
 ---
-ai_date: '2025-04-27 05:18:41'
+ai_date: 2025-04-27 05:18:41
 ai_summary: Web enumeration and XOR decryption challenge
 ai_tags:
-- web
-- xor
-- secret
+  - web
+  - xor
+  - secret
 created: 2024-09-21T02:26
-updated: 2024-09-21T02:29
+updated: 2025-07-14T09:46
 ---
 
 Solved using only web tools.

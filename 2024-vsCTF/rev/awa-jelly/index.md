@@ -1,15 +1,14 @@
 ---
-ai_date: '2025-04-27 05:22:54'
-ai_summary: Challenge involves character rearrangement, likely a Caesar cipher or
-  similar substitution technique.
+ai_date: 2025-04-27 05:22:54
+ai_summary: Challenge involves character rearrangement, likely a Caesar cipher or similar substitution technique.
 ai_tags:
-- substitution
-- decryption
-- ciphertext
+  - substitution
+  - decryption
+  - ciphertext
 created: 2024-06-14T20:10
 points: 395
 solves: 184
-updated: 2024-08-04T19:46
+updated: 2025-07-14T09:46
 ---
 
 > [JellyCTF](https://jellyc.tf/) has some amazing challenges on [Jelly Hoshiumi](https://x.com/jellyhoshiumi) (星海ジェリー), one of the few VTubers who loves CTF. Inspired by a challenge, I made one based on [AWA5.0](https://github.com/TempTempai/AWA5.0). Can you find the redacted input that matches the screenshot?

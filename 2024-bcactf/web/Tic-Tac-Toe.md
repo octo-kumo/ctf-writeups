@@ -1,12 +1,12 @@
 ---
-ai_date: '2025-04-27 05:13:15'
-ai_summary: 'Websocket exploit: Unsecured game state allowed remote control of moves'
+ai_date: 2025-04-27 05:13:15
+ai_summary: "Websocket exploit: Unsecured game state allowed remote control of moves"
 ai_tags:
-- ws
-- xss
-- cmd-exec
+  - ws
+  - xss
+  - cmd-exec
 created: 2024-06-10T01:50
-updated: 2024-06-10T23:19
+updated: 2025-07-14T09:46
 ---
 
 > My friend wrote this super cool game of tic-tac-toe. It has an AI he claims is unbeatable. I've been playing the game for a few hours and I haven't been able to win. Do you think you could beat the AI?

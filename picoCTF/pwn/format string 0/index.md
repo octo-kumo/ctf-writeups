@@ -1,12 +1,12 @@
 ---
-ai_date: '2025-04-27 05:29:12'
+ai_date: 2025-04-27 05:29:12
 ai_summary: Format string vulnerability exploited in recommending burgers to customers.
 ai_tags:
-- xss
-- fmt-str
-- rce
+  - xss
+  - fmt-str
+  - rce
 created: 2024-06-15T20:41
-updated: 2024-06-15T20:49
+updated: 2025-07-14T09:46
 ---
 
 No need to overthink, just choose the choice with format string.

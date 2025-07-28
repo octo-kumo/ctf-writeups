@@ -1,17 +1,16 @@
 ---
-ai_date: '2025-04-27 05:20:38'
-ai_summary: Flag found by observing and modifying Brainfuck code to output values
-  and discovering the flag
+ai_date: 2025-04-27 05:20:38
+ai_summary: Flag found by observing and modifying Brainfuck code to output values and discovering the flag
 ai_tags:
-- bf
-- debugger
-- code-exec
+  - bf
+  - debugger
+  - code-exec
 created: 2024-08-04T06:09
 points: 343
 solves: 315
 tags:
-- brainfuck
-updated: 2024-08-05T19:41
+  - brainfuck
+updated: 2025-07-14T09:46
 ---
 
 Using [Brainfuck Debugger (bxt.gitlab.io)](https://bxt.gitlab.io/brainfuck-debugger/) we can observe that the code increments `r0` to some value and decrements it to 0 quite a few times (`<[-]>`).

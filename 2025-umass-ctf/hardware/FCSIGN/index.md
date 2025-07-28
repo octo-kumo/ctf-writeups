@@ -1,16 +1,15 @@
 ---
-ai_date: '2025-04-27 05:27:31'
-ai_summary: Challenge involved brute-forcing a 16-byte password by measuring time
-  differences in response cycles, exploiting string comparison order.
+ai_date: 2025-04-27 05:27:31
+ai_summary: Challenge involved brute-forcing a 16-byte password by measuring time differences in response cycles, exploiting string comparison order.
 ai_tags:
-- brute
-- timing
-- password-guessing
+  - brute
+  - timing
+  - password-guessing
 created: 2025-04-19T21:18
 points: 500
 solves: 3
 title: FCSIGN
-updated: 2025-04-20T19:59
+updated: 2025-07-14T09:46
 ---
 
 After reading the datasheet I can tell that the most important part of this challenge is the 16 byte password.

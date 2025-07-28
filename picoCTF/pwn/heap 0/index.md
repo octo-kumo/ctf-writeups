@@ -1,13 +1,12 @@
 ---
-ai_date: '2025-04-27 05:29:26'
-ai_summary: Heap overflow exploited to leak and control adjacent memory, demonstrating
-  heap spray and buffer overflow technique.
+ai_date: 2025-04-27 05:29:26
+ai_summary: Heap overflow exploited to leak and control adjacent memory, demonstrating heap spray and buffer overflow technique.
 ai_tags:
-- heap
-- overflow
-- spray
+  - heap
+  - overflow
+  - spray
 created: 2024-06-15T20:50
-updated: 2024-06-15T20:55
+updated: 2025-07-14T09:46
 ---
 
 ```cpp

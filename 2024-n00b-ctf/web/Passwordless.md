@@ -1,15 +1,14 @@
 ---
-ai_date: '2025-04-27 05:21:00'
-ai_summary: 'Weak password vulnerability: Empty password ''admin123'' allows unauthorized
-  access.'
+ai_date: 2025-04-27 05:21:00
+ai_summary: "Weak password vulnerability: Empty password 'admin123' allows unauthorized access."
 ai_tags:
-- weak-pass
-- pwd-brute
-- xss
+  - weak-pass
+  - pwd-brute
+  - xss
 created: 2024-08-04T06:07
 points: 100
 solves: 736
-updated: 2024-08-05T19:04
+updated: 2025-07-14T09:46
 ---
 
 Empty password is not safe.

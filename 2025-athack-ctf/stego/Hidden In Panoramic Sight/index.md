@@ -1,15 +1,14 @@
 ---
-ai_date: '2025-04-27 05:25:59'
-ai_summary: Image manipulation to create a cube map and parorama, suggesting a 3D
-  or panoramic image processing challenge
+ai_date: 2025-04-27 05:25:59
+ai_summary: Image manipulation to create a cube map and parorama, suggesting a 3D or panoramic image processing challenge
 ai_tags:
-- imgf
-- parorama
-- 3d
+  - imgf
+  - parorama
+  - 3d
 created: 2025-03-02T08:12
 tags:
-- unsolved
-updated: 2025-03-02T14:23
+  - unsolved
+updated: 2025-07-14T09:46
 ---
 
 ![cbimage.png](https://res.cloudinary.com/kumonochisanaka/image/upload/v1740921179/2025/03/15d91d816b94d91f2d2c2a82345b7517.jpg)

@@ -1,15 +1,15 @@
 ---
-ai_date: '2025-04-27 05:28:37'
+ai_date: 2025-04-27 05:28:37
 ai_summary: Exploited timing difference in regex search to guess flag characters
 ai_tags:
-- regex
-- timing-attack
-- search
+  - regex
+  - timing-attack
+  - search
 created: 2025-01-11T17:14
 points: 388
 solves: 52
 title: CodeDB
-updated: 2025-01-12T19:00
+updated: 2025-07-14T09:46
 ---
 
 We need to somehow access flag.txt which is not accessible via `/view/:fileName` nor via the worker.

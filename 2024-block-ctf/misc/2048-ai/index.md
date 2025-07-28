@@ -1,16 +1,15 @@
 ---
-ai_date: '2025-04-27 05:13:26'
-ai_summary: Used Monte Carlo AI algorithm to solve 2048 game with 100% win rate, showcasing
-  optimization and AI techniques.
+ai_date: 2025-04-27 05:13:26
+ai_summary: Used Monte Carlo AI algorithm to solve 2048 game with 100% win rate, showcasing optimization and AI techniques.
 ai_tags:
-- ai
-- monte-carlo
-- game-theory
+  - ai
+  - monte-carlo
+  - game-theory
 created: 2024-11-14T17:11
 points: 150
 solves: 31
 title: 2048 ai
-updated: 2024-11-14T17:33
+updated: 2025-07-14T09:46
 ---
 
 I was working on this while @Maximxls solved it already 😭

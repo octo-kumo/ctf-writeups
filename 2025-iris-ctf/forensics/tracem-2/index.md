@@ -1,17 +1,17 @@
 ---
-ai_date: '2025-04-27 05:26:48'
+ai_date: 2025-04-27 05:26:48
 ai_summary: Identified the attacker by tracking DHCP requests and multi-IP MAC addresses.
 ai_tags:
-- mac
-- dhcp
-- multi-ip
+  - mac
+  - dhcp
+  - multi-ip
 created: 2025-01-04T17:47
 points: 457
 solves: 31
 tags:
-- json-log
-- log
-updated: 2025-01-06T23:22
+  - json-log
+  - log
+updated: 2025-07-14T09:46
 ---
 
 > Here at EI Corp, ethics are our top priority! That's why our IT team was shocked when we got a knock from our ISP informing us that someone on our computer network was involved in some illegitimate activity. Who would do that? Don't they know that's illegal?

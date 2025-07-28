@@ -1,12 +1,12 @@
 ---
-ai_date: '2025-04-27 05:17:25'
+ai_date: 2025-04-27 05:17:25
 ai_summary: Exploited biased random number generator to guess characters in ciphertext
 ai_tags:
-- rsa
-- bias
-- frequency-analysis
+  - rsa
+  - bias
+  - frequency-analysis
 created: 2024-07-21T16:04
-updated: 2024-07-22T08:50
+updated: 2025-07-14T09:46
 ---
 
 I found out that 0 appears very often, and hence can be used to find the true data.

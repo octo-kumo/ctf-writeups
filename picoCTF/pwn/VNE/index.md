@@ -1,12 +1,11 @@
 ---
-ai_date: '2025-04-27 05:29:54'
-ai_summary: Command injection vulnerability via `system()` function, exploiting with
-  command substitution to read flag
+ai_date: 2025-04-27 05:29:54
+ai_summary: Command injection vulnerability via `system()` function, exploiting with command substitution to read flag
 ai_tags:
-- cmd-inj
-- pwn
+  - cmd-inj
+  - pwn
 created: 2024-08-08T02:41
-updated: 2024-08-08T02:48
+updated: 2025-07-14T09:46
 ---
 
 How is it reading the folders I wonder?

@@ -1,17 +1,16 @@
 ---
-ai_date: '2025-04-27 05:22:33'
-ai_summary: Challenge involves recognizing A000111 sequence for given n, using Wolfram
-  Alpha to compute result modulo 10^9 + 7
+ai_date: 2025-04-27 05:22:33
+ai_summary: Challenge involves recognizing A000111 sequence for given n, using Wolfram Alpha to compute result modulo 10^9 + 7
 ai_tags:
-- math
-- sequence
-- brute-force
+  - math
+  - sequence
+  - brute-force
 created: 2024-06-14T14:44
 points: 465
 solves: 74
 tags:
-- fav
-updated: 2024-08-04T19:44
+  - fav
+updated: 2025-07-14T09:46
 ---
 
 > Given an integer n (n ≤ 10, 000), QuickMaffs challenges you to find out how many permutations of the numbers 1 through n satisfy the following condition $$

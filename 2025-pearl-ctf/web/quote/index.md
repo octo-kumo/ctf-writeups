@@ -1,13 +1,12 @@
 ---
-ai_date: '2025-04-27 05:27:22'
-ai_summary: SQL Injection vulnerability in user registration, allowing bypassing JWT
-  algorithm check
+ai_date: 2025-04-27 05:27:22
+ai_summary: SQL Injection vulnerability in user registration, allowing bypassing JWT algorithm check
 ai_tags:
-- sql
-- injection
-- xss
+  - sql
+  - injection
+  - xss
 created: 2025-03-07T15:57
-updated: 2025-04-19T08:02
+updated: 2025-07-14T09:46
 ---
 
 Notice that the algorithm is fetched from database, so how do we change the algorithm to none?

@@ -1,17 +1,16 @@
 ---
-ai_date: '2025-04-27 05:20:44'
-ai_summary: Excel macro exploitation involving character manipulation and solver constraints
-  to reveal flag
+ai_date: 2025-04-27 05:20:44
+ai_summary: Excel macro exploitation involving character manipulation and solver constraints to reveal flag
 ai_tags:
-- xss
-- macro
-- solver
+  - xss
+  - macro
+  - solver
 created: 2024-08-04T06:07
 points: 431
 solves: 210
 tags:
-- vba
-updated: 2024-08-05T19:42
+  - vba
+updated: 2025-07-14T09:46
 ---
 
 `xlsm`'s `m` stands for macro. This excel file has macros in it.

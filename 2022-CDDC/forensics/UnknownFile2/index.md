@@ -1,12 +1,12 @@
 ---
-ai_date: '2025-04-27 05:11:06'
+ai_date: 2025-04-27 05:11:06
 ai_summary: Found PKZip signature, indicating a potential archive exploitation technique.
 ai_tags:
-- zip
-- decomp
-- payload
+  - zip
+  - decomp
+  - payload
 created: 2024-06-11T01:17
-updated: 2024-07-07T23:08
+updated: 2025-07-14T09:46
 ---
 
 Opening the file with a hex editor shows us that it is perhaps a PK zip

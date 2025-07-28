@@ -1,17 +1,16 @@
 ---
-ai_date: '2025-04-27 05:23:05'
-ai_summary: Brute-forced AES encryption by iterating through key and IV values to
-  find the correct combination that decrypted the flag.
+ai_date: 2025-04-27 05:23:05
+ai_summary: Brute-forced AES encryption by iterating through key and IV values to find the correct combination that decrypted the flag.
 ai_tags:
-- brute
-- aes
-- cipher
+  - brute
+  - aes
+  - cipher
 created: 2024-06-22T01:50
 points: 125
 solves: 453
 tags:
-- aes
-updated: 2024-08-05T19:30
+  - aes
+updated: 2025-07-14T09:46
 ---
 
 I don't know AES, but I know brute force.

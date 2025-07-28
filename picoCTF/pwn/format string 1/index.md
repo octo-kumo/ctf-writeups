@@ -1,12 +1,12 @@
 ---
-ai_date: '2025-04-27 05:29:15'
+ai_date: 2025-04-27 05:29:15
 ai_summary: Flag found in memory using `%lx` format string
 ai_tags:
-- fmt-str
-- rop
-- xss
+  - fmt-str
+  - rop
+  - xss
 created: 2024-08-08T01:57
-updated: 2024-08-08T02:30
+updated: 2025-07-14T09:46
 ---
 
 The flag itself is also in memory, in that case we can just spam `%x`

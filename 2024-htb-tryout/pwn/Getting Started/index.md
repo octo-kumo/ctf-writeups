@@ -1,15 +1,14 @@
 ---
-ai_date: '2025-04-27 05:16:23'
-ai_summary: Exploited buffer overflow by overwriting target value with 'A' bytes and
-  changing alignment using 'B' bytes
+ai_date: 2025-04-27 05:16:23
+ai_summary: Exploited buffer overflow by overwriting target value with 'A' bytes and changing alignment using 'B' bytes
 ai_tags:
-- buffer-overflow
-- rop
-- ret2stack
+  - buffer-overflow
+  - rop
+  - ret2stack
 created: 2024-07-17T02:24
 points: 975
 solves: 129
-updated: 2024-08-04T19:33
+updated: 2025-07-14T09:46
 ---
 
 Wow didn't expect it to be a tutorial that I very much need.
