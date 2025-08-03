@@ -5,11 +5,12 @@ description: AI flag checker (hard)
 ---
 
 ## post mortem
+
 Yay! non-zero solves!
 
 The one thing I messed up was the final score, because the original challenge was not linear layers, it was a CNN which was much smaller in size, and is also more accurate.
 
-However my intended solution of generating a image just by passing a `1050*51` image over and over to get the flag didn't work. I should've just tried to solve it with other algorithms like the other player did, which actually uses the font data, but it was late in the night and also approaching the tart of the CTF, so I just made a new model that is fully linear, hopefully making the adversarial attack easier.
+However my intended solution of generating a image just by passing a `1050*51` image over and over to get the flag didn't work. I should've just tried to solve it with other algorithms like the other player did, which actually uses the font data, but it was late in the night and also approaching the start of the CTF, so I just made a new model that is fully linear, hopefully making the adversarial attack easier.
 
 But I still messed up the font rendering part, this caused the glyphs to not match the training code, this caused the score to be low (~0.1). I couldn't figure out the solution in time, so I just lowered the required score to pass the password check.
 
@@ -602,10 +603,13 @@ wwf{wait___it_is_a_ai_challenge??_always_has_been}
 > I accepted both flags
 
 ## other solutions
+
 ### Beam Search (@5h1kh4r)
+
 Do a beam search by iteratively scoring rendered candidate flags.
 
 ### greedy (@grok)
+
 I tried using grok to solve the challenge after `upx -d --lzma`, it managed to solve everything basically.
 
 > This is the decompiled code of a CTF challenge, it accepts a 50 char flag and checks it. It is a 50MB binary but this is most of the code already, there aren't that much code in the binary. Please read the code carefully, figure out what it is doing, and help me solve for the flag. If there are assets to extract, tell me their names and addresses.
@@ -642,7 +646,7 @@ def forward_pass(flag):
         patch = patch.astype(np.float32) * 0.0078431377 - 1.0
         col_start = 21 * k + v22
         buffer[v24:v24+v19, col_start:col_start+v18] = patch
-    
+
     x = buffer.flatten()
     x = np.maximum(w1 @ x + b1, 0)  # Layer 1 + ReLU
     x = np.maximum(w2 @ x + b2, 0)   # Layer 2 + ReLU
@@ -668,4 +672,5 @@ print("Flag:", "".join(flag), "Score:", best_score)
 ```
 
 ### look at the weights (@unknown)
+
 Someone just drew all of layer 1's weights out and apparently one of them contained the flag.
