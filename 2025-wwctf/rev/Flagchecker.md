@@ -8,9 +8,11 @@ description: AI flag checker (hard)
 
 Yay! non-zero solves!
 
-The one thing I messed up was the final score, because the original challenge was not linear layers, it was a CNN which was much smaller in size, and is also more accurate.
+The one thing I messed up was the final score, because the original challenge was not linear layers, it was a CNN which was much smaller in size, and is also more accurate, and is also tolerant to random character positioning.
 
-However my intended solution of generating a image just by passing a `1050*51` image over and over to get the flag didn't work. I should've just tried to solve it with other algorithms like the other player did, which actually uses the font data, but it was late in the night and also approaching the start of the CTF, so I just made a new model that is fully linear, hopefully making the adversarial attack easier.
+This means that the original challenge also adds random character shifts, and even a box blur, which are all allowed by the CNN.
+
+However my intended solution of generating a image just by passing a `1050*51` image over and over to get the flag didn't work. It would just generate a grey noisy image. I should've just tried to solve it with other algorithms like the other player did, which actually uses the font data, but it was late in the night and also approaching the start of the CTF, so I just made a new model that is fully linear, hopefully making the adversarial attack easier.
 
 But I still messed up the font rendering part, this caused the glyphs to not match the training code, this caused the score to be low (~0.1). I couldn't figure out the solution in time, so I just lowered the required score to pass the password check.
 
