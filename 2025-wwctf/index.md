@@ -1,7 +1,8 @@
 ---
 created: 2025-07-28T01:38
-updated: 2025-07-28T07:56
+updated: 2025-08-24T10:52
 team: wwf
+title: World Wide CTF 2025 Official Writeups
 ---
 
 Sadly the big teams went for UIUCTF.
