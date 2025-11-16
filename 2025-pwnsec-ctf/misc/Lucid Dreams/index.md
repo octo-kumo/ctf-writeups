@@ -1,16 +1,17 @@
 ---
 created: 2025-11-16T05:15
-updated: 2025-11-16T08:18
+updated: 2025-11-16T10:11
 tags:
   - blood
 description: yet rous’d we must be, when all such dreaming ends
 points: 495
 solves: 1
+title: Lucid Dreams
 ---
 
 We are given a file `dream.arrow`
 
-``` [dream.arrow]
+```[dream.arrow]
 00000000: 4152 524f 5731 0000 ffff ffff 5022 0000  ARROW1......P"..
 00000010: 1000 0000 0000 0a00 0e00 0600 0500 0800  ................
 00000020: 0a00 0000 0001 0400 1000 0000 0000 0a00  ................
@@ -18,7 +19,7 @@ We are given a file `dream.arrow`
 00000040: 0400 0000 0100 0000 0c00 0000 0800 0c00  ................
 00000050: 0400 0800 0800 0000 a818 0000 0400 0000  ................
 00000060: 9a18 0000 7b22 696e 6465 785f 636f 6c75  ....{"index_colu
-00000070: 6d6e 7322 3a20 5b7b 226b 696e 6422 3a20  mns": [{"kind": 
+00000070: 6d6e 7322 3a20 5b7b 226b 696e 6422 3a20  mns": [{"kind":
 00000080: 2272 616e 6765 222c 2022 6e61 6d65 223a  "range", "name":
 00000090: 206e 756c 6c2c 2022 7374 6172 7422 3a20   null, "start":
 ...
@@ -71,6 +72,7 @@ This is a very clear hint that we need to do clean up.
 ![image.png](https://res.cloudinary.com/kumonochisanaka/image/upload/v1763290615/20251116055655365.png/511e4c887baf25ab99717861f0c46187.png)
 
 ### characters
+
 From just a glance, we can see that `c14` is binary, `c1` is hex, some columns seem to be normal, and all the columns have random `None` entries. Each column also appears to have consistent encoding.
 
 ```python
@@ -200,16 +202,16 @@ table = pd.DataFrame(out).fillna(0)
 table
 ```
 
-| |voh|top1|top2|top3|top4|top5|
-|---|---|---|---|---|---|---|
-|0|0|_ (9.3%)|e (9.0%)|t (6.5%)|n (6.1%)|a (6.1%)|
-|1|1|_ (14.2%)|e (8.2%)|o (7.9%)|l (7.6%)|r (5.6%)|
-|2|2|_ (12.6%)|s (9.6%)|i (7.7%)|e (7.6%)|n (7.1%)|
-|3|3|_ (8.6%)|e (7.4%)|s (7.1%)|n (6.4%)|a (5.8%)|
-|4|4|_ (10.0%)|e (9.0%)|i (6.8%)|s (6.3%)|n (6.0%)|
-|5|5|_ (14.0%)|e (10.4%)|a (8.0%)|i (6.7%)|s (5.6%)|
-|6|6|_ (14.4%)|s (9.8%)|e (8.2%)|o (5.2%)|r (4.9%)|
-|7|7|_ (9.3%)|e (8.4%)|a (7.7%)|t (6.6%)|i (6.1%)|
+|     | voh | top1       | top2      | top3     | top4     | top5     |
+| --- | --- | ---------- | --------- | -------- | -------- | -------- |
+| 0   | 0   | \_ (9.3%)  | e (9.0%)  | t (6.5%) | n (6.1%) | a (6.1%) |
+| 1   | 1   | \_ (14.2%) | e (8.2%)  | o (7.9%) | l (7.6%) | r (5.6%) |
+| 2   | 2   | \_ (12.6%) | s (9.6%)  | i (7.7%) | e (7.6%) | n (7.1%) |
+| 3   | 3   | \_ (8.6%)  | e (7.4%)  | s (7.1%) | n (6.4%) | a (5.8%) |
+| 4   | 4   | \_ (10.0%) | e (9.0%)  | i (6.8%) | s (6.3%) | n (6.0%) |
+| 5   | 5   | \_ (14.0%) | e (10.4%) | a (8.0%) | i (6.7%) | s (5.6%) |
+| 6   | 6   | \_ (14.4%) | s (9.8%)  | e (8.2%) | o (5.2%) | r (4.9%) |
+| 7   | 7   | \_ (9.3%)  | e (8.4%)  | a (7.7%) | t (6.6%) | i (6.1%) |
 
 ![image.png](https://res.cloudinary.com/kumonochisanaka/image/upload/v1763292895/20251116063455136.png/0fd4f6295e6907ddd63dfe582bbca55d.png)
 

@@ -1,8 +1,9 @@
 ---
 created: 2025-11-15T16:59
-updated: 2025-11-16T09:51
+updated: 2025-11-16T10:11
 solves: 31
 points: 345
+title: OhMyPP
 ---
 
 We get a free prototype pollution, how do we exploit it?
