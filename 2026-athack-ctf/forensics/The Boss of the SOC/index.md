@@ -1,6 +1,8 @@
 ---
 created: 2026-03-07T20:38
-updated: 2026-03-08T15:29
+updated: 2026-03-11T04:22
+points: 880
+solves: 4
 ---
 
 ## The Boss of the SOC 1

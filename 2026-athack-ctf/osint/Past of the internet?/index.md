@@ -1,5 +1,8 @@
 ---
 created: 2026-03-08T05:07
+points: 80
+solves: 22
+title: Past of the internet?
 updated: 2026-03-08T15:12
 ---
 

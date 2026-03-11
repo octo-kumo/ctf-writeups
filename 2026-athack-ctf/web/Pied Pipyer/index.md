@@ -1,5 +1,8 @@
 ---
 created: 2026-03-08T12:07
+points: 180
+solves: 17
+title: Pied Pipyer
 updated: 2026-03-08T12:30
 ---
 

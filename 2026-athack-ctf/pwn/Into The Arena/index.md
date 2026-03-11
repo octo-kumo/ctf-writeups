@@ -1,5 +1,8 @@
 ---
 created: 2026-03-07T16:44
+points: 180
+solves: 17
+title: Into The Arena
 updated: 2026-03-08T12:37
 ---
 

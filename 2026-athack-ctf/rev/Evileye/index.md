@@ -1,5 +1,8 @@
 ---
 created: 2026-03-07T11:51
+points: 50
+solves: 36
+title: Evileye
 updated: 2026-03-07T12:17
 ---
 

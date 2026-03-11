@@ -1,6 +1,8 @@
 ---
 created: 2026-03-07T16:59
-updated: 2026-03-08T12:38
+updated: 2026-03-11T04:22
+points: 550
+solves: 10
 ---
 
 ## RFID - Kevin X - 1

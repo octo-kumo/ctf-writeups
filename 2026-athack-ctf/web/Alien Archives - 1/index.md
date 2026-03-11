@@ -1,5 +1,8 @@
 ---
 created: 2026-03-07T11:27
+points: 50
+solves: 56
+title: Alien Archives - 1
 updated: 2026-03-07T11:38
 ---
 
